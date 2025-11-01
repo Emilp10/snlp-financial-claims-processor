@@ -1,0 +1,5 @@
+title: Best Stock to Buy Right Now: Target vs. Walmart
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=7b7f3e974f25636bca9584cf7a39e348f73c0ca7ae9552e6d4a4a3d3b7389423
+These retail giants have seen their trajectories take different paths in recent years.

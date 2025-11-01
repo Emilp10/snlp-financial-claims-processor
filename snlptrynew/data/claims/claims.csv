@@ -1,0 +1,4 @@
+claim_id,claim_text,label,claim_date,evidence_urls,notes
+C001,"Tesla acquired Lucid Motors in 2025",False,2025-10-15,"https://www.reuters.com/...;https://www.sec.gov/...","No filings"
+C002,"CPI YoY rose to 3.2% in Sep 2025 (US)",True,2025-10-15,"https://www.bls.gov/cpi/...","BLS release"
+C003,"RBI cut repo rate by 50 bps in Oct 2025",Misleading,2025-10-10,"https://www.rbi.org.in/...","It was 25 bps"

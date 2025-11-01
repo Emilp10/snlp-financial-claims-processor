@@ -1,0 +1,5 @@
+title: Symbotic Trades Near 52-Week High: Is the Stock Still a Buy?
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=54f7ff61eb37df2f04efe01c4f3f1bcb8db5d76652ae9c70a4e8d3e445de5b62
+SYM trades near its 52-week high after a 204.5% surge this year, driven by strong backlog, solid guidance and a key robotics deal.

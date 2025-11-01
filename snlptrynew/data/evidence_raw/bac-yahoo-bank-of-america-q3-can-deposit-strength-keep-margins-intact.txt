@@ -1,0 +1,5 @@
+title: Bank of America Q3: Can Deposit Strength Keep Margins Intact?
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=99fc93eff847425ab1e62e48282b5cfce508d0b86b990ea0bf42cfcec1c0c0fe
+With rates easing, investors want to know if lower funding costs will lift profits or squeeze spreads.

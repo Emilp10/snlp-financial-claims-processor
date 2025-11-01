@@ -1,0 +1,5 @@
+title: ASML Just Shared Fantastic News for Nvidia, Broadcom, and AMD Investors
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=10a159588f45ae6e269cfe431cb1920a953cf8c885a2fabcd011e7a9852b9d35
+ASML's most advanced machines are dominating its order volumes.

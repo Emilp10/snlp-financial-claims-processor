@@ -1,0 +1,15 @@
+{
+  "earningsCalendar": [
+    {
+      "date": "2025-10-22",
+      "epsActual": 0.5,
+      "epsEstimate": 0.5492,
+      "hour": "amc",
+      "quarter": 3,
+      "revenueActual": 28095000000,
+      "revenueEstimate": 26764280962,
+      "symbol": "TSLA",
+      "year": 2025
+    }
+  ]
+}

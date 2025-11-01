@@ -1,0 +1,5 @@
+title: Energy Robotics Secures $13.5 Million Series A to Scale Critical Infrastructure Inspections with AI + Robotics
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=b1deee86a32e717ce54d4d8f09aeedfccf2de359e38f9de3437ce994a578989d
+Energy Robotics, the leading AI software platform for autonomous inspection with robots and drones, today announced the successful close of $13.5m of Series A funding. Energy Robotics has completed over one million inspections across five continents, saving 32,000+ hours of hazardous human labor for customers across oil and gas, industrial, chemical, and utility sectors, including Shell, BP, Repsol, BASF, Merck and E.ON. This funding cements the company's position as a market leader of full-stac

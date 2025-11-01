@@ -1,0 +1,5 @@
+title: Lockheed Wins $647M Deal to Produce & Support Trident II D5 Missiles
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=0482d6a457b8b8284e8cf607daf91116bda82ea1b4f1f4ba6be4f7fa26b7fdf3
+LMT lands a $647 million deal to produce and support Trident II D5 missiles, extending its missile leadership.

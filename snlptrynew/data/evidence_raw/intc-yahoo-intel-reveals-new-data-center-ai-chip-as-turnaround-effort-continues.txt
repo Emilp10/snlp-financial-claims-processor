@@ -1,0 +1,5 @@
+title: Intel reveals new data center AI chip as turnaround effort continues
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=5e497f21fdc987ed36513b97707bf0e4d4d3597e66ebe6dfd58412dcfad9f82b
+Intel unveiled its new data center AI GPU on Tuesday as the company continues its turnaround effort.

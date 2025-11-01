@@ -1,0 +1,5 @@
+title: Dow Jones Futures: Tesla Earnings Miss, Elon Musk Due; AI Stocks Under Pressure
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=8b718e036ccddb83ca1ae5ed2fbe4b1eeb31169e8e338d1067301e2170ff0cfc
+Tesla earnings missed but Elon Musk is on tap. The key indexes fell Wednesday as AI stock leaders came under pressure.

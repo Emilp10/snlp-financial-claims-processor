@@ -1,0 +1,5 @@
+title: Cybersecurity expert offers blunt verdict on AWS outage
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=26b48cd48b6ccd48c6d432f43128e0899ebc1aa209492cac6f2a4209f295093f
+For what felt like forever on Monday, Oct. 21, the internet’s pulse flatlined. Food-delivery apps froze, Fortnite gamers got booted mid-battle, and Venmo payments disappeared mid-transfer. Most would have guessed a massive cyberattack or hack, but it turned out to be something far more ...

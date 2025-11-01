@@ -1,0 +1,5 @@
+title: Nasdaq, S&P 500 Fall as Trump Threatens China With Cooking Oil Purchase Ban
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=0db77c8f1c9f7c7329502b72b519469babc0d9c92e9118b4ee83be2b6315fae4
+The Nasdaq Composite and the S&P 500 declined on Tuesday after President Donald Trump threatened to

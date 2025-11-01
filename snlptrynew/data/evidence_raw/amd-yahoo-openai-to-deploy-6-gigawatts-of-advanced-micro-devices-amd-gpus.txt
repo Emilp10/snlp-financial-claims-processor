@@ -1,0 +1,5 @@
+title: OpenAI to Deploy 6 Gigawatts of Advanced Micro Devices (AMD) GPUs
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=36711c5b2cde1a9b931039ba35fb20959045280a979a44f30572e0b777dd35f4
+​Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Hottest Mega-Cap Stocks of 2025. On October 6, Advanced Micro Devices, Inc. (NASDAQ:AMD) announced a strategic partnership with OpenAI to deploy 6 Gigawatts of AMD GPUs. These GPUs will power OpenAI’s next-generation AI Infrastructure. ​This is a multigeneration agreement with the first gigawatt deployment of AMD […]

@@ -1,0 +1,5 @@
+title: Ford Stock Is Down on Aluminum Shortage. The Pain Has Already Been Felt.
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=88e623ccd9466f635c8ec54cffbbc71df7e6c6fed565ea992244ac8d79671775
+In a year with tariffs, trade wars, and changing electric-vehicle policies,  Ford Motor  investors have another thing to worry about: aluminum.  Monday, The Wall Street Journal reported that Ford was reducing production of five SUV models, following a September fire at a Novelis facility in New York.  Novelis, a large supplier of aluminum sheet to the auto industry, says its plant is expected to be off line until 2026, which leaves auto makers scrambling for alternatives.

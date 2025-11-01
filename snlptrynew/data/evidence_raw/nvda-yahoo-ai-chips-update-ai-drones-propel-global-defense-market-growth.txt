@@ -1,0 +1,5 @@
+title: AI Chips Update - AI Drones Propel Global Defense Market Growth
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=64890793e042014f29e044a65652e642a4c4bbc46762d2020442785ffacfc921
+The U.S. government's escalating investment in defense contracts for drones and artificial intelligence is set to propel the global military drone market towards a projected valuation of $47 billion by 2032. This growth is driven by a recent $33 billion allocation for unmanned systems and AI initiatives, with $16 billion specifically earmarked for AI projects across governmental sectors. The integration of AI with military drones is enhancing autonomous functionalities, which includes...

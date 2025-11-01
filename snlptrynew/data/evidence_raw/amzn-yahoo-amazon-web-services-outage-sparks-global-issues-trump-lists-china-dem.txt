@@ -1,0 +1,5 @@
+title: Amazon Web Services outage sparks global issues, Trump lists China demands
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=5e17d1edc291f19d204d226b90151bda419f666adff424f93c35a2dbaa76a67b
+A massive Amazon Web Services (AMZN) outage has sparked issues on websites across the globe. Impacted sites include Coinbase (COIN), Robinhood (HOOD), and Roblox (RBLX). AWS services have started to come back online. President Trump has laid out a list of demands China must meet before the countries resume trade talks. They include buying more US soybeans. For more Morning Brief: Market Sunrise click here.

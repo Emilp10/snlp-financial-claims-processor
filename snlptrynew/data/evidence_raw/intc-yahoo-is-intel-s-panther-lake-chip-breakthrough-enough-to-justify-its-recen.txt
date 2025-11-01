@@ -1,0 +1,5 @@
+title: Is Intel's Panther Lake Chip Breakthrough Enough to Justify Its Recent 53% Stock Surge?
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=ce4563c4d4ac76e31f50f7b577aed4596db6bc4b544be009d71bd772187687de
+Deciding what to do with Intel stock right now? You are not alone. Over the past month, shares of Intel have raced higher by nearly 53%, with a robust 4.1% gain in just the past week. Year-to-date, Intel is up a staggering 85.1%, a clear signal that investors are reevaluating the company’s prospects following a bruising few years that saw its five-year total return still deep in the red at -22.1%. What changed? For starters, Intel is making headlines with its ambitious push into next-gen chip...

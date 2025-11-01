@@ -1,0 +1,5 @@
+title: Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=c703c0877e7447f4c8eeda5586c3bd191b66dda13649bf357fcca9bea73c8804
+Nvidia, AMD, and Broadcom are the most talked-about companies in AI. JPMorgan still believes investors don't grasp how much these three enterprises are worth, even after many big mergers, Wall Street upgrades, and values in the trillions of dollars. On a new note, analyst Harlan Sur says that the ...

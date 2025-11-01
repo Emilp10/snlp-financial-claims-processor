@@ -1,0 +1,5 @@
+title: Compal Showcases Comprehensive Data Center Solutions at 2025 OCP Global Summit; Unveils SGX30-2 High-Performance AI Server Built with NVIDIA HGX™ B300
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=a8241155b48f8dbb33f2095acd1e111714d5662ef34c658456b40ff84969d189
+Global data centers are facing new challenges driven by AI – greater compute demand, larger working sets, and more stringent energy efficiency requirements. At this year's OCP Global Summit, Compal Electronics (Compal; Ticker: 2324.TW) presented a comprehensive vision for the data center of the future, delivering end-to-end solutions that cover compute, memory, and cooling.

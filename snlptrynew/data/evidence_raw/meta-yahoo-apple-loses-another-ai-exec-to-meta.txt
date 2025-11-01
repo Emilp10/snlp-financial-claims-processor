@@ -1,0 +1,5 @@
+title: Apple loses another AI exec to Meta
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=ae711baa95b000d70d183924c1a76008f1e6baea907b34f7dc06b0293de8a944
+Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.

@@ -1,0 +1,5 @@
+title: Intel (INTC) Laps the Stock Market: Here's Why
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=94ec3d0722a6f32fb5bfd6b8d7c80d7e0a9f131e008341c1ec755f9b14910ad7
+In the latest trading session, Intel (INTC) closed at $37.22, marking a +2.34% move from the previous day.

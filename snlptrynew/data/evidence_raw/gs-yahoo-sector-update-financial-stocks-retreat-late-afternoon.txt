@@ -1,0 +1,5 @@
+title: Sector Update: Financial Stocks Retreat Late Afternoon
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=80a1a6b2526a08291964e110f326728e6982ea4ee3f86e7dd3fac865aba97789
+Financial stocks fell in late Friday afternoon trading with the NYSE Financial Index and the Financi

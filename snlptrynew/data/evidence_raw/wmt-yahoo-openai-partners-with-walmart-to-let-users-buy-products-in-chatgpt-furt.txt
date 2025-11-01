@@ -1,0 +1,5 @@
+title: OpenAI partners with Walmart to let users buy products in ChatGPT, furthering chatbot shopping push
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=2064834870dbf7edc25a6cb6e74113d9b80b0a46865a49980f1c744af3d85679
+OpenAI is partnering with Walmart to let shoppers make purchases directly within ChatGPT, furthering the artificial intelligence company's push to turn its chatbot into a virtual merchant as it seeks to boost revenue.  In an Tuesday announcement, Walmart said the new offering will give customers the option to “simply chat and buy."  “For many years now, eCommerce shopping experiences have consisted of a search bar and a long list of item responses," Walmart CEO Doug McMillon said in a prepared statement.

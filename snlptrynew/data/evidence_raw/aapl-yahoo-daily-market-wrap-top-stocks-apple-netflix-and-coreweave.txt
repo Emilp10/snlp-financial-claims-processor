@@ -1,0 +1,5 @@
+title: Daily Market Wrap - Top Stocks: Apple, Netflix and CoreWeave
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=1b007b0104c20c80a39b813967c3ecb7c701563a21a226d5dcda6510e5bec7e8
+The Amazon Web Services outage disrupted work during the Monday morning rush hour, but it did little to dampen Wall Street’s momentum. The market surged across the board, led by strong gains in Apple and optimism ahead of a heavy earnings week. The S&P 500 was up 1.1% at closing; credit Apple, ...

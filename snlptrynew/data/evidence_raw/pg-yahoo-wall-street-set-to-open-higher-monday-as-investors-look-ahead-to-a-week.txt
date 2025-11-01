@@ -1,0 +1,5 @@
+title: Wall Street Set to Open Higher Monday as Investors Look Ahead to a Week of Earnings Reports
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=02a58d062b75c9387906e27779af7561de13c070c117961081b72d180cbaca38
+US stocks look set to open higher in Monday's trading session ahead of a raft of earnings coming out

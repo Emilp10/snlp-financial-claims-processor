@@ -1,0 +1,5 @@
+title: How Securing a Major AI Client for 18A Chips At Intel (INTC) Has Changed Its Investment Story
+source: Yahoo
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=c60e3dbf95ebed448ae7ceb17bf732f9bae2c3a26c27bee4e148cc00d4e942e6
+Industry sources reported in the past week that Intel’s foundry division has secured a significant artificial intelligence client, likely Microsoft, for its advanced 18A/AP chip manufacturing process, marking important progress for the company’s external customer strategy. This development signals that Intel is gaining traction in advanced chip manufacturing for AI applications, highlighting a tangible step forward in its efforts to compete with established players in the semiconductor...

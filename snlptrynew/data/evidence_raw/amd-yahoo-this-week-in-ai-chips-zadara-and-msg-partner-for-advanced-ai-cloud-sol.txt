@@ -1,0 +1,5 @@
+title: This Week In AI Chips - Zadara And MSG Partner For Advanced AI Cloud Solutions
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=71f00545f3b4ce1e4932216d9d7907595cb16f1126300cd3569d499f05522752
+Recent developments in the AI chip industry include a strategic partnership between Zadara and Micro Support Group (MSG), aimed at delivering advanced AI-ready cloud solutions. This collaboration will offer enterprises in the Northeast United States access to Zadara-powered multi-tenant AI clouds and sovereign clouds, bolstered by NVIDIA GPUs. The partnership is designed to modernize IT infrastructures with secure, resilient, and cost-effective platforms while providing a viable alternative...

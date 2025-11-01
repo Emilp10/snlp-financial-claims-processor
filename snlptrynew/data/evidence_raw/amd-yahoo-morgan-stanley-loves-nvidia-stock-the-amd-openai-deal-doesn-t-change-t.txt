@@ -1,0 +1,5 @@
+title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=4481f578752ad4c27122c0689312302d37d19ff502fb57973bd124d480b09cea
+Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.

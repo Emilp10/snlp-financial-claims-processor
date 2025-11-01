@@ -1,0 +1,5 @@
+title: Shares in Oil Companies Advance
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=1d6f7f8646fab420b08f5ff17fcfd86590c41a843451deac3ff69e229fbceba2
+Shares of global energy companies rose after the U.S. imposed substantial new sanctions on Russia's oil giants, boosting benchmark crude-oil and natural-gas prices.    In the U.S., shares of Exxon Mobil (XOM), Occidental Petroleum (OXY) and Chevron (CVX) rose in morning trading.

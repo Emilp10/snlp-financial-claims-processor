@@ -1,0 +1,5 @@
+title: Ostberg Sinclair & Co adopts Intapp Collaboration to activate collective firm intelligence
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=a5efeb9c8d4567b921b526befa1e194073622d1dd92a9905ad68bc76b74a1b2e
+PALO ALTO, Calif., October 21, 2025--Ostberg Sinclair has integrated Intapp Collaboration with its existing Microsoft 365 applications to improve communications and document management.

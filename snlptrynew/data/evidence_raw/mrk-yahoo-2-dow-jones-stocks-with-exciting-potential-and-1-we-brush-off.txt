@@ -1,0 +1,5 @@
+title: 2 Dow Jones Stocks with Exciting Potential and 1 We Brush Off
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=f0351241000f4aaf2a5457406c4f455c58a0ae8264743af6ef8e8ced61d40884
+The Dow Jones (^DJI) is home to corporate giants, but size alone doesn’t guarantee success. A few of these companies are struggling with weak fundamentals, paradigm shifts, or poor execution.

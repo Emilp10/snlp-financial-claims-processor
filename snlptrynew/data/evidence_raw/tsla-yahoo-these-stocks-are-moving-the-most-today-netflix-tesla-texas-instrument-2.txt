@@ -1,0 +1,5 @@
+title: These Stocks Are Moving the Most Today: Netflix, Tesla, Texas Instruments, AT&T, Intuitive Surgical, Amphenol, GE Vernova, and More
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=04ede71f56e0592179e16e4489a08ce9b69f4496a074559dbe74e74198b331c2
+Netflix falls after third-quarter earnings miss analysts’ estimates while Texas Instruments tumbles following a disappointing forecast.

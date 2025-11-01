@@ -1,0 +1,5 @@
+title: Market Chatter: Boeing Planning to Increase 737 Max Production From October
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=5ec4d7d62bd3ff1a2933e1851fecebedc1a4eb8d72e81f82ee73dbc5c9ab50ea
+Boeing (BA) is planning to increase 737 Max output to 42 jets per month as early as this month and i

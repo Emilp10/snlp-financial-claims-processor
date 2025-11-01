@@ -1,0 +1,5 @@
+title: US Equity Indexes Rebound After Bessent Calms China Trade Tensions
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=d796c454ce2299c19adb03dc2d90f6f26b8995c8328b00bc282811bead23d7b3
+US equity indexes rose at Monday's close after US Treasury Secretary Scott Bessent breathed positivi

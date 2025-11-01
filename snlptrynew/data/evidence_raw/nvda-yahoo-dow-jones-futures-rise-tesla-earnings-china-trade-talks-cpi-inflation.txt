@@ -1,0 +1,5 @@
+title: Dow Jones Futures Rise; Tesla Earnings, China Trade Talks, CPI Inflation Ahead
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=c8326e5e00db7bb353b9c97a2967e244a48be8ecf624bdfa90630da32c6e8260
+A choppy market is dangerous for active investors. Tesla and GE Aerospace are near buy points with earnings due.

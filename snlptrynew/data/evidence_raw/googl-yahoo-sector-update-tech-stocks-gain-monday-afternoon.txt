@@ -1,0 +1,5 @@
+title: Sector Update: Tech Stocks Gain Monday Afternoon
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=502fb01e1bedea17e476cd6bdb4c41c02baf1b2ea8a85c2a585bc0f013493219
+Tech stocks were higher Monday afternoon, with the Technology Select Sector SPDR Fund (XLK) rising 1

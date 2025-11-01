@@ -1,0 +1,5 @@
+title: Sector Update: Consumer Stocks Mixed Late Afternoon
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=10c550e5586a4a73c29780ea6092d73c3cd1f8b3ca44532bd57bae8bcf39d747
+Consumer stocks were mixed late Tuesday afternoon with the Consumer Staples Select Sector SPDR Fund

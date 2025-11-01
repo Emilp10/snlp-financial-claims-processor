@@ -1,0 +1,5 @@
+title: S&P 500 Futures Rise as Trade Hopes Lift Sentiment
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=f8bee9f6b50ed4e363b0842d68bd0f510f16dbc4394576ecf107160002f1fa6f
+The Morning Bull - US Market Morning Update Thursday, Oct, 16 2025 US stock futures are pointing higher this morning, as investors cheer easing trade tensions with China and the prospect of continued Federal Reserve rate cuts. However, the ongoing government shutdown and delays in key economic data are keeping a cloud of uncertainty over the outlook. Focus is turning to how these developments may influence policy expectations and risk appetite across the broader market. With uncertainty...

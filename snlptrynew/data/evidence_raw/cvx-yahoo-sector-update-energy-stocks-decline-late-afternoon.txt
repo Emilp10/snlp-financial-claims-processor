@@ -1,0 +1,5 @@
+title: Sector Update: Energy Stocks Decline Late Afternoon
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=42076e6152bd877bd50b795885685669b9fb74bb16f85c79b31e90961e153ba5
+Energy stocks fell late Tuesday afternoon with the NYSE Energy Sector Index decreasing 0.4% and the

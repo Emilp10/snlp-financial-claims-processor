@@ -1,0 +1,5 @@
+title: Prediction: This Semiconductor Stock Will Beat Nvidia in 2026
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=4cd964d789311de6bf170d7fb3c683513c856f3f3cc51d5506124d366b2dcd52
+This Nvidia competitor has just won a big contract.

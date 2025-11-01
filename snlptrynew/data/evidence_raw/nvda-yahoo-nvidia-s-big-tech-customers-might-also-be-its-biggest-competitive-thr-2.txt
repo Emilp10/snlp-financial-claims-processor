@@ -1,0 +1,5 @@
+title: Nvidia's Big Tech customers might also be its biggest competitive threat
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=15bc03c8f03d5ae620f264141d3343c4d7cc6ba2407bdc2f180185984061f276
+Google, Amazon, Microsoft, and OpenAI are forging ahead with their in-house chip design efforts.

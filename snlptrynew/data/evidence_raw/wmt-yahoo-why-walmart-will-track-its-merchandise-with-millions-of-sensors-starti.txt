@@ -1,0 +1,5 @@
+title: Why Walmart will track its merchandise with millions of sensors starting this year
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=bc387d155fb988af1567139689634054c49a9bebbf4f8f052454bfc2d29da2a2
+The retail giant is deploying ambient sensors on pallets to gather supply chain data from its massive network, which will feed its AI systems.

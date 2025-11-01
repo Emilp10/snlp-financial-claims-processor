@@ -1,0 +1,5 @@
+title: Trending tickers: Praxis, Western Alliance, Rigetti, Micron and Smiths
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=411168518b4a60de7db432080fb5c4aad4004b90fbd1457e0b0572d27eb3a861
+The latest investor updates on stocks that are trending on Friday.

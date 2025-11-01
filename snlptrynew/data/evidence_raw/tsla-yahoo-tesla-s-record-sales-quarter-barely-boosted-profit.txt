@@ -1,0 +1,5 @@
+title: Tesla’s record sales quarter barely boosted profit
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=4b9600021ea968b548fb73925b99df1a591ed6e6eee5bbf0ff589fd589b221ad
+Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.

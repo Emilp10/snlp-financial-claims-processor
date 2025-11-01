@@ -1,0 +1,5 @@
+title: IAS LAUNCHES FIRST AI-DRIVEN, INDEPENDENT BRAND SAFETY AND SUITABILITY MEASUREMENT FOR META THREADS
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=b6a1efaf848e307b4908996f4ac3af314e6d09233048dc6149ac401e4d8c57db
+Integral Ad Science (Nasdaq: IAS), a leading global media measurement and optimization platform, today announced it is expanding Total Media Quality (TMQ) for Meta to bring third-party, independent Brand Safety & Suitability Measurement to Threads for the first time. Powered by IAS's best-in-class, AI-driven Multimedia Technology, which uses video, images, audio, and text signals to evaluate content at scale, Total Media Quality for Meta helps advertisers safeguard brand reputation and scale cam

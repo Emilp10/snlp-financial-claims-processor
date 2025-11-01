@@ -1,0 +1,5 @@
+title: Stock market today: Dow rises, but Nasdaq lags as investors assess flood of earnings
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=5531dba3e51be8c00ec4aaa2b16d6881ac9d765cb211fd42ba87efe94992ce69
+The Dow touched an intraday record high while the Nasdaq slipped as investors focused on a wave of quarterly earnings while remaining vigilant about US-China trade tensions.

@@ -1,0 +1,5 @@
+title: Intel Introduces Leading Edge Data Center GPU: Will it Boost Prospect?
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=ca29669b740ee7dfd943346c2a8a3b6789e9b5640c292fd30b7107e31bb1e2bb
+INTC's new Crescent Island GPU targets surging AI inference demand with cost-efficient, high-memory performance for enterprise data centers.

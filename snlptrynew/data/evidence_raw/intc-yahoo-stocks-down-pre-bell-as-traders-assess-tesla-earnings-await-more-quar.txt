@@ -1,0 +1,5 @@
+title: Stocks Down Pre-Bell as Traders Assess Tesla Earnings, Await More Quarterly Results
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=698d00b809570fb2a53bf504546ecce2ba3e0e63a0b827779864e45d04a11610
+US equity markets were trending lower before the opening bell Thursday as traders digest Tesla's (TS

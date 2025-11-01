@@ -1,0 +1,5 @@
+title: Health Care Roundup: Market Talk
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=1ed07af1702230c5a3fa783602ed0410a687958784cb4b41b915cb257476179a
+Find insight on Johnson & Johnson, Japanese pharmaceutical stocks and more in the latest Market Talks covering the health care sector.

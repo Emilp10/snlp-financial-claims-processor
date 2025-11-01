@@ -1,0 +1,5 @@
+title: Reddit sues Perplexity AI and others over alleged data scraping
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=d832b3dbbffcc0710a3c94cc72a50e847fb2d4da9355eeadc35ea87f6c9b0f71
+Investing.com -- Reddit Inc (NYSE:RDDT) has filed a lawsuit against Perplexity AI and three data scraping companies for allegedly collecting and using Reddit data without permission.

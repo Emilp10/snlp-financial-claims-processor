@@ -1,0 +1,5 @@
+title: General Motors: Thesis Update And Q3 Earnings Preview
+source: SeekingAlpha
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=9fde52bb1b910add13d72a73d449804ec2e33ea90ae40d31233e9a1e50977001
+General Motors (GM) is targeting a return to 8-10% adjusted EBIT margin, with current margin depressed by tariffs and macro headwinds.

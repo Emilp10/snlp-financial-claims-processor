@@ -1,0 +1,5 @@
+title: Trump says the US has secured $17 trillion in new investments. The real number is likely much less
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=aefe76814e2eb40dca9a5ce8693aa6e4a69c1e923806a5964d1240bdfcd9f01a
+The White House website lists total investments at $8.8 trillion, though that figure appears to be padded with some investment commitments made during Joe Biden's presidency.  The White House didn't lay out the math after multiple requests as to how Trump calculated $17 trillion in investment commitments.

@@ -1,0 +1,5 @@
+title: Sector Update: Energy Stocks Retreat Tuesday Afternoon
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=69ac2433298a0b2b9d1a5f8c34024875fc614074014a21e2e3c558af18fa69c5
+Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index decreasing 0.3% and th

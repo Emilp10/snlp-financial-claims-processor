@@ -1,0 +1,5 @@
+title: Trade Tensions, Market Volatility and Other Key Things to Watch this Week
+source: Yahoo
+date: 2025-10-12
+url: https://finnhub.io/api/news?id=36e5ec82a80e649244ddd15ba04d5206e38c475945abdf013ec81b20847edaa5
+Markets enter a critical week following Friday's dramatic selloff triggered by President Trump's threat of "massive tariffs" against China over tighter rare-earth export rules.

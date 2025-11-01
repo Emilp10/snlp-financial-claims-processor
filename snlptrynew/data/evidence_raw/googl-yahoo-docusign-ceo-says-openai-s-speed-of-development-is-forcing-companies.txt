@@ -1,0 +1,5 @@
+title: Docusign CEO says OpenAI’s speed of development is forcing companies to move faster
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=f1af0a590151aa9bbc31ef31acea283c1cdc2e49ab9a8e8e930b58d3402d6c4e
+As OpenAI races ahead, DocuSign is betting on agents and data to stay in the game.

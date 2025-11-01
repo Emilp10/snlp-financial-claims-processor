@@ -1,0 +1,5 @@
+title: CIOs see modest IT spending rebound into 2026, Morgan Stanley says
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=69d787b57505fdce8d085b8d0e7dbac8389868fbd19b394e4d8305a2a7b195f5
+Investing.com -- There are “small signs of acceleration” in the IT spending growth environment for 2026, according to Morgan Stanley’s 3Q25 CIO Survey, though overall sentiment remains cautious.

@@ -1,0 +1,5 @@
+title: My 3 Favorite Stocks to Buy Right Now
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=94fb51f7b80be897d2368ae653e2a795546b5857599db5551d21be51bb0c1212
+Costco, Coupang, and Lyft are all promising long-term investments.

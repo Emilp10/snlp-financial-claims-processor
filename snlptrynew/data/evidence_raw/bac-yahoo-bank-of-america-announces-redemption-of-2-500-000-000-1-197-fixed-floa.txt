@@ -1,0 +1,5 @@
+title: Bank of America Announces Redemption of $2,500,000,000 1.197% Fixed/Floating Rate Senior Notes, Due October 2026
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=9a04fd1700b1b23bb0239aa216b6cb33badbbe74b0baf11bf8ab21c762be1ba9
+Bank of America Corporation announced today that it will redeem on October 24, 2025 all $2,500,000,000 principal amount outstanding of its 1.197% Fixed/Floating Rate Senior Notes, due October 2026 (CUSIP No. 06051GJK6) (the "Notes"), at a redemption price equal to 100% of the principal amount of the Notes, plus accrued and unpaid interest to, but excluding, the redemption date of October 24, 2025. Interest on the Notes will cease to accrue on the redemption date.

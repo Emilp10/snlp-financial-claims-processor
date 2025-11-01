@@ -1,0 +1,5 @@
+title: Bull of the Day: ASML Holding (ASML)
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=3a79f923c845eede7da1264ee7772f0723f6b8e50e9c93b68b5c48748a69de81
+NVIDIA and TSMC depend on this maker of photolithography machines for etching the AI boom at nanoscales

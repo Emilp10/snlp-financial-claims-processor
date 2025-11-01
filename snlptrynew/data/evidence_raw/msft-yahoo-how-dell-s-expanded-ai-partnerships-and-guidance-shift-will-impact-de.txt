@@ -1,0 +1,5 @@
+title: How Dell’s Expanded AI Partnerships and Guidance Shift Will Impact Dell Technologies (DELL) Investors
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=e18d60a3ea21e9288af610a26a6f668f17127a44f2b51db888c762cdce01f024
+Earlier this month, Dell Technologies raised its long-term revenue and earnings guidance, citing strong demand for AI infrastructure and announcing new multi-year hyperscale partnerships, including global collaborations with Nscale and Microsoft to deploy hundreds of thousands of Nvidia-based AI systems. These developments highlight Dell's central role in enterprise AI adoption, as the company advances integrated AI factory solutions and forms high-impact alliances across the technology...

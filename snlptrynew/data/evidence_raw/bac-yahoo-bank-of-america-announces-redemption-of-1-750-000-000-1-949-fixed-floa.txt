@@ -1,0 +1,5 @@
+title: Bank of America Announces Redemption of €1,750,000,000 1.949% Fixed/Floating Rate Senior Notes, due October 27, 2026
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=137c8e8b3d973939e5b3690aae4a5b1cf9d26e4ef7c812649e56a24b0e338bed
+Bank of America Corporation announced today that it will redeem on October 27, 2025 all €1,750,000,000 principal amount outstanding of its 1.949% Fixed/Floating Rate Senior Notes, due October 27, 2026 (ISIN: XS2462324232; Common Code: 246232423) (the "Notes").

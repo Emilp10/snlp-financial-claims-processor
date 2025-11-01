@@ -1,0 +1,5 @@
+title: Bank of America Declares Preferred Stock Dividends Payable in November and December 2025
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=64979237f7981de4e81d1ade585130676eed3bf7cfa931e32ece89965ed855b4
+Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock:

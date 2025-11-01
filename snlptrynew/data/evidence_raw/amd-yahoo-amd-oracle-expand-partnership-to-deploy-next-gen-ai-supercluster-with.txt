@@ -1,0 +1,5 @@
+title: AMD, Oracle Expand Partnership to Deploy Next-Gen AI Supercluster with MI450 GPUs
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=4741dd3a932a188833e335508cc424544321c3d9f953ab556325d74a8d4de3c9
+Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the best big tech stocks to invest in now. On October 14, Advanced Micro Devices, or simply, AMD, and Oracle Corporation (NYSE:ORCL) announced a significant expansion of their multi-generation partnership to help customers achieve next-generation AI scale. This builds on years of co-innovation, which included the launch […]

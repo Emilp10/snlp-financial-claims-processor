@@ -1,0 +1,5 @@
+title: Dow Turns Higher After Falling More Than 600 Points
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=b3988a508448f0b27b912ba773db1106f0f53476d5d262423067890c089f9250
+The blue-chip index was up 200 points, or 0.4%, after falling more than 600 points, or 1.3%, at its low.  Only 11 of the Dow's 30 stocks were falling, but Goldman Sachs, alone, was shaving 65 points off the index after reporting quarterly results.

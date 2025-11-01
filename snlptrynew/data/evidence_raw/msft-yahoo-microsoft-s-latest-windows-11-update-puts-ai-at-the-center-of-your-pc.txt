@@ -1,0 +1,5 @@
+title: Microsoft's latest Windows 11 update puts AI at the center of your PC
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=98f042f0bdb0fce85404225148b8119eea20d63de5f0c0fa6bf78c5954c45cf3
+Microsoft is bringing a host of AI updates to its Windows 11 operating system.

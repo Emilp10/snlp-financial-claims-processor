@@ -1,0 +1,5 @@
+title: Walmart and OpenAI are partnering to redraw the retail map
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=cfd43601276cf6dc102965c07874c9664fe6cb1e20f9d2a6bf6c45d99efadcd0
+Walmart is partnering with OpenAI to bring instant checkout to ChatGPT, collapsing the space between a request, a recommendation, and a sale

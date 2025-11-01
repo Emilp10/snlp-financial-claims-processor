@@ -1,0 +1,5 @@
+title: These Stocks Are Moving the Most Today: Tesla, AMD, Dell, IBM, AppLovin, Trilogy Metals, Constellation Brands, Aehr, and More
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=efd6cb46a3bd2c54323f0acd5aec75ee708033b2569bcccd14e34fdc31a9a2e8
+Tesla investors await what the electric-vehicle maker teased was a major announcement, while Trilogy Metals soars as the U.S. government takes a stake in the small Canadian miner.

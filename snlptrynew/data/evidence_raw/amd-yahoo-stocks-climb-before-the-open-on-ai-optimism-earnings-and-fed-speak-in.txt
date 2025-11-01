@@ -1,0 +1,5 @@
+title: Stocks Climb Before the Open on AI Optimism, Earnings and Fed Speak in Focus
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=650362db3bce2f8cb290f05d96b296a6e09696cb9b936936c256b5f27483a761
+December S&P 500 E-Mini futures (ESZ25) are up +0.43%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +0.48% this morning as signs of continued strong demand for artificial intelligence helped shift investors’ attention from escalating U.S.-China trade tensions.

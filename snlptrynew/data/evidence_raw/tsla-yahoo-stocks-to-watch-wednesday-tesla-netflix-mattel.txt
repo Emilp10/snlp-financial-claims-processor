@@ -1,0 +1,5 @@
+title: Stocks to Watch Wednesday: Tesla, Netflix, Mattel
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=31d8743d7ea402fe57273ae56d5a62cce9b9eef76aeb12d617d96711edd4ca98
+↘️ Netflix (NFLX): Shares of the internet streaming service tumbled around 10% after it reported earnings below analysts’ expectations, citing an expense related to a dispute with Brazilian tax authorities.

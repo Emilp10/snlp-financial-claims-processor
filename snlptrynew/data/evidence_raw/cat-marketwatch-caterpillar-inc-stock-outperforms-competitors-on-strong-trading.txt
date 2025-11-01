@@ -1,0 +1,5 @@
+title: Caterpillar Inc. stock outperforms competitors on strong trading day
+source: MarketWatch
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=e56eb00c06f8093164f24ca7ca0fbc1e1e9da43d95d6fd783e5ebcd99ad52650
+Caterpillar Inc. stock outperforms competitors on strong trading day

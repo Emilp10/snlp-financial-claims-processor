@@ -1,0 +1,5 @@
+title: Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=308cdd2b7bf8ad07b2bce4bd029bbc5d3a6b8b4a5ea7ad161eeb16af65a83c95
+Investors weighed corporate earnings against the escalating US-China trade war.

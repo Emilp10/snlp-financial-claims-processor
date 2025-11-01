@@ -1,0 +1,5 @@
+title: Artisight Introduces Smart Hospital Rooms with Ambient Documentation and Touchless Authentication
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=8715e3a2862f5ba2607f2519e47c39c03e8fb550654548d1cdc0b77853b2bc29
+CHICAGO, October 16, 2025--Artisight today announced a pilot to transform clinical workflows by extending Microsoft Dragon Copilot with the Artisight Smart Hospital Platform. Connecting Artisight and Dragon Copilot will bring ambient AI technology into the hospital room itself, creating a hands-free and device-free documentation interface for nurses.

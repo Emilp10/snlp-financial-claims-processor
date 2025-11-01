@@ -1,0 +1,5 @@
+title: Bank of America (BAC) Stock Is Up, What You Need To Know
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=20f08652f58d93e58540ff64c4bc6a30e8efabca337af2f72e43a5d200c5e52c
+Shares of financial services giant Bank of America (NYSE:BAC) jumped 3.8% in the afternoon session after the company reported strong third-quarter 2025 financial results that surpassed Wall Street's expectations for both profit and revenue. The bank announced earnings per share of $1.06, comfortably beating analysts' estimates of $0.95 and increasing from $0.81 in the same quarter last year. Revenue for the quarter grew 10.8% year-over-year to $28.09 billion, also ahead of the consensus forecast

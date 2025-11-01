@@ -1,0 +1,5 @@
+title: Merck Expands Tulisokibart Clinical Development Program With Initiation of Phase 2b Trials in Three Additional Immune-Mediated Inflammatory Diseases
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=bce39bba215951cbbbe6f103da200be02a13ab513d7e9dccee0a0f7a7f7a45ac
+RAHWAY, N.J., October 06, 2025--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, announced it has initiated three Phase 2b trials evaluating the safety and efficacy of tulisokibart (MK-7240), an investigational humanized monoclonal antibody targeting tumor necrosis factor (TNF)-like cytokine 1A (TL1A), in patients with three immune-mediated inflammatory diseases:

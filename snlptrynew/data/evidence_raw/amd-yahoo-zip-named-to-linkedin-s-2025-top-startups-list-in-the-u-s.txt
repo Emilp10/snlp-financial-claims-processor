@@ -1,0 +1,5 @@
+title: Zip Named to LinkedIn’s 2025 Top Startups List in the U.S.
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=6d077c5a4f14c10887e9064aaba81dccd0fe11ff2e5c814bbafd753703dac831
+SAN FRANCISCO, October 15, 2025--Zip, the procurement platform trusted by OpenAI, Snowflake, and AMD ranked among the top 50 companies on LinkedIn’s 2025 Top Startups List in the U.S.

@@ -1,0 +1,5 @@
+title: Danaher Third-Quarter Earnings Rise; Pharma R&D Spend Expected to Rebound
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=ddc7b2d368d3608f038c125ea497cade99a93117fd91e094a3335cd1995ffe84
+The life sciences and diagnostics company posted sales of $6.05 billion and stands to benefit from an increase in pharmaceutical-research investment as tariff uncertainty eases.

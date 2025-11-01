@@ -1,0 +1,5 @@
+title: Wall St's Risk Arms Race Amps Up With 5-X Leveraged ETF
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=6e0cd8be2158f62f9aa369abd757aec7a2e871f55db4b0560a1daed9fee064b5
+Volatility Shares has filed to launch funds offering five times the daily return of some of the most volatile assets in global markets, including single stocks like Tesla and Nvidia, as well as cryptocurrencies such as Bitcoin and Ether. No 5x or even 3x single-stock ETF currently exists in the US, with SEC rules having long kept a lid on such exposure. Bloomberg's Isabelle Lee reports on "Bloomberg ETF IQ".

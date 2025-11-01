@@ -1,0 +1,5 @@
+title: These Stocks Are Moving the Most Today: Tesla, IBM, D-Wave Quantum, Dow Inc., Molina Healthcare, Las Vegas Sands, Southwest, and More
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=57302b6bcbc12d06f577bdf58a00bf57a73f6f72818be910f65c9df3d9e99230
+Both Tesla and IBM fall after reporting quarterly earnings, while quantum-computing stocks soar on a report the Trump administration is considering taking equity stakes in several companies in exchange for federal funding.

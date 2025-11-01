@@ -1,0 +1,5 @@
+title: Stocks Give Up Gains Again. Here's Why.
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=3c119c22d544eed4894eb27619e99e83f95d61028cf23bdf924a3b567d319d1e
+The Nasdaq Composite was down 0.5%.  The yield on the 2-year Treasury note was down to 3.48%.  For the S&P, financials, industrials, energy, consumer staples, consumer discretionary, utilities, and materials were all down 0.1% or more.

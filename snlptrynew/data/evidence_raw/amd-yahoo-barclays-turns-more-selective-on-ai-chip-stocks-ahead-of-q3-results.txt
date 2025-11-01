@@ -1,0 +1,5 @@
+title: Barclays turns more selective on AI chip stocks ahead of Q3 results
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=d85a6e50653b0c7eaf10cfd4270633887428614ab8706e66fb5208089b4ac1be
+Investing.com -- Barclays said it is becoming “more selective with names that have direct AI exposure” ahead of third-quarter earnings, recommending that investors consolidate risk around large-cap leaders Nvidia (NASDAQ: NVDA), Broadcom (NASDAQ: AVGO), and AMD (NASDAQ: AMD).

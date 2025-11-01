@@ -1,0 +1,5 @@
+title: China's Position In The AI Landscape
+source: SeekingAlpha
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=0cfb4ad91472711f0335f3bef0050c788f71119232c44162838ffdd9e0267ada
+Anthropic, Google DeepMind, and xAI quickly joined the race and accelerated the pace of innovation by advancing benchmark performance and increasing real-world usability.

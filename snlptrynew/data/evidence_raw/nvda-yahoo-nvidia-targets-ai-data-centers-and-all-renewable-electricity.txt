@@ -1,0 +1,5 @@
+title: Nvidia Targets AI Data Centers And All-Renewable Electricity
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=88631eabc7e9cd22d4d6a2ac4f2ad3e4846a83662e92251a5d677279224c952e
+Nvidia's focus on sustainability puts the chipmaker ahead of its peers at a time when AI is driving record energy growth.

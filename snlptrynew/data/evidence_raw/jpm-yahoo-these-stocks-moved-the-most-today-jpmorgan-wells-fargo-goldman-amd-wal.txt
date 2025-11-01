@@ -1,0 +1,5 @@
+title: These Stocks Moved the Most Today: JPMorgan, Wells Fargo, Goldman, AMD, Walmart, J&J, Navitas, Polaris, and More
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=b55faaa9e4c06da13f373ceefba17cb850df467b4819380c6d34d1ed6aa93831
+JPMorgan Chase, Wells Fargo, and Goldman Sachs post quarterly earnings that top Wall Street estimates.

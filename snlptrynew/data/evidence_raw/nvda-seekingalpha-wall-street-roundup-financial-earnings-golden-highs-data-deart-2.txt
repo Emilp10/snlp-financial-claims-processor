@@ -1,0 +1,5 @@
+title: Wall Street Roundup: Financial Earnings, Golden Highs, Data Dearth
+source: SeekingAlpha
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=2269cd4a8330c59f24eb944b48eba2004be1c114cc0560debcf6e7cf7e63efee
+Financial earnings, CAT and gold hitting new highs, OpenAI deals, government shutdown continues.

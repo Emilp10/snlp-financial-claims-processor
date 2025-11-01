@@ -1,0 +1,5 @@
+title: Morgan Stanley Earnings Blow Past Estimates. The Stock Jumps.
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=397d0430940ceb77eb8647aab8b6630a977c77e78c618d65fd2bdf9527afa4d4
+Morgan Stanley reported third-quarter earnings per share of $2.80 on revenue of $18.2 billion, beating Wall Street forecasts for earnings of $2.10 on revenue of $16.7 billion.  Shares of Morgan Stanley were up 3.5% in premarket trading.

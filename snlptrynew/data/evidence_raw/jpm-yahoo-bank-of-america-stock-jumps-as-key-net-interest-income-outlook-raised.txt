@@ -1,0 +1,5 @@
+title: Bank of America Stock Jumps as Key Net Interest Income Outlook Raised
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=7947b6625ff771910154e0d5d747f02ef26e300b25f1e83a385080ca282060cd
+Bank of America said Wednesday it now expects to drive more net interest income, or NII, this year than it initially forecast.  Bank of America said higher loan and deposit balances and activity across its global markets business helped drive third-quarter NII higher by 9% to a record $15.4 billion on a fully taxable-equivalent basis.  Net interest income is the difference between what lenders earn on interest-bearing assets, like loans, and what they pay back out to customers in interest.

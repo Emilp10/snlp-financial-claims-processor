@@ -1,0 +1,5 @@
+title: Google Unveils Quantum Computing Breakthrough on Willow Chip
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=12bb31b44fe410dc4d4014239392bbee03ed740504fa511b0209d4ac42c79f30
+The “Quantum Echoes” algorithm, detailed in a paper published Wednesday in the science journal , is verifiable, meaning it can be repeated on another quantum computer.  It also ran 13,000 times faster than possible on the world’s best supercomputer, Google said.  Taken together, the advances point to a broad range of potential uses in medicine and materials science, Google said.

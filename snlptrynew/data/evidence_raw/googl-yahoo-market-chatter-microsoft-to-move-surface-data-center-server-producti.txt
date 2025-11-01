@@ -1,0 +1,5 @@
+title: Market Chatter: Microsoft to Move Surface, Data Center Server Production Out of China
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=5452bb142ca10d2f4e5091cef761144cef931a77e8ea623292d0a158a8d8be6b
+Microsoft (MSFT) aims to manufacture most new Surface laptops, servers, and possibly Xbox consoles o

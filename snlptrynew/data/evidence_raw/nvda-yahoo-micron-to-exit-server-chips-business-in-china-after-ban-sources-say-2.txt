@@ -1,0 +1,5 @@
+title: Micron to exit server chips business in China after ban, sources say
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=244fe482cc030978806a71adf29958981e397eedd9a5ef6bfc67365866314bdc
+SEOUL/SHANGHAI (Reuters) -Micron plans to stop supplying server chips to data centres in China after the business failed to recover from a 2023 government ban on its products in critical Chinese infrastructure, two people briefed on the decision said.  Micron was the first U.S. chipmaker to be targeted by Beijing - a move that was seen as retaliatory for a series of curbs by Washington aimed at impeding tech progress by China's semiconductor industry.  Since then, both Nvidia and Intel chips have similarly fielded accusations from Chinese authorities and an industry group of posing security risks, though there has not been any regulatory action.

@@ -1,0 +1,5 @@
+title: Oracle Weighs In on Cloud Margins. The Stock Is Rising.
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=59a9cd39546a2d1ff098299c68304dfb2035dbb0156834b665df484fd7c7cff1
+The stock rose as executives reassured investors about the profitability of a business renting servers to AI companies, only to fall as they discussed the broader financial outlook

@@ -1,0 +1,5 @@
+title: Goldman Dumps European Bank Bonds: France Risks Trigger Fresh Downgrade
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=0957e15954a9f87510cea340864932414b7d6a37e3a1e1cb6d0670aa12f1ceaa
+Tight spreads and political turmoil in France push Goldman Sachs to cut euro bank debt to underweight.

@@ -1,0 +1,5 @@
+title: How a headphone site operator built loyalty startup Lantern to solve his own problems
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=ca7cd9cdc6fd88e3e8ab4f0feaf31230dae8e2b1c0827d8c83e3d7524128b435
+After struggling to retain customers at his e-commerce site Headphones.com, founder Andrew Lissimore built his own loyalty solution — and it’s now a startup called Lantern. The Shopify-native platform helps brands boost retention through customizable loyalty, referrals, and account management tools.

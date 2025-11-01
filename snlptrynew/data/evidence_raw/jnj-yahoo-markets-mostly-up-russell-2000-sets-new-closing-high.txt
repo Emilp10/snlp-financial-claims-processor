@@ -1,0 +1,5 @@
+title: Markets Mostly Up, Russell 2000 Sets New Closing High
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=e60b42b5572b3737e6a7433ddc488e88360e7694b926673b301b30ce02f9de84
+The biggest movers on the day were the Nasdaq, +148 points or +0.66%, and the small-cap Russell 2000 +24 points, +0.97%.

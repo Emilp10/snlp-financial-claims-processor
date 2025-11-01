@@ -1,0 +1,5 @@
+title: FTSE 100 LIVE: European stocks rise as Trump takes sting out of fresh US-China trade spat
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=63370a21836fe9a8cd0dc4fa9a4acc13bfe83a846cdb23b6c8b38b40613138e2
+On Sunday US president Donald Trump signalled that he would be open to talks with his counterpart Xi Jinping.

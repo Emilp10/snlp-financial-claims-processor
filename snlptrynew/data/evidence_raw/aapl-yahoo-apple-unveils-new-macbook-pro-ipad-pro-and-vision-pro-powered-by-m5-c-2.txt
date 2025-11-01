@@ -1,0 +1,5 @@
+title: Apple Unveils New MacBook Pro, iPad Pro, and Vision Pro Powered by M5 Chip
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=c707066968d416bcf0ae2c102f2072b0f59c00e0cf4526826f5ad7fa1165854c
+Updated lineup aims to boost AI performance ahead of the holiday quarter

@@ -1,0 +1,5 @@
+title: Apple's New Siri Faces Delays Amid AI Setbacks
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=eae3769f5a34b0701dbef41f1af30c640f24b81029695a71fb4b579f7aa22731
+Engineers report slow responses as key AI talent exits

@@ -1,0 +1,5 @@
+title: Micron Stock Could Rise 20%, Says Analyst. AI Is Driving Demand for Data Storage.
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=bf9d00f93d77067a99b64913394e1cbca607c88480bcbea53879ea797476640d
+Shares of  Micron Technology  have surged 128% this year, but one analyst sees no end in sight to the gains.  Citi Research analyst Christopher Danely argued that dynamic random-access memory, or DRAM, which the kind of storage used in most laptops and personal computers, “will be the next chip to get long-term contracts with the AI food chain given its importance and undersupply.”  Danely maintained a Buy rating on the shares and hiked his price target to $240 from $200 in a note Thursday.

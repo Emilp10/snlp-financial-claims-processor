@@ -1,0 +1,5 @@
+title: Intel Unveils Panther Lake Architecture: First AI PC Platform Built on 18A
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=8d1f9727a64d1270c683794e652043f45ec65faae8ec9755dbe49d52e3c25023
+CHANDLER, Ariz., October 09, 2025--Panther Lake will enter high-volume production at Intel’s newest fab in Arizona later this year.

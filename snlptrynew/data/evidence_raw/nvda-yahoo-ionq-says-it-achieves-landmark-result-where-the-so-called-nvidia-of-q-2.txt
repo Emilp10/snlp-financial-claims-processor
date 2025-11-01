@@ -1,0 +1,5 @@
+title: IonQ Says It Achieves ‘Landmark’ Result. Where the So-Called Nvidia of Quantum Computing Goes Next.
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=8cd7b1c7702dccbc14ae8d1efea35952f8c6065b276deb45ff5b54c0cceff3e3
+IonQ  claimed Tuesday to have achieved a “landmark result” in quantum computing, saying it set the highest two-qubit gate performance in history.  IonQ  said in a press release it achieved over 99.99% fidelity in its latest experiment.  To break that down, each quantum gate operation has a calculated ideal result as well as an actual result.

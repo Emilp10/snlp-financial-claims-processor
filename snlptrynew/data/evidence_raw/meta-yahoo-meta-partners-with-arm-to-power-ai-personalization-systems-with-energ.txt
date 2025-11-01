@@ -1,0 +1,5 @@
+title: Meta Partners with Arm to Power AI Personalization Systems with Energy-Efficient Data Center Chips
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=5e11c2620b8a09107894517342e400f5e77a70ff2a804521f21a99376e40feb2
+Meta Platforms Inc. (NASDAQ:META) is one of the best big tech stocks to invest in now. On October 1, Meta Platforms announced a partnership with chip technology provider Arm Holdings (NASDAQ:ARM) to power the systems driving personalization across its applications. This is part of a broader trend of companies upgrading the chip technology underpinning their […]

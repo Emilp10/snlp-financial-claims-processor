@@ -1,0 +1,5 @@
+title: Meta taps Arm Holdings to power AI recommendations across Facebook, Instagram
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=9b356532c971ada74548d84e53f55639272981543700879785e4f01d302b4fc7
+The social media giant will use Arm-based data center platforms to power its AI ranking and recommendation systems, which are key to discovery and personalization across its apps.  A deal with Meta would mark another major validation of Arm's technology as the SoftBank‑backed company competes with the entrenched x86 architecture used by Intel  and AMD.  Arm provides chip architecture that serves as a blueprint for what a central processing unit can do and which applications it can run.

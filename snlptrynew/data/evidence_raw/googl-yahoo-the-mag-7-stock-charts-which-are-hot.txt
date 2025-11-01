@@ -1,0 +1,5 @@
+title: The Mag 7 Stock Charts: Which are Hot?
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=8a12e002b85a8bee57ab4353e8282a194e3a9fd5f2155367c314a94b27467970
+The Magnificent 7 stocks are back in the spotlight with Q3 earnings. Are some better than others?

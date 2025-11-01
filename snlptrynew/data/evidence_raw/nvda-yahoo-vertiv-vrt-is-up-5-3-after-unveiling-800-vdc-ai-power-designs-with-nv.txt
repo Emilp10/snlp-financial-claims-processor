@@ -1,0 +1,5 @@
+title: Vertiv (VRT) Is Up 5.3% After Unveiling 800 VDC AI Power Designs With NVIDIA Collaboration
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=e792cb852e332215e285e8c4ea908f5b3ece2e73b0a2bb9815a35b236ca0c3f6
+Vertiv Holdings Co recently announced a milestone in its collaboration with NVIDIA, unveiling engineering-ready 800 VDC power architecture designs intended to support the next generation of AI factories and large-scale data center workloads, with product release targeted for the second half of 2026. This advance signals Vertiv’s growing role at the heart of next-generation AI infrastructure by delivering high-voltage, scalable power systems for increasingly demanding accelerated computing...

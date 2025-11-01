@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Higher As Fed Report Looms; Nvidia Rises Amid Musk Deal (Live Coverage)
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=2d236a6ded6b1c88d000bfd9d001c9579a85362a2d2069d892c8d627944344dd
+The Dow rises on the stock market today with Nvidia reportedly investing in Elon Musk's xAI. Rocket Lab, AST Space jump on news.

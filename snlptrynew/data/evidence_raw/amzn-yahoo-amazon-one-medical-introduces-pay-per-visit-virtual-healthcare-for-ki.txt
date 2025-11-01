@@ -1,0 +1,5 @@
+title: Amazon One Medical Introduces Pay-per-visit Virtual Healthcare for Kids Ages 2-11
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=7697699f50fab06f63937838f33c28b1fac80da82e6d34667e93e44bbec3ba82
+SEATTLE, October 16, 2025--Amazon (NASDAQ: AMZN) today announced the expansion of its telehealth service, Amazon One Medical Pay-per-visit, to provide care for children ages 2-11 dealing with select common health conditions. The service connects families with certified family care providers for quick medical guidance and treatment, paid for with a flat, one-time fee rather than insurance or a membership.

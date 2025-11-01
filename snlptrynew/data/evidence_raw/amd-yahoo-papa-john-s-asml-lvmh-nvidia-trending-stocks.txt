@@ -1,0 +1,5 @@
+title: Papa John's, ASML, LVMH, NVIDIA: Trending Stocks
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=47e8c3b36b79a171532d430974841b670f356e0bed1009f688afadc47f0cc058
+NVDA (NVDA) jumps back in pre-market after Nscale announces a deal to deploy around 200,000 Nvidia chips for Microsoft (MSFT). Papa John's ticker PZZA spikes on fresh takeover reports. Stellantis (STLAM.MI, STLA) announces its biggest ever single investment. LVMH (MC.PA) investors pop the champagne after Moët & Chandon's parent company returns to growth. And Europe's largest company, ASML, reports strong demand for AI chips - despite slowing demand from China. For more live coverage of markets watch the full episode of Market Sunrise and head to Yahoo Finance.

@@ -1,0 +1,5 @@
+title: Analysts revamp Intel stock rating, send warning
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=84f4590c012e9567bb5d987c2d1c7333f18c304afbcfd82e80b702cc3569d4c6
+Intel has set January as the month for the start of sales of its Panther Lake chips. The company is touting impressive statistics for the new CPU line, saying users can expect more than 50% better CPU and GPU performance — as well as more than 40% lower power usage, at a similar single-threaded ...

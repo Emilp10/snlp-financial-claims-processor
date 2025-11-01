@@ -1,0 +1,5 @@
+title: Morgan Stanley Q3 Earnings Beat on Deal-Making Boom, Solid Trading
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=58217772a38ea2e93de3e4ba5a7e89121ea4e2bb7dc03125bc5a13c6129b844c
+MS' Q3 earnings jump 49% on booming deal-making activity and strong trading, pushing shares up almost 4.5% pre-market.

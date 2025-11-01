@@ -1,0 +1,5 @@
+title: Stock Market Week Ahead: Inflation Data, Defense And Mining, Plus Tesla And Netflix
+source: Yahoo
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=e6a5e956c5e801fc233643d5c7a9ef11b2e77bb7ab6a82a66fc1c4018a3fbc6f
+A stock market rebound stirred optimism for the coming week, with Netflix and Tesla due to report, along various mining and defense stocks.

@@ -1,0 +1,5 @@
+title: Oracle Stock Slumps as Management Discusses Outlook
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=0545cd97efa08a861ea2cf95eb98a9919890388f8821667e9cb31ced67807043
+The stock rose as executives reassured investors about the profitability of a business renting servers to AI companies, only to fall as they discussed the broader financial outlook

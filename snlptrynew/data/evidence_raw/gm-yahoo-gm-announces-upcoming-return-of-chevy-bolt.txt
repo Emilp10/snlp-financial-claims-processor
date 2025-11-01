@@ -1,0 +1,5 @@
+title: GM announces upcoming return of Chevy Bolt
+source: Yahoo
+date: 2025-10-12
+url: https://finnhub.io/api/news?id=a2e15dfe813f5df8bc88c85d29ac58d61250ca34e68ee7bc3fd36977b054bf3a
+Chevrolet Bolt EV returns as a limited run model in 2027 with Tesla charging standard after GM ended production in 2023 due to battery fire issues.

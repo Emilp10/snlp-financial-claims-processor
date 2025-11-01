@@ -1,0 +1,5 @@
+title: Trump Era Funding Boosts Quantum: AMZN, MSFT, IONQ Poised for Gains
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=6bb6a31908e58569271e2f3ee760329a0b734167880c0fcbc4c9d96fb573fa54
+Trump-era quantum funding plans could supercharge Amazon, Microsoft and IonQ as government and private investments accelerate commercialization.

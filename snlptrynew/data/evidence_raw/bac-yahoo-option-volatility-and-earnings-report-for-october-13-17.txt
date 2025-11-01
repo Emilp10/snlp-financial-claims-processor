@@ -1,0 +1,5 @@
+title: Option Volatility And Earnings Report For October 13 – 17
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=a8489c7b726df1f71cdfac3c62c6eaba926be8cc437365250d3133a7431cffec
+Earnings season kicks into gear this week with Bank of America, Taiwan Semiconductor, JP Morgan, Wells Fargo, Citigroup, Morgan Stanley, Goldman Sachs, Johnson & Johnson and ASML Holdings all reporting

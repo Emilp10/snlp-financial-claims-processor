@@ -1,0 +1,5 @@
+title: FTSE 100 nudges higher but weak data dents pound
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=bec222efacc8e7b49802300350adced8a883ded87d110d9b0dbc11a001b94ef0
+The UK unemployment rate unexpectedly rose in the three months to August, numbers showed.

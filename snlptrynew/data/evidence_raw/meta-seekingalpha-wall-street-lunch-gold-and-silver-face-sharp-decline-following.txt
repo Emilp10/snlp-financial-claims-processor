@@ -1,0 +1,5 @@
+title: Wall Street Lunch: Gold And Silver Face Sharp Decline Following Historic One-Day Drop
+source: SeekingAlpha
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=f295765ff46dad2bfe78d4f1747f291e305d8394ce1b80c5bc45d6102e1690d3
+Spot gold (XAUUSD:CUR) and silver (XAGUSD:CUR) remain under pressure following a historic one-day drop.

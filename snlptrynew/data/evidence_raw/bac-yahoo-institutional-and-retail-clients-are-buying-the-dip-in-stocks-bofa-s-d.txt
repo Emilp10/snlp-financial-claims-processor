@@ -1,0 +1,5 @@
+title: Institutional and retail clients are buying the dip in stocks, BofA’s data shows
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=d9588fa2b49a9dab56048205567461cb1ed11ddec6cd07ecadff52645e370f08
+Investing.com -- Institutional and retail investors stepped in to buy U.S. equities last week after a month of selling, according to new data from Bank of America.

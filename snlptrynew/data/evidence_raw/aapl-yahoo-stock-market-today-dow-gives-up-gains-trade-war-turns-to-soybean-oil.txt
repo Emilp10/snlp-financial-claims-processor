@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Gives Up Gains; Trade War Turns To Soybean Oil (Live Coverage)
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=c93191fe10d8ccff7f8b7779b223d894a2c2f37fb2eae218a9dab08af072766a
+The major indexes reversed lower from earlier gains after the U.S. and China trade war saw new moves.

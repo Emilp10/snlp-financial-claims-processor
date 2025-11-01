@@ -1,0 +1,5 @@
+title: Morgan Stanley Opens Crypto Access to All Clients Amid Wall Street Shift Toward Digital Assets: CNBC
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=cf3bd84e1086bb84d4a0f34f9b40b5dab269bfc0f3945e45cdb34573ea14cada
+The decision marks a major expansion for the bank’s $8.2 trillion wealth and investment management business and suggests a growing acceptance of crypto as an asset class for mainstream investors.

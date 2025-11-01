@@ -1,0 +1,5 @@
+title: Stock Market Today: Stocks surge after Powell signals more rate cuts ahead
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=0952fe86d0e125840012bff4713b65d665a82a9b4996711febad40352930d5f4
+It was a roller-coaster kind of day for stocks. China's retaliation against a new tariff threat from President Trump weighed heavily on the open. In time, the fears faded. Then, the Fed's Jerome Powell signaled more interest-rate cuts are ahead, and much of the market rebounded. But some of the ...

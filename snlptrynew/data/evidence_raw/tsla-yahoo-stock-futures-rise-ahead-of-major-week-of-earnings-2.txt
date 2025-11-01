@@ -1,0 +1,5 @@
+title: Stock Futures Rise Ahead of Major Week of Earnings
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=b406819e477d259b4142377637752f2771b789baa84bca8e8703dcb4d18ddf6a
+The economic highlight of the week will be the September consumer price index, coming out on Friday.

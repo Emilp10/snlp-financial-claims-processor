@@ -1,0 +1,5 @@
+title: AP Top Extended Financial Headlines at 2:40 a.m. EDT
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=6c1c3bfa624f2735108dceae290f22d8db125909e0ea6d62ebb03045dd02591c
+Ontario Premier Doug Ford has called for economic retaliation against the U.S. after Stellantis decided to move Jeep Compass production from Canada to the U.S. Ford blames U.S. President Donald Trump for the move, which affects workers in Brampton, Ontario

@@ -1,0 +1,5 @@
+title: Gartner's Web Traffic Slide Signals Slowdown in Contract Growth, Morgan Stanley Says
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=617f28efd767cf61e9f04d08d7b0c4f3a39607bbd08886b3c830e6339030456d
+Gartner (IT) faces weakening web traffic that could keep contract-value growth soft, Morgan Stanley

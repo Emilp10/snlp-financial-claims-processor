@@ -1,0 +1,5 @@
+title: Morgan Stanley Stock Trading Revenue Soars in Third Quarter
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=cdcb6976daf7828e76f7717cd5f48cc992697a1671e9330521a07e9acd83b010
+Morgan Stanley's stock traders topped expectations in the third quarter as revenue from trading stocks surged 35% to $4.12 billion. The firm also got a boost from better-than-expected investment-banking fees. Scarlet Fu reports on Bloomberg Television.

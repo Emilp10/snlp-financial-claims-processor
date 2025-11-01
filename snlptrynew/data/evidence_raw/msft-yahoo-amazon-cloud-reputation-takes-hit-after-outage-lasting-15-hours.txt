@@ -1,0 +1,5 @@
+title: Amazon Cloud Reputation Takes Hit After Outage Lasting 15 Hours
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=52e2b4960dc26a53f84d007fadccf8036918a17bf847869465242640849a0c5f
+The incident, which some analysts are calling Amazon’s worst outage since 2021, reminded the world of the perils of depending on a handful of cloud companies to deliver crucial computing and internet services.  Outages like Monday’s strike at a core premise of the cloud: that a centralized operation full of sharp engineers will keep servers running better and more efficiently than individual companies’ own staff.

@@ -1,0 +1,5 @@
+title: Merck Announces Phase 3 KEYNOTE-B96 Trial Met Secondary Endpoint of Overall Survival (OS) in All Comers Population of Patients With Platinum-Resistant Recurrent Ovarian Cancer
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=4cfff1d4c7bf89cd392c5ffc54e5fa9fbb7c21da923efef94eb28638a7efa074
+RAHWAY, N.J., October 16, 2025--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced that the Phase 3 KEYNOTE-B96 trial, also known as ENGOT-ov65, met its secondary endpoint of overall survival (OS) for the treatment of patients with platinum-resistant recurrent ovarian cancer in all comers. The trial studied KEYTRUDA® (pembrolizumab), Merck’s anti-PD-1 therapy, in combination with chemotherapy (paclitaxel) with or without bevacizumab for these patients. As pr

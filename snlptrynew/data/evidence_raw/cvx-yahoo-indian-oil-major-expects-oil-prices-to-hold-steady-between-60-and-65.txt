@@ -1,0 +1,5 @@
+title: Indian Oil Major Expects Oil Prices to Hold Steady Between $60 and $65
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=562022eb3693dd4ceea7e2082c319609046124ecc07fd4089bcf6a595a25ffa3
+India’s ONGC expects oil prices to stay between $60 and $65 per barrel and plans to boost production and profitability without government aid or layoffs.

@@ -1,0 +1,5 @@
+title: GM ends development of hydrogen fuel cells
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=65b28ada156e8865e66d78451c42e46a32718a8aeaad97b7d2184933e5d4e576
+Instead of hydrogen fuel cells, GM will now focus its R&D on batteries, charging technologies and electric vehicles.

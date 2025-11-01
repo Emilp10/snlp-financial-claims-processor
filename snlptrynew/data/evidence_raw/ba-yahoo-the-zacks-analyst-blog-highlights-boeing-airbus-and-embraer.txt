@@ -1,0 +1,5 @@
+title: The Zacks Analyst Blog Highlights Boeing, Airbus and Embraer
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=c219d516cfd5d71f09b2ff6fb02e60bb6e87c8595364085f003541b2d22d323c
+Air travel growth drives gains in BA, EADSY, and ERJ, spotlighting strong orders, backlogs, and improving earnings estimates.

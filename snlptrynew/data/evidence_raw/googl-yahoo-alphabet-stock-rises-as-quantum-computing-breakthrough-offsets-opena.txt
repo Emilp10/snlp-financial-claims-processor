@@ -1,0 +1,5 @@
+title: Alphabet stock rises as quantum computing breakthrough offsets OpenAI concerns
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=5a87bbaac2e65ae738fcb5148830205404efc859a16c49a971b3ea59eeb633f5
+Investing.com -- Google parent Alphabet (NASDAQ:GOOGL) stock traded higher by 2% Wednesday, rebounding from Tuesday’s slide following OpenAI’s browser launch and buoyed by significant quantum computing advances.

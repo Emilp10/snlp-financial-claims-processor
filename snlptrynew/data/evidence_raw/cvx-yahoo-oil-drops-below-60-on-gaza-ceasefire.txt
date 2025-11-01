@@ -1,0 +1,5 @@
+title: Oil Drops Below $60 on Gaza Ceasefire
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=e294bbfecfb3b3ce1f720f3d38700cac9f6f07f03e00bde153d735d97608ae8b
+WTI crude fell below $60 per barrel as easing Middle East tensions and weak China–U.S. sentiment erased much of oil’s geopolitical risk premium.

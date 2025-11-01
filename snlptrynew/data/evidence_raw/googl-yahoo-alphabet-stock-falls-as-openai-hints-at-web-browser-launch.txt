@@ -1,0 +1,5 @@
+title: Alphabet Stock Falls as OpenAI Hints at Web Browser Launch
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=b88522fd621d8d2250e64486537e4297e10c5e7252ca9484c553480c6ee7559d
+OpenAI dropped hints that it will announce the launch of a web browser on Tuesday afternoon.  In a separate post, OpenAI CEO Sam Altman said the livestream was to “launch a new product I’m quite excited about.”

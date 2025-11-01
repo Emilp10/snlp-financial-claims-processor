@@ -1,0 +1,5 @@
+title: Tracking OpenAI's deals with Nvidia, Walmart, AMD, and more
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=58c4a3335e68103630e0a301e3ead31cb1d8186d1e37224b6d93ff49666ea684
+Massive chip orders, new cloud partners, and retail tie-ins show how the world’s most valuable startup is building like an industrial giant

@@ -1,0 +1,5 @@
+title: Apple debuts new M5 chip alongside upgraded 14-inch MacBook Pro and iPad Pro
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=b399ad3be219eec3415b59fcaafe32bd11aa58ae05bb6daa53d2898c6a3af2b3
+Apple on Wednesday announced its latest M5 chip and upgraded MacBook Pro and iPad Pro lines.

@@ -1,0 +1,5 @@
+title: NVIDIA shows off its first Blackwell wafer manufactured in the US
+source: Yahoo
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=98e7aba6bc4f1d33f50339acb95d5ac43efc6ec8f2e36b3ee5d428b0f4e7a7a0
+NVIDIA and TSMC celebrated the first Blackwell chip that was made in an Arizona facility.

@@ -1,0 +1,5 @@
+title: ING Sees US Electric Vehicle Market Share to Drop in 2026
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=0aa4cabb61e0d8e33afa476caaecea656ba3a13b94d597427960975f67b61e9a
+The electric vehicle market share in the US is likely to shrink in 2026 as the impact of new purchas

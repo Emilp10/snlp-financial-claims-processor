@@ -1,0 +1,5 @@
+title: Equities Drop Intraday as Markets Weigh Fed Governor's Comments
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=f556a652672886e59029bea8baa168b1abea3b6af7682f6f696eae4aa42478eb
+US benchmark equity indexes were lower intraday as traders parsed remarks by a Federal Reserve gover

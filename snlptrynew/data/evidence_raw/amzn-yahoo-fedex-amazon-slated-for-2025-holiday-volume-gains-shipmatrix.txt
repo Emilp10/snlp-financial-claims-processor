@@ -1,0 +1,5 @@
+title: FedEx, Amazon slated for 2025 holiday volume gains: ShipMatrix
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=845b24c81362d5dc34bc371ed909fd76d59bcabd5629c3c4a9458042411233c1
+Deliveries are projected to jump 5% from last year's peak season, although UPS and the Postal Service volumes are expected to stay flat.

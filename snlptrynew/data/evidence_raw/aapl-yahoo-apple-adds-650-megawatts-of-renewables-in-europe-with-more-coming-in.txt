@@ -1,0 +1,5 @@
+title: Apple adds 650 megawatts of renewables in Europe with more coming in China
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=7beea307c6e4d5301a4cbb68684c97383490f7810ca6381ccc227ca29e3216c8
+Apple is adding renewable power to offset customer charging and support its operations, including third-party manufacturing in China.

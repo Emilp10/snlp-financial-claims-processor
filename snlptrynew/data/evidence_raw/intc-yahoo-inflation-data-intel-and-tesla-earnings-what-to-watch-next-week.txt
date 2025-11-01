@@ -1,0 +1,5 @@
+title: Inflation Data, Intel and Tesla Earnings: What to Watch Next Week
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=302fffc394e1d75dcc2acefe27c16e7eb19bb87eb9c471cadc7b89553b9e2394
+The U.S. government shutdown is set to drag into another week, but that doesn’t mean investors will be starved for economic data. Next Friday brings a (delayed) look at September’s consumer-price index, a key inflation reading that will factor into the Federal Reserve’s next decision on interest rates.

@@ -1,0 +1,5 @@
+title: Earnings live: United Airlines stock rises on earnings beat; shares of Bank of America, Morgan Stanley, LVMH, and ASML gain
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=58c106362d59c48bdd4ebead61029d5d2362c5a73c475330f166f9cf90c0ae77
+Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.

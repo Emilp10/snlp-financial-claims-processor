@@ -1,0 +1,10 @@
+# Company IR/PR RSS feeds (one per line)
+https://ir.apple.com/rss/news-releases.xml
+https://ir.tesla.com/press-releases/rss.xml
+https://investor.nvidia.com/rss/news-releases.xml
+https://investor.microsoft.com/rss/news-releases.xml
+https://www.amd.com/en/rss/press-releases.xml
+https://investor.amazon.com/rss/news-releases.xml
+https://abc.xyz/investor/rss/news.xml
+# SEC press releases
+https://www.sec.gov/news/pressreleases.rss

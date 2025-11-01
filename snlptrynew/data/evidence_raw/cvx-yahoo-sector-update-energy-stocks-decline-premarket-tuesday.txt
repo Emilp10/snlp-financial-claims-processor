@@ -1,0 +1,5 @@
+title: Sector Update: Energy Stocks Decline Premarket Tuesday
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=f698aaf35623e240c724dc0ae59987d44301172c2dc071ee1b98ede801851cb6
+Energy stocks were declining premarket Tuesday, with the Energy Select Sector SPDR Fund (XLE) easing

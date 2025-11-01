@@ -1,0 +1,5 @@
+title: Sector Update: Financial Stocks Advance Pre-Bell Monday
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=720d32ae4cf39e526498f650df48550695fb47f6a2a955aae509241d04aee821
+Financial stocks were advancing pre-bell Monday, with the Financial Select Sector SPDR Fund (XLF) 0.

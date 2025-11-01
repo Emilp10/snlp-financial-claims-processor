@@ -1,0 +1,5 @@
+title: Prediction: Nvidia Stock Price Will Skyrocket to This Range in 5 Years
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=557d83acb97c24c6a8575c35096065bcda4a590c6abfd547f3964510ab615700
+Prediction: Nvidia stock will increase by about seven to 17 times in five years, depending upon the level of competition and assuming the U.S. economy remains at least relatively healthy for most of this period.

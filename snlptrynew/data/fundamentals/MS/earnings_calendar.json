@@ -1,0 +1,15 @@
+{
+  "earningsCalendar": [
+    {
+      "date": "2025-10-15",
+      "epsActual": 2.8,
+      "epsEstimate": 2.166,
+      "hour": "bmo",
+      "quarter": 3,
+      "revenueActual": 18224000000,
+      "revenueEstimate": 17199068966,
+      "symbol": "MS",
+      "year": 2025
+    }
+  ]
+}

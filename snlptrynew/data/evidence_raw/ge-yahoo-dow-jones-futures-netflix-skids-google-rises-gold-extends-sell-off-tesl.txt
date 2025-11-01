@@ -1,0 +1,5 @@
+title: Dow Jones Futures: Netflix Skids, Google Rises, Gold Extends Sell-Off; Tesla Looms
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=3029e8f4c62152d376178c4c3efba3a72d8ef150dce1e6a25b7751b8c5c8930b
+Dow Jones futures: Netflix fell overnight on earnings while Google rose on AI cloud talks. Gold prices extended Tuesday's sell-off. Tesla earnings loom.

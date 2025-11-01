@@ -1,0 +1,5 @@
+title: Meta set to clinch nearly $30 billion financing deal for Louisiana data center site, Bloomberg News reports
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=187c11c8ca7c6e2d9f6f83e0cc3b9032deda5f5f71f2b2141db5021e75a74761
+Large-scale cloud service providers, called hyperscalers, have been racing to build AI infrastructure, with most of the investment going towards powering data centers.  Meta and alternative asset manager Blue Owl Capital will split ownership of the Hyperion data center site in Richland Parish, Louisiana, with the social media giant retaining just 20%, Bloomberg said, citing people with knowledge of the matter.

@@ -1,0 +1,5 @@
+title: Wall Street and FTSE rise after AWS outage and as China’s economic growth hits one-year low
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=e522ae7e950eaa3555d92aa4165048b8da4a9d265db8b2fa5e2529f9b1a691e1
+China's GDP expanded 4.8% year-on-year in the July to September quarter, according to the latest data from the National Bureau of Statistics.

@@ -1,0 +1,5 @@
+title: Market Chatter: Indian Regulator Probing Boeing Plane's Emergency Power Use During Air India Flight to UK
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=722fd40030c865e89f8ddc05a69ba5e9b035f0ad8635393d98dc34ab88c615db
+India's Directorate General of Civil Aviation is looking into the unexpected deployment of a Boeing

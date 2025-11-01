@@ -1,0 +1,5 @@
+title: Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=48a2a72ccd4da04b83ee60993989f612c96cedec83d881dc6736202cd2a6f872
+A group including BlackRock, Nvidia and Microsoft is buying Aligned Data Centers in an approximately $40 billion deal in an effort to expand next-generation cloud and artificial intelligence infrastructure.  The acquisition comes amid a flurry of deals in recent months involving top AI developers that are flooding the booming AI sector with resources and money, and addressing resources -- such as electricity and infrastructure -- needed to support such technology.  Last week it was revealed that semiconductor maker AMD will supply its chips to artificial intelligence company OpenAI as part of an agreement to team up on building AI infrastructure.

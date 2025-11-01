@@ -1,0 +1,5 @@
+title: Market Chatter: Goldman Sachs, BofA Arrange $1.40 Billion Loan for Verisure After IPO
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=df79866e18cda5bbb7ea34880444ce3db2dbdc892c50f7d5c2056510f84ac5c8
+Goldman Sachs (GS) and Bank of America (BAC) are leading a 1.21 billion euros ($1.40 billion) loan f

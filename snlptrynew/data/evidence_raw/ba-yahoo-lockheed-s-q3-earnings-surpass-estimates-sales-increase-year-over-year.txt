@@ -1,0 +1,5 @@
+title: Lockheed's Q3 Earnings Surpass Estimates, Sales Increase Year Over Year
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=3120531a11833583fb495ec2fb1e98ab327346345696f90b3aeaac9efad16cdb
+LMT tops Q3 estimates with higher segment sales and profit, boosting its 2025 earnings outlook amid solid backlog growth.

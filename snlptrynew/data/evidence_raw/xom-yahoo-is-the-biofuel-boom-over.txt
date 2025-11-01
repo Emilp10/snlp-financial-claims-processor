@@ -1,0 +1,5 @@
+title: Is the Biofuel Boom Over?
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=1596349fa85024269ff8fd758dc1da4e76d43d0cb304ce11975bd54a86baf27b
+After years of optimism, momentum in biofuel development—especially sustainable aviation fuel—has stalled as oil majors scale back projects amid high costs, weak policy support, and market uncertainty.

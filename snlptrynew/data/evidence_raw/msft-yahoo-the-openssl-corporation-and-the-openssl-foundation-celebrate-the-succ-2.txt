@@ -1,0 +1,5 @@
+title: The OpenSSL Corporation and the OpenSSL Foundation Celebrate the Success of the Inaugural OpenSSL Conference in Prague
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=a5728bb0f91908bc15add8e575524a182382ea888c91ea69fb23e966a6df5ae9
+The OpenSSL Corporation and the OpenSSL Foundation celebrate the success of the inaugural OpenSSL Conference, held in Prague, October 7-9. This was the first time in the history of the OpenSSL Project that the full community met in person. Developers, legal experts, and users from academics, committers, distributions, individuals, large businesses, and small businesses came together to discuss project direction, share experience, and collaborate on the future of secure digital communication.

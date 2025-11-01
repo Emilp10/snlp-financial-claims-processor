@@ -1,0 +1,5 @@
+title: Intel returns to profitability in Q3
+source: Finnhub
+date: 2025-10-24
+url: https://finnhub.io/api/news?id=b9e9f37eb45b4bf7d1b515c75828734475f73ec3a7a7fd6f0ac94a2df3349ab9
+On Thursday evening, Intel reported adjusted EPS of $0.23 per share for Q3 2025, exceeding market consensus and compared to a loss of $0.46 per share a year earlier.Still on a non-GAAP basis, the...

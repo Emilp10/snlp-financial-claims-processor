@@ -1,0 +1,5 @@
+title: Amazon Cloud Outage Knocks Major Websites Offline, Recovery Underway
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=d7fbe41ddfdb633a1a4dda3ee9e0137bed286930ef094ad33b58b54462a5adc3
+AWS issue disrupted services at Snapchat, Disney+, Reddit, and others

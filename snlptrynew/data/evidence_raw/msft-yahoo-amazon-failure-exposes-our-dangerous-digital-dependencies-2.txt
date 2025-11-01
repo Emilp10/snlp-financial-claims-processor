@@ -1,0 +1,5 @@
+title: Amazon failure exposes our dangerous digital dependencies
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=e7105710079329995f4a054133d5689b773c54648759c9535c2376492e981000
+The internet can seem like an endless sea of different websites and apps. But it increasingly depends on a small cluster of giant companies to keep it running.

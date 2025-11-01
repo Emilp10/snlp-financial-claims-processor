@@ -1,0 +1,5 @@
+title: 3x leveraged fund goes to zero; investors lose everything
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=1d25b7b244fc8bb48bdfe5bff29ddfc4091fb4b1d739258748e1dd49788e9c44
+A 3x leveraged product tied to AMD just went to zero. And investors who bet against the chipmaker have been completely wiped out. The fund, which is designed to deliver triple the inverse of AMD’s daily return, imploded after the stock surged following the announcement of its deal with OpenAI. It’s ...

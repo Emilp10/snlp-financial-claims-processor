@@ -1,0 +1,5 @@
+title: Intel and Texas Instruments Stocks Are Downgraded Ahead of Earnings. There Are Multiple Challenges.
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=3f5a607012dad892f4d24576f753bc60ba5980ccd8309a4ed9b1c91fdb94453c
+Intel  and  Texas Instruments  both caught a downgrade on Monday, just over a week before the semiconductor companies are set to report earnings.  In Intel’s case, the chip maker may be moving “too far, too fast,” BofA Securities wrote on Monday.  The firm believes Intel’s recent $80 million jump in market capitalization “more than reflects its improved balance sheet.”

@@ -1,0 +1,5 @@
+title: Meta partners up with Arm to scale AI efforts
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=d818d34ee4550766400149bba3cd8f943791d96bca32d6e8ead8c1798631a68c
+Semiconductor firm Arm is partnering with Meta to enhance the social media company's AI systems amid an unprecedented infrastructure buildout.

@@ -1,0 +1,5 @@
+title: Chip Stocks Are Hot Today. AMD Is Just One Example.
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=bebacc2bdc8b0c8f346d0da6ba5bc10acb359e47dbd282c768d994f4a1dfc05a
+Semiconductor stocks are rising Wednesday, led by Advanced Micro Devices. The SOX index of chip stocks was recently up 2.5%, looking strong even on an upbeat day for stocks broadly.

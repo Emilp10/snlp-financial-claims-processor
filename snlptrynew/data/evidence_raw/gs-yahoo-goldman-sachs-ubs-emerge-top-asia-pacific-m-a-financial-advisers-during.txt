@@ -1,0 +1,5 @@
+title: Goldman Sachs, UBS emerge top Asia-Pacific M&A financial advisers during Q1-Q3 2025
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=9d009b0539d018361b989743dc09ece0bbedb09376a2b9eb30de3800adfff1d2
+Goldman Sachs led value table by advising on deals worth $14.5bn and UBS led volume table with 22 deals.

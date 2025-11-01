@@ -1,0 +1,5 @@
+title: An Inflation Update in a Data Desert. Plus, Tesla, Coca-Cola, Netflix, T-Mobile, and Many More Stocks to Watch This Week.
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=0e93e173175b1576622848603d5036c5f851f06ff561ecdb8dd056baf01da305
+FEATURE  Equity markets bounced back last week, with all three major indexes rising more than 1.5%, but not without a hefty dose of volatility. The or VIX, ended Friday at 20.98, the fourth consecutive day above 20.

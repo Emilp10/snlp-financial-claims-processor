@@ -1,0 +1,5 @@
+title: Top analyst updates Intel stock forecast, before earnings
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=bffe5d9dd55d914b857ff1deb69e1e1388725a0cca4a9ea6a9be010b9be042ce
+Intel's Q3 earnings report will be released on October 23. The earnings report will significantly impact the stock, as it will reveal the extent to which the company has managed to stabilize its losses. The company reported stagnant revenue in Q2 of $12.9 billion year over year, but more ...

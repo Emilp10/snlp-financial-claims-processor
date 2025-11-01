@@ -1,0 +1,5 @@
+title: JPMorgan Says Crypto-Native Investors Are Likely Driving the Market Slide
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=7b4b124684099a2e753f5880175c26490ed62769d840c319aeeaa320a05ebcf2
+Limited bitcoin outflows and heavier ether selling pointed to crypto-native liquidations as the driver of the drop.

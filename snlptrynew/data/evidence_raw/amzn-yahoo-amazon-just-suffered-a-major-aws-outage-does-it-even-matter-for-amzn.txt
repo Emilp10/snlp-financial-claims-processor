@@ -1,0 +1,5 @@
+title: Amazon Just Suffered a Major AWS Outage. Does It Even Matter for AMZN Stock?
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=344ad9d50c7ae22c48a96643a8a0a1acad73cf087a3dad7ba3e23a25a068b890
+The outage's core issues were addressed within three hours, and AMZN stock's price chart barely budged.

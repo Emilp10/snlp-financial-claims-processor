@@ -1,0 +1,5 @@
+title: The billion-dollar infrastructure deals powering the AI boom
+source: Yahoo
+date: 2025-09-28
+url: https://finnhub.io/api/news?id=401bbac751e15b91cea563b20c09e483f19b9b1499ee44567045dce48411f9f4
+Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.

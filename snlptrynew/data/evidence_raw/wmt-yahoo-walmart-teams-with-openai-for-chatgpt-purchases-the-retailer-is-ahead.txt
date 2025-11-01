@@ -1,0 +1,5 @@
+title: Walmart Teams With OpenAI for ChatGPT Purchases. The Retailer Is ‘Ahead of the Curve.’
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=453d2c6aa35e0e6256737cb4833130f482d73dbc035434a6c622a9376c9a0e61
+Now  Walmart  shoppers can buy items directly from chatbots, too.  Walmart said Tuesday that it’s teaming up with OpenAI to allow customers to purchase its products through ChatGPT using Instant Checkout.  The world’s biggest retailer has already incorporated plenty of cutting-edge technology in its business, including artificial intelligence tied to product discovery and recommendations.

@@ -1,0 +1,5 @@
+title: Is Oklo Stock the Next Nvidia?
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=c308d6ee87357bb355c54e330ebd798042737304f1e3117e0cb37aed7262bb67
+The AI-focused nuclear company has two things in common with the AI chip designer.

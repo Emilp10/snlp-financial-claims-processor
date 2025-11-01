@@ -1,0 +1,5 @@
+title: Hughes and Gogo Celebrate Key FDX and HDX Aviation ESA Milestones
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=79bd9713363f1f591d8a25ef1721159ad7a2f8d942aceef65a6ad8c5e069246a
+Hughes Network Systems, LLC, an EchoStar company (Nasdaq: SATS), together with Gogo (NASDAQ: GOGO) is celebrating key milestones in the partnership to transform the in-flight connectivity experience in the business jet market with the on-time delivery of both the Gogo half-duplex (HDX) and full-duplex (FDX) Aviation electronically steerable antenna (ESA) terminals. This milestone is complemented by the recently announced first FAA-approved Supplemental Type Certificates (STCs) for the Gogo Galil

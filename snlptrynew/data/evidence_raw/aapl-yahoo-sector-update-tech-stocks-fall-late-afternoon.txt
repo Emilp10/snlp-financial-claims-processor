@@ -1,0 +1,5 @@
+title: Sector Update: Tech Stocks Fall Late Afternoon
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=a663e8240a1a0012d46f90e8d40774ca4d88f86700adce98fadbebef6f9c6ad6
+Tech stocks fell late Wednesday afternoon, with the Technology Select Sector SPDR Fund (XLK) decreas

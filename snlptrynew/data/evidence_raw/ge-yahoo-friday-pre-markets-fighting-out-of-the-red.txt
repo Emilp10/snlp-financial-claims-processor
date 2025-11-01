@@ -1,0 +1,5 @@
+title: Friday Pre-markets Fighting Out of the Red
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=2ae7ea051457fbe6dde68f37223495128264d7e7a79e6a7e1d719f22c12b9dad
+Yesterday brought a significant drop, especially in small-cap stocks, from all-time highs earlier in the week.

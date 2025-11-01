@@ -1,0 +1,5 @@
+title: Why Analog Devices (ADI) Stock Is Trading Lower Today
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=f21cff67f1e94dbb269bfc784b105b62a625acc1568d7398c3a9fc59a9619ab3
+Shares of manufacturer of analog chips Analog Devices (NASDAQ:ADI) fell 2.7% in the morning session after a broader sell-off in the semiconductor industry was triggered by a weak revenue forecast from competitor Texas Instruments.

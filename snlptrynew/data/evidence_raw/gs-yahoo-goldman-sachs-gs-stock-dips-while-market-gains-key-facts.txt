@@ -1,0 +1,5 @@
+title: Goldman Sachs (GS) Stock Dips While Market Gains: Key Facts
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=07d696d7be154b6234ff7cf86b83f5cb2480ad3b0d30d0212a97885949b9ab26
+In the latest trading session, Goldman Sachs (GS) closed at $776.51, marking a -1.66% move from the previous day.

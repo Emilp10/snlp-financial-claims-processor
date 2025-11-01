@@ -1,0 +1,5 @@
+title: Top Analyst Reports for Microsoft, Amazon.com & Johnson & Johnson
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=c22176a4e79964249f5be31b1a62a574487e75e93b8db41971189a324270a29a
+Microsoft rides AI and cloud growth, Amazon leans on AWS and Prime, and Johnson & Johnson gains from strong pharma momentum despite patent risks.

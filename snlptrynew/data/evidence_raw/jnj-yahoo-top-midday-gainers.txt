@@ -1,0 +1,5 @@
+title: Top Midday Gainers
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=07029b7765ab042a560c35eda7418d6a03583153f68c48ec83b03db52c07b836
+Quoin Pharmaceuticals (QNRX) shares soared 126% amid heavy trading intraday after the company said F

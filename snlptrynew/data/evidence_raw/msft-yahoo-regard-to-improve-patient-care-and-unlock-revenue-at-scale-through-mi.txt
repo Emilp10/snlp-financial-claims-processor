@@ -1,0 +1,5 @@
+title: Regard to Improve Patient Care and Unlock Revenue at Scale Through Microsoft Dragon Copilot Collaboration
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=414bb5b41cadff4f866dd66db7169b292327a559627fc2eb1c094adeeb76d27d
+Regard, the leading Proactive Documentation platform that reviews all data in the electronic health record (EHR) to recommend diagnoses, today announced a collaboration to integrate its platform with Microsoft Dragon Copilot, an AI clinical assistant. The integration will enable broad access to Regard's capabilities for surfacing diagnostic insights and critical clinical context in real-time from EHR data, combined with Dragon Copilot's natural language, ambient, and generative AI capabilities.

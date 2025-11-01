@@ -1,0 +1,5 @@
+title: BlackRock & Goldman Sachs Beat Q3 Expectations and Post Record AUM
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=82fa50a03965e842c0ec9fffd85d8b565b09ac38e7908f34fa4e8d6a595e4dec
+BlackRock and Goldman Sachs helped highlight Tuesday's earnings lineup after exceeding their Q3 expectations and hitting records in assets under management (AUM).

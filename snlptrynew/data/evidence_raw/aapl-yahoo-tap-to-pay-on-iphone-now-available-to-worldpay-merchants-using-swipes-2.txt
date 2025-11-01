@@ -1,0 +1,5 @@
+title: Tap to Pay on iPhone Now Available to Worldpay Merchants Using SwipeSimple
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=e74654a37193561100d06a9cd35e6be9ff015d2a671e1e96c0bf701e7d2b81df
+CardFlight, Inc, and Worldpay®, a global leader in payment technology, today announced Tap to Pay on iPhone is now available to all SwipeSimple® merchants. Tap to Pay on iPhone is an easy, private, and secure way to ensure a SwipeSimple Worldpay merchant will always have the tools needed to accept a payment right on their iPhone — no additional hardware or payment terminal needed.

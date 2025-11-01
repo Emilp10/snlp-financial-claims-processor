@@ -1,0 +1,5 @@
+title: Kenvue Stock Falls 13% in Its Worst Day on Record
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=8945c5a816dff53ae95452e6b4b693a8e6a11760c32b8fec2757327a6b489c9e
+Shares of Kenvue fell 13% Thursday to $14.11, its lowest finish since the consumer healthcare firm spun off from Johnson & Johnson in 2023.  The decline was the sharpest on record for Kenvue, according to Dow Jones Market Data.  The fall surpassed the day last month that President Trump warned that the active ingredient in Kenvue's Tylenol is a potential cause of autism.

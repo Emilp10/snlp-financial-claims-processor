@@ -1,0 +1,5 @@
+title: GE Aerospace Q3 Earnings & Revenues Surpass Estimates, Increase Y/Y
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=8adc2f8ff43670b026f95a52020d60ba494c784e4699412055fdb5ce7a2378a4
+GE posts strong Q3 with 44% EPS growth and 24% revenue rise, outpacing estimates and boosting its 2025 outlook.

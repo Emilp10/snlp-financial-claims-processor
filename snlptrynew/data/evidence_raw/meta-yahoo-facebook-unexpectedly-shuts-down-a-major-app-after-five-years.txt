@@ -1,0 +1,5 @@
+title: Facebook unexpectedly shuts down a major app after five years
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=06068d4896c0a2e775971ccf53e81c0535a9bb89c0562357c9c84fe13a8f44e6
+Apps have become one of the most convenient ways to instantly access services and simplify everyday tasks, all while obtaining a personalized experience. However, as efficient as they are, apps can also be costly to maintain, and their profitability doesn't always justify ongoing support. For this ...

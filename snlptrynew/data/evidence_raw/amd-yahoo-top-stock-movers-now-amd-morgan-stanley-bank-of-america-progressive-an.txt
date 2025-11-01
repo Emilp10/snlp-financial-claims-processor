@@ -1,0 +1,5 @@
+title: Top Stock Movers Now: AMD, Morgan Stanley, Bank of America, Progressive, and More
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=0bb62803bc545ee7fb14d6f7b4c3b43f7e8fc2b4ee02f6f7258d3648b4159a58
+Major U.S. equities indexes climbed Wednesday afternoon in the wake of strong bank earnings and indications of more Federal Reserve rate cuts ahead.

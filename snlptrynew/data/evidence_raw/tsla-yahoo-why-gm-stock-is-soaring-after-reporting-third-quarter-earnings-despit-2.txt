@@ -1,0 +1,5 @@
+title: Why GM Stock Is Soaring After Reporting Third-Quarter Earnings Despite EV Woes
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=9a0af9f1b790e493d1ad8df25661eeff63d3b7b70424e4a18b045efe87d38f38
+General Motors surged at Tuesday's stock market open after the auto giant handily topped third-quarter earnings and revenue views, while raising guidance and reducing its expected tariff impact for 2025.  GM announced early Tuesday that Q3 EPS fell 5% to $2.80 while revenue declined less than 1% to $48.59 billion.

@@ -1,0 +1,5 @@
+title: Big Tech's AI ambitions are remaking the US power grid. Consumers are paying the price.
+source: Yahoo
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=d634f9785a21c1288a0bb30449e934016b53600801646ad4d52b3260eb5550e2
+Requests from Big Tech for power supply are skyrocketing. If that demand doesn't end up following through, utility companies could be stuck with the bill.

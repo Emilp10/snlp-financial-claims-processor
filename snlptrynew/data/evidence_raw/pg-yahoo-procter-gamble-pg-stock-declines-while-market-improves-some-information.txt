@@ -1,0 +1,5 @@
+title: Procter & Gamble (PG) Stock Declines While Market Improves: Some Information for Investors
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=42fea15c2259a3d2eb3d927fbed2e33b20f9818228ef13404118b28708cbbdd1
+The latest trading day saw Procter & Gamble (PG) settling at $150.41, representing a -1.22% change from its previous close.

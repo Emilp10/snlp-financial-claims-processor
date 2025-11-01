@@ -1,0 +1,5 @@
+title: Fee-Fi-Fo-Fum: Will OpenAI Be The Giant That Eats Software Companies?
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=0b2253622fa5d4db46759ac95d96d01d55fb8df21d7a6392c392794a751c34a6
+Wall Street is debating how big a threat OpenAI and its portfolio of artificial intelligence products pose to enterprise software companies.

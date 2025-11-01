@@ -1,0 +1,5 @@
+title: Amazon (AMZN) Beats Stock Market Upswing: What Investors Need to Know
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=a2b25ae7edc56ffd9cdf7d6ff0b71f5bc112259f9bbe55332c354590f1139703
+In the latest trading session, Amazon (AMZN) closed at $216.48, marking a +1.61% move from the previous day.

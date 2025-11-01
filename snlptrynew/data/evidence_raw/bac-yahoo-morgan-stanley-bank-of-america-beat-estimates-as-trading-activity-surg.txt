@@ -1,0 +1,5 @@
+title: Morgan Stanley, Bank of America Beat Estimates as Trading Activity Surges
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=0a62f04d7517ad95afe29fa595860b61a5a91e0d380869b4646bfeed64442b75
+Morgan Stanley and Bank of America both beat Wall Street estimates for third quarter earnings. It was a very special quarter for Morgan as its trading revenue finally surpassed that of rival Goldman Sachs. Goldman has dominated the equity-trading business in recent years. Bank of America also reported earnings that beat estimates on higher investment banking revenue. Bloomberg's Sridhar Natarajan reports on "Bloomberg Open Interest."

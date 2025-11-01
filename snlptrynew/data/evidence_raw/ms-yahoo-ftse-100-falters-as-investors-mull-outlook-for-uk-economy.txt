@@ -1,0 +1,5 @@
+title: FTSE 100 falters as investors mull outlook for UK economy
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=38d4a873eae68076f599caf1c99caa72127a084559478c0011c7539bb8cd85c3
+It comes as Rachel Reeves told Sky News that she is looking at both tax rises and spending cuts in the upcoming Budget.

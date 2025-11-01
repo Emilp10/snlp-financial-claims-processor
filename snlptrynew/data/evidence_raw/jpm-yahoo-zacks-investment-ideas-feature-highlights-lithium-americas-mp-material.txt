@@ -1,0 +1,5 @@
+title: Zacks Investment Ideas feature highlights: Lithium Americas, MP Materials, USA Rare Earth, Trilogy Metals and JPMorgan Chase
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=66fc93a3aaab95061a621f5ad2c4fb22387f1941dcead18d208ab0617a4fa778
+A rare earth surge is underway as LAC, MP, USAR, TMQ, and JPM capitalize on US supply chain initiatives.

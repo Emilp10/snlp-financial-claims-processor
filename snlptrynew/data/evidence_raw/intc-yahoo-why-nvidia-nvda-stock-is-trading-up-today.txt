@@ -1,0 +1,5 @@
+title: Why Nvidia (NVDA) Stock Is Trading Up Today
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=6db9a05bd680f03ce4e67c0434c5780c1fdb5309b970c8adc740ea1a6485dc65
+Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) jumped 2.6% in the afternoon session after President Donald Trump softened his stance on China tariffs, which boosted technology stocks, and the company made several announcements regarding new partnerships and product adoption for its AI data centers. The easing of trade tensions was particularly beneficial for chipmakers like Nvidia, as China represented a critical market for its data center products.

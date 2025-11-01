@@ -1,0 +1,5 @@
+title: Nscale signs deal with Microsoft for 200,000 Nvidia GB300 GPUs
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=d3891c030f4dec717b30cf3c324ee409e8ac68354ad779d926da3649a22d663f
+Nscale will carry out the expanded agreement through its own operations and through its JV with Aker.

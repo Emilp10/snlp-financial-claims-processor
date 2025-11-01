@@ -1,0 +1,5 @@
+title: Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=2eb987e1f45e8aede85bca089b2f7dc5408ea4fd90e76de403e01ce28a2a9ea1
+Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.

@@ -1,0 +1,5 @@
+title: Dow Jones Futures: Stock Market Falls On Bank Fears, Oracle Slips Late. What To Do Now.
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=9815ef4a0f9032c8695e2249137685a7dbdda9ddbf4790a2137896e3caaea630
+The stock market reversed lower Thursday as regional bank fears spiked. Interactive Brokers and Oracle fell late on news.

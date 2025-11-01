@@ -1,0 +1,5 @@
+title: S&P 500 Gains and Losses Today: Tesla and Ford Fall; AMD Extends OpenAI-Fueled Rally
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=6243dcb6ba6f91143d772874a0a819fabea27b0a2662526ce5643726688d561d
+Shares of the world's most valuable EV maker slumped on Tuesday, Oct. 7, 2025, after revealing lower-cost models, while a chipmaker added to its gains in the wake of a massive AI deal.

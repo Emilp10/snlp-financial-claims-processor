@@ -1,0 +1,5 @@
+title: Market Chatter: Bank of America Keeps EU Trading Desks Fully Staffed Over End-of-Year Period on Dutch Pension Risk
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=ecd1570af238624e307c5731f218a14fc9f5fb81ac51ae53a9aa096fdb02ad37
+Bank of America (BAC) is keeping its European rates trading desks fully staff over the end-of-year p

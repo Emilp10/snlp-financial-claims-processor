@@ -1,0 +1,5 @@
+title: AstraZeneca Strikes Drug-Pricing Deal With Trump Administration
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=78f4394e58d42f0b0a3fd285a0bacfb579cb04f8118f7d4f78bffdbee36ce6fe
+The agreement, which entails offering “most-favored nation” pricing, follows Pfizer’s deal to reduce prices for its drugs sold in the Medicaid program and through a direct-purchasing service to be branded TrumpRx.

@@ -1,0 +1,5 @@
+title: Zip Launches Powerful Suite of AI Agents to Help Companies Identify Overpayments and Negotiate Better Deals – Driving Cost Cutting Across All Categories of Spend
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=dc82a3ec06df385e6908ec767311ee89915d5c4d12b3fbf94060fd93e9739ace
+SAN FRANCISCO, October 21, 2025--Zip, the AI platform for procurement, today unveiled a powerful new suite of AI agents at its third annual Zip Forward conference, including its most powerful agent yet: the Price Negotiation Agent, which helps companies identity overpayments and negotiate better deals across all categories of spend, from IT and software to professional services, real estate, and advertising. The two-day event brought together more than 700 procurement and finance leaders, includ

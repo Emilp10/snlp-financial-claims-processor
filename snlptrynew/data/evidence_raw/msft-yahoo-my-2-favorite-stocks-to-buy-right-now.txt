@@ -1,0 +1,5 @@
+title: My 2 Favorite Stocks to Buy Right Now
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=a789973cdd20995fe6da21468a9dbad3b02af70a8a34935b75ac10b2d45d63f8
+Investors appear to be sleeping on Amazon and Dutch Bros.

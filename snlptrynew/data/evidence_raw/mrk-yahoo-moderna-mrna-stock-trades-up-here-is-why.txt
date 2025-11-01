@@ -1,0 +1,5 @@
+title: Moderna (MRNA) Stock Trades Up, Here Is Why
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=14a1c4d1d49348a5fa3be74c01f651f036708b33e72a4dde7764119a6862ffcf
+Shares of biotechnology company Moderna (NASDAQ:MRNA) jumped in the afternoon session after the company presented promising early data for its investigational cancer antigen therapy, mRNA-4359, from a Phase I/II study.

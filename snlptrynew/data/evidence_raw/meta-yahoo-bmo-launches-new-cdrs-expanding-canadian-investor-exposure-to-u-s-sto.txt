@@ -1,0 +1,5 @@
+title: BMO Launches New CDRs, Expanding Canadian Investor Exposure to U.S. Stocks, Including Berkshire Hathaway, Meta, Palantir, Walt Disney and UnitedHealth
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=d3e4f8baa6c0c1d196aa203be94170381e07b2e09027bb92a164c3e9e29e6da9
+Bank of Montreal (BMO) announced five new Canadian depositary receipts (CDRs) will begin trading on the Cboe Canada exchange today. The initial offering of these new CDRs has closed.

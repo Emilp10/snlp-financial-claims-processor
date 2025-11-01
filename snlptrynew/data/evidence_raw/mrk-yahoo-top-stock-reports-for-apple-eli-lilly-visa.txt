@@ -1,0 +1,5 @@
+title: Top Stock Reports for Apple, Eli Lilly & Visa
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=61d183e4eb7f53c15fe6741254730a10161bf14157b6958dd1bf953601abb40f
+Apple's strong Services growth, Eli Lilly's GLP-1 momentum, and Visa's digital expansion headline today's top stock reports.

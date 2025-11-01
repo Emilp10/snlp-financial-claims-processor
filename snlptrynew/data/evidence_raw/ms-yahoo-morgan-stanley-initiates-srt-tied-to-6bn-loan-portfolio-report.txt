@@ -1,0 +1,5 @@
+title: Morgan Stanley initiates SRT tied to $6bn loan portfolio-report
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=a85b3a6cfdaae29b278bf14e37637e0f8c0ec4191cf729822c21dd97d34b9751
+The SRT could reportedly amount to approximately $750m, representing 12.5% of the overall loan portfolio.

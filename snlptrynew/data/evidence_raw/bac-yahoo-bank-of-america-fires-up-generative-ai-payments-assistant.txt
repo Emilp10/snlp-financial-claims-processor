@@ -1,0 +1,5 @@
+title: Bank of America fires up generative AI payments assistant
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=d4286602dc2c18d2cd35542b75f77acbaf84222e88f5bab6f492019c5897092c
+AskGPS was trained on more than 3,200 internal documents by the company’s in-house engineering team and rolled out last week.

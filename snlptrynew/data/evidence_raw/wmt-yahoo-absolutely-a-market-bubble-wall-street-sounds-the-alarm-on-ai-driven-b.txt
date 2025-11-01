@@ -1,0 +1,5 @@
+title: ‘Absolutely' a market bubble: Wall Street sounds the alarm on AI-driven boom as investors go all in
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=a910bdfc64fb55ddb2d59a1a9ffdf2e055e32d09a706e0877a0e03e25a7bbd92
+Wall Street is warning the AI trade may be overheating as record spending, investor optimism, and soaring valuations fuel fresh fears of a bubble.

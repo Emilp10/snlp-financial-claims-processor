@@ -1,0 +1,15 @@
+{
+  "earningsCalendar": [
+    {
+      "date": "2025-10-24",
+      "epsActual": 1.99,
+      "epsEstimate": 1.952,
+      "hour": "bmo",
+      "quarter": 1,
+      "revenueActual": 22386000000,
+      "revenueEstimate": 22839839689,
+      "symbol": "PG",
+      "year": 2026
+    }
+  ]
+}

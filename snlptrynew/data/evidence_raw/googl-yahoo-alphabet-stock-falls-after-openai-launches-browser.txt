@@ -1,0 +1,5 @@
+title: Alphabet stock falls after OpenAI launches browser
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=a689298e7bbf77df5b9548f962275dc4a763712148d6d0bfd1f28b1bf4149fb2
+Investing.com -- Alphabet (NASDAQ:GOOGL) stock declined 3% Tuesday after OpenAI announced a new AI-powered web browser, ChatGPT Atlas.

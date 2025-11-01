@@ -1,0 +1,5 @@
+title: Boeing Stock Rises 41.4% in a Year: What Should Investors Do Now?
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=96ae39b9de470f2f5206b85bdf07c7f0cfdaf2d48ef5aa673ca8285d7c852e08
+BA's 41% stock surge is fueled by booming jet orders and defense wins, but weak ROIC and fading estimates may test investors' confidence.

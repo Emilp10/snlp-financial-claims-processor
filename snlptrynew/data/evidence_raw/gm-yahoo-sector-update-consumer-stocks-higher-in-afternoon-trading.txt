@@ -1,0 +1,5 @@
+title: Sector Update: Consumer Stocks Higher in Afternoon Trading
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=531e69819233274e1a057521cb2132a9927257cae114945f1347e4f736fe12fc
+Consumer stocks rose Tuesday afternoon with the Consumer Staples Select Sector SPDR Fund (XLP) incre

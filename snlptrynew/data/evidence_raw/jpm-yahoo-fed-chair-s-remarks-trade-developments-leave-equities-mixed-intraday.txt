@@ -1,0 +1,5 @@
+title: Fed Chair's Remarks, Trade Developments Leave Equities Mixed Intraday
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=5b616f1a939fd0610647238e629213c6224291927f80e41526121c3e3f6ec712
+US benchmark equity indexes were mixed intraday as traders parsed comments by Federal Reserve Chair

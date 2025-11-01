@@ -1,0 +1,5 @@
+title: Omdia: Mainland China’s Smartphone Market Declined 3% in 3Q25 as Vivo Regained Top Position Amid Intensifying Competition
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=77489e51aa8261fc6e9ed72d0a4f190666e8011039da0e4c54799151d6bbdb9d
+LONDON, October 16, 2025--According to Omdia’s latest research, mainland China’s smartphone market declined 3% year on year in 3Q25. The market remains in an adjustment phase, while competition among leading vendors has intensified, with shipment gaps between the top players continuing to narrow. vivo regained the top spot with shipments of 11.8 million units, accounting for an 18% market share. Huawei followed closely in second place with 10.5 million units and a 16% share. Apple maintained its

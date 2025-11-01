@@ -1,0 +1,5 @@
+title: Trending tickers: Netflix, Beyond Meat, Texas Instruments, Hermès and Heineken
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=69d3fd43e53b63244e85305c14a156b7b071ec9a579aeef7cc6da2e260b158c9
+The latest investor updates on stocks that are trending on Wednesday.

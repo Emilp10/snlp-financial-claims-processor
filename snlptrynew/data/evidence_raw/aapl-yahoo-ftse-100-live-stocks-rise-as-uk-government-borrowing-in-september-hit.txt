@@ -1,0 +1,5 @@
+title: FTSE 100 LIVE: Stocks rise as UK government borrowing in September hits highest for five years
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=b69584bdcf010ccf762aa1720f0ea149b6ebcae28cef4354ec27adad2772abf8
+The data from the Office for National Statistics means that since the financial year began in April, the UK has borrowed almost £100bn.

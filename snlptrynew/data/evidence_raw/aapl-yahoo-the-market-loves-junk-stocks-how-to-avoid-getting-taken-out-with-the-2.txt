@@ -1,0 +1,5 @@
+title: The Market Loves Junk Stocks. How to Avoid Getting Taken Out With the Trash.
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=97722c65a12670ede4bf9bfce0983801de5a877ac29a571cbd54fd1a87c6a1db
+It’s a stock market only a sanitation worker could love.  Of late, investors scrounging for stocks have preferred junk—smaller companies with poor fundamentals and exorbitant valuations—over quality companies with healthy sales and earnings growth, solid balance sheets, and more attractive prices.  Goldman Sachs pointed out in a recent report that a basket of heavily shorted stocks, often considered the trashiest of the trash, had surged 24% in just the past month.

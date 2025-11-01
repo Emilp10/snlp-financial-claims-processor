@@ -1,0 +1,5 @@
+title: Gimlet Labs Emerges from Stealth with 8-Figure Revenues, Fundamentally Shifting the Paradigm in How Agentic AI Workloads Are Run and Opening Up New Compute Capacity
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=464bd2d8a0f8c87f7b1500dbbaceba7c74aa3463738d79aa63da23aa90de91eb
+SAN FRANCISCO, Oct. 22, 2025 (GLOBE NEWSWIRE) -- Today Gimlet Labs, the Applied AI research and product company, launched with its platform that is the first to seamlessly decouple agentic AI workloads from underlying hardware, slice each workload into components and intelligently map each component to the hardware that is right-sized for its needs. Gimlet Labs has 8-figure revenues; its platform is deployed at AI-native and Fortune 500 companies, powering workloads that span multi-generation an

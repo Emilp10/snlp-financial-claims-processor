@@ -1,0 +1,5 @@
+title: Microsoft Introduces AI Updates to Windows 11 Operating System
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=78f8a89e5cb6e8b67687c00fd5ec364352281eda080804be691b5679409f64cb
+Microsoft (MSFT) on Thursday unveiled a series of new updates to its Windows 11 operating system aim

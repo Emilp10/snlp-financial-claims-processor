@@ -1,0 +1,5 @@
+title: Keeping Track of the Soaring "White House" Stocks: INTC, LAC, MP, TMQ
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=9f2452b704b29cd9d8762e64f17d689a527d2eb02165ab991b352e866d306d8b
+The Trump trade has taken on a literal connotation, with the White House recently investing in several mining and technology companies that have publicly traded stocks.

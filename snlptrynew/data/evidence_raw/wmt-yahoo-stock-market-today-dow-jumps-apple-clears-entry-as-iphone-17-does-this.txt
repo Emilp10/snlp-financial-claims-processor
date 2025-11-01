@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Jumps, Apple Clears Entry As iPhone 17 Does This; These Gold Stocks Shine (Live Coverage)
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=fdefd2fe925d8635fd269e57802109f11db645a9d3ddd65791bb8b7317536471
+The Dow Jones index was up Monday but lagged the Nasdaq. Cleveland-Cliffs soared on the stock market today. Amazon rose amid an AWS outage.

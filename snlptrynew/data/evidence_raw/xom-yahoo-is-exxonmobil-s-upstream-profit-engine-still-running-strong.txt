@@ -1,0 +1,5 @@
+title: Is ExxonMobil's Upstream Profit Engine Still Running Strong?
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=713710bd22609ce2a121808056929f704850dc18fe863e7c1a0255a984929ad0
+XOM aims to keep its upstream profits resilient by boosting low-cost production and cutting breakeven costs to $30 per barrel by 2030.

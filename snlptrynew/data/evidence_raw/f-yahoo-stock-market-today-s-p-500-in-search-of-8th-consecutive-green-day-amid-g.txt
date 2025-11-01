@@ -1,0 +1,5 @@
+title: Stock Market Today: S&P 500 In Search of 8th Consecutive Green Day Amid Gov't Shutdown
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=9508e30977ea7fe95ee3309f42566cce4291501857c78101064e871ff9fd5dd6
+We'll be missing export, imports, and balance of trade data today because of the gov't closure

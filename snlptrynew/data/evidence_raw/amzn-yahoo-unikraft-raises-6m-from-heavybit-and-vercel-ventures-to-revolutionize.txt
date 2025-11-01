@@ -1,0 +1,5 @@
+title: Unikraft Raises $6M From Heavybit And Vercel Ventures To Revolutionize AI Cloud Speed With Millisecond-Native Platform
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=7220dddb62e52f6dec39c12b7fb1e696e20cdf1df84a3c03af39dd2460a37f66
+Unikraft, a startup that spent nearly a decade engineering solutions to wasteful computing, announced Oct. 10 that it raised $6 million to commercialize technology that could transform how companies deploy AI workloads. The seed round was led by ...

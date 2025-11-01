@@ -1,0 +1,5 @@
+title: Quantum Computing Stocks, AI Infrastructure Plays Tumble As Major Indexes Rally
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=4bc88e3494814553329d476943a6ad7c34c9187d4818f9139b61a80fd32cb57f
+Quantum computing stocks fell Monday amid a big day for the Nasdaq composite, continuing their roller-coaster ride in 2025.

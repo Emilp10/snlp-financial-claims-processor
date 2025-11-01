@@ -1,0 +1,5 @@
+title: Goldman Posts Solid Growth in Q3 IB Fees: Will the Trend Continue?
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=9d7b69c76507df1853c473c9e28d14d131bb476ae6461c5e1b7cbeb678a5f0a6
+GS records a 42.5% surge in Q3 2025 IB fees, fueled by robust M&A activity and rising advisory revenues.

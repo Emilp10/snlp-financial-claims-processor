@@ -1,0 +1,5 @@
+title: Google Announces Quantum Computing Breakthrough, but Real-World Applications Are Still Elusive
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=cdcf0c4b9951e45459e5ae4d765f1e62a3a75d4f14d8228e65db1ca1babaff20
+Google's Willow quantum chip outperforms a supercomputer by a factor of 13,000.

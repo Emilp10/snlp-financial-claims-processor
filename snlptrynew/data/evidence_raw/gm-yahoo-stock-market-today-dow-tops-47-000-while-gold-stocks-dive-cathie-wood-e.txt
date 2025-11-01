@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Tops 47,000 While Gold Stocks Dive; Cathie Wood Exits Nuclear Play (Live Coverage)
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=b5683c938bf15ded70e8463c07023b4174f0bf8ed721c489013cb345db669ab4
+Stock Market Today: The Dow Jones index rose near record highs Tuesday. GM stock surged on strong earnings results.

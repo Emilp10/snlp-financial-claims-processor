@@ -1,0 +1,5 @@
+title: Bank Stocks Are on Pace for Best Week Since August
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=d0b55a8f02ff498a112c67c2461fa52145335d0200b7a3e270cf724d77cfd79a
+A large banking-sector exchange-traded fund was on track for its largest weekly gain in two months after Bank of America, Morgan Stanley, JPMorgan Chase, and other major lenders reported strong earnings.

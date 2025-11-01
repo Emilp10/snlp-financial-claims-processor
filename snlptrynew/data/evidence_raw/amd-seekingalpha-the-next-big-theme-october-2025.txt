@@ -1,0 +1,5 @@
+title: The Next Big Theme: October 2025
+source: SeekingAlpha
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=8571466b2248aa303670154f1f056ed61553bf62fb81bd3f3994c816e156cafa
+OpenAI and Nvidia inked a landmark deal under which OpenAI will deploy at least 10 gigawatts of Nvidia systems for its next-gen AI infrastructure. Read more here.

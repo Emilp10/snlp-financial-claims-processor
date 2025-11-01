@@ -1,0 +1,5 @@
+title: Are We In A Bubble?
+source: SeekingAlpha
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=7a9641cf8dede0883c89f598cd1f8daf847d352c132a9dd870cb6f16261edf3a
+OpenAIâs debt-fueled AI buildout signals a late-cycle capex bubble, warns Brasada Capital. See why they favor hyperscalers and critical suppliers over mid-stack bets.

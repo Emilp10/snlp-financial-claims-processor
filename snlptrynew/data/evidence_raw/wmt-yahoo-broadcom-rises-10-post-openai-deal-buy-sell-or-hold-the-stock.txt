@@ -1,0 +1,5 @@
+title: Broadcom Rises 10% Post OpenAI Deal: Buy, Sell or Hold the Stock?
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=ae1477e4c3ccf6335deb10c19daf91b189c975499300e3f5e74d61581a7cd6fa
+AVGO shares soar after sealing a major AI accelerator deal with OpenAI, underscoring its growing dominance in next-gen chip development.

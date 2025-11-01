@@ -1,0 +1,5 @@
+title: Stock market today: Dow, S&P 500, Nasdaq futures fall as uncertainty clouds markets
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=2a0cd174a6009c568dd320583b4487b24c525bff4e4bdd3be4d05c44bcdd7b0b
+US stock futures fell as investors took stock of a turbulent week for markets and rising uncertainty.

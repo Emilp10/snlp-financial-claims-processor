@@ -1,0 +1,5 @@
+title: Stock Markets Are Primed to Rally. Trade-War Risks Are Standing in the Way.
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=45a93e320d42c749e4a62340209b5d184bf318746094c8068dff5d583863e087
+The bull market in stocks, now entering its fourth year, has a host of tailwinds behind it, but the renewed risk of a trade war between Washington and Beijing is likely to linger over investor sentiment for the next several months.  President Donald Trump’s latest salvo in the reheated spat between the U.S. and China, delivered during the final minutes of Tuesday’s trading session and focused curiously on cooking oil, snuffed out a solid market rally and dragged all three major indexes into the red by the time the closing bell sounded.  Last week’s record-setting rally was also stopped dead in its tracks when the president threatened an additional 100% tariff on China-made goods in retaliation for Beijing’s decision to limit the export of rare-earth elements that are critical to the U.S. tech sector.

@@ -1,0 +1,5 @@
+title: Earnings Are Coming. Wall Street Hopes Strong Profits Can Keep the Market Rally Going.
+source: Yahoo
+date: 2025-10-06
+url: https://finnhub.io/api/news?id=309a544838bb1c11a4b759cca0698a2c912510216becc69cfe7ee748d9cb94ca
+Third-quarter profit growth should be solid. Tech and AI will lead the way, but earnings momentum could broaden too.

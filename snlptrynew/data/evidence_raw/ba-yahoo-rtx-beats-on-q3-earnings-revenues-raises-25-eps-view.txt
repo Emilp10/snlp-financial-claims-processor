@@ -1,0 +1,5 @@
+title: RTX Beats on Q3 Earnings & Revenues, Raises '25 EPS View
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=191c0ec452b50f815bc63bfca21db9453094ccc456a348a7c06453f44674070d
+RTX delivers strong Q3 results, with EPS and sales topping estimates and full-year guidance up on broad segment gains.

@@ -1,0 +1,5 @@
+title: US Equity Markets Lower as Data Reports Rising Inflation Expectations Amid Extended Partial US Government Shutdown
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=c6b3217652bd32c81db5d6267d9875cea2fafed129aab8ef86f3ecc0c00a6ad8
+US equity indexes were lower on Tuesday as inflation expectations rose while the ongoing federal gov

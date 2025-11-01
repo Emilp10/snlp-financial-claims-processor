@@ -1,0 +1,5 @@
+title: AMD Stock Is Rising. Its AI Chip Business Is ‘Underestimated:’ Analyst.
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=d4a96cb69db6606fbc1af94c0cb959a2cb00b9cb99729e37ba025e5fe8af3a91
+Advanced Micro Devices  stock is rallying as Wall Street is growing more optimistic about its position in the artificial-intelligence semiconductor market.  On Wednesday, HSBC analyst Frank Lee raised his price target for the AMD stock to $310 from $185 and reaffirmed his Buy rating.  “We believe this deal gives enhanced visibility into AMD’s AI GPU revenue opportunity till 2030.”

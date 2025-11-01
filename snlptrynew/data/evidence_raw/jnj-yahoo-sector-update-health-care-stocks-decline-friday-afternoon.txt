@@ -1,0 +1,5 @@
+title: Sector Update: Health Care Stocks Decline Friday Afternoon
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=ebfa27236efd8b0a03f06d8f5003b3b9af448ed02da43fe5222a06419786e301
+Health care stocks were lower Friday afternoon, with the NYSE Health Care Index and the Health Care

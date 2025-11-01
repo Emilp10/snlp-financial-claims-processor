@@ -1,0 +1,5 @@
+title: Energy Transition Update - Europe's Largest Battery Storage Boosts UK Grid Stability
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=8b2c6e27fba24c53380bac820ddfa01bf7777dc2a5fddefe5927e15809654c92
+Copenhagen Infrastructure Partners (CIP) has agreed to divest a 50% stake in its Coalburn 2 battery project to AIP Management. Once operational, Coalburn 2 will be one of Europe's largest battery storage facilities, playing a crucial role in enhancing grid stability and integrating renewable energy sources in the UK. With a capacity of 500MW, the lithium-ion energy storage system will support the UK's electricity system by providing flexible capacity and contributing to energy security. This...

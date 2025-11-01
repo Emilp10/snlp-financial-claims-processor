@@ -1,0 +1,3 @@
+claim_id,claim_text,label,evidence_urls,claim_date,notes
+CLAIM_001,Tesla acquired Lucid Motors in 2025,False,"[\"https://www.reuters.com/\"]",2025-10-15,No filings confirm this M&A; multiple denials in press
+CLAIM_002,HDFC Bank to merge with Adani Group by 2025,False,"[\"https://www.reuters.com/\",\"https://www.sec.gov/\"]",2025-10-21,Denials and lack of regulatory filings

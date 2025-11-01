@@ -1,0 +1,5 @@
+title: P&G Declares Quarterly Dividend At October 2025 Board of Directors Meeting
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=e3c444e503c125fa1c1c114799bb7e0bc49b92fae08ffc401708dddca063d8d6
+CINCINNATI, October 14, 2025--The Procter & Gamble Company (NYSE:PG) announced at today’s Annual Meeting of Shareholders that the P&G Board of Directors declared a quarterly dividend of $1.0568 per share on the Common Stock and on the Series A and Series B ESOP Convertible Class A Preferred Stock of the Company, payable on or after November 17, 2025 to Common Stock shareholders of record at the close of business on October 24, 2025, and to Series A and Series B ESOP Convertible Class A Preferred

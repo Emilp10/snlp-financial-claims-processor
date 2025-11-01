@@ -1,0 +1,5 @@
+title: Chip stocks rise after TSMC's rosy outlook on strong AI demand
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=4f147322506e4ac8fb2969fa95d607600b25a3c2faf9d47287619c7c9bbb1ae7
+(Reuters) -Semiconductor stocks advanced on Thursday after top contract chipmaker TSMC (TSM) issued a rosy forecast, fanning optimism about demand for artificial intelligence infrastructure in a week of multi-billion-dollar deals across the sector.

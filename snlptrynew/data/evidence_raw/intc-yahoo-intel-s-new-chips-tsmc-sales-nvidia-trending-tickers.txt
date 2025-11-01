@@ -1,0 +1,5 @@
+title: Intel's new chips, TSMC sales, Nvidia: Trending Tickers
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=466c10fa2eb429b7e880d58afed13a9cc9e4919c1f574f8e5893489949c88603
+Morning Brief host Julie Hyman tracks several of the day's top trending stock tickers, including Intel (INTC) debuting its new Core Ultra series 3 processor — codenamed Panther Lake — its first chip built using its 18A process technology, Taiwan Semiconductor Manufacturing Company (TSM) reports strong September sales, and Nvidia (NVDA) receives a price target boost by Cantor Fitzgerald. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.

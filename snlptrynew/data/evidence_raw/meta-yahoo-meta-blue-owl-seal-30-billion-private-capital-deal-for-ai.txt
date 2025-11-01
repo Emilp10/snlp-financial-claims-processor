@@ -1,0 +1,5 @@
+title: Meta, Blue Owl Seal $30 Billion Private Capital Deal for AI
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=3343fd271c9f66fe8737765c45e041afde4f1bca766c0fd467fc684f322f3c52
+Blue Owl Capital Inc. and Meta will split ownership of the Hyperion data center site in Richland Parish, Louisiana, with the tech giant retaining just 20% of it, according to people with knowledge of the matter.  To finance the build-out, Morgan Stanley arranged over $27 billion of debt and about $2.5 billion of equity into a special purpose vehicle — a structure for large deals that’s becoming increasingly common.

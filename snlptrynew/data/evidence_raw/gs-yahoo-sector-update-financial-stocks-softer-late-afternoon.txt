@@ -1,0 +1,5 @@
+title: Sector Update: Financial Stocks Softer Late Afternoon
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=c621053f443bf1676dd8bf6139535fc69b13fe5f78442e46c13c880935d65e75
+Financial stocks declined in late Wednesday afternoon trading, with the NYSE Financial Index and the

@@ -1,0 +1,5 @@
+title: Basic Materials Roundup: Market Talk
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=c6e27904b8d222c0a8a8925dc4fa8225822cbc5c9ac88b2267403dda34667f05
+Find insight on BASF, Merdeka Gold Resources and more in the latest Market Talks covering basic materials.

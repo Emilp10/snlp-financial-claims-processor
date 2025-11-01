@@ -1,0 +1,15 @@
+{
+  "country": "US",
+  "currency": "USD",
+  "estimateCurrency": "USD",
+  "exchange": "NASDAQ NMS - GLOBAL MARKET",
+  "finnhubIndustry": "Automobiles",
+  "ipo": "2010-06-29",
+  "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png",
+  "marketCapitalization": 1442184.4744892467,
+  "name": "Tesla Inc",
+  "phone": "15125168177",
+  "shareOutstanding": 3325.15,
+  "ticker": "TSLA",
+  "weburl": "https://www.tesla.com/"
+}

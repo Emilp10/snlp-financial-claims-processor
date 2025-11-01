@@ -1,0 +1,5 @@
+title: Jabil (JBL) Stock Is Up, What You Need To Know
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=96f302ee601a91d1e10d43e28575004e3f70e94dfc3b93d15ac200f2897ceafc
+Shares of electronics manufacturing services provider Jabil (NYSE:JBL) jumped 3.2% in the afternoon session after the company announced the launch of its new J-422G servers designed to meet the growing demands of artificial intelligence (AI) and data center customers.

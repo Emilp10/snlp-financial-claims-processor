@@ -1,0 +1,5 @@
+title: Exxon Restarts Key Gasoline Unit After Brief Beaumont Refinery Outage
+source: Yahoo
+date: 2025-10-11
+url: https://finnhub.io/api/news?id=82d2a3bc51b8b56402e3c445faa4b26c466b05134bbf6fa3e110f77790ba3119
+ExxonMobil has restarted the gasoline-producing fluid catalytic cracking unit (FCCU) at its massive Beaumont, Texas, refinery, two days after an unexpected shutdown temporarily disrupted operations

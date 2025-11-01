@@ -1,0 +1,5 @@
+title: Better Stock to Buy Right Now: Apple vs. Amazon
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=8600b348e0d49a9c52704cf21b3967e895bafae4c444e0df643a420015a7235c
+Both members of the "Magnificent Seven" are just treading water this year.

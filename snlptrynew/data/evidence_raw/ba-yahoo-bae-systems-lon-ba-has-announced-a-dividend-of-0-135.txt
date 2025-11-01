@@ -1,0 +1,5 @@
+title: BAE Systems (LON:BA.) Has Announced A Dividend Of £0.135
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=24b970e63caae252eab85a440cd5af33f27a87c83bf3b5409335b2ae6e0e5b3b
+BAE Systems plc ( LON:BA. ) has announced that it will pay a dividend of £0.135 per share on the 3rd of December. This...

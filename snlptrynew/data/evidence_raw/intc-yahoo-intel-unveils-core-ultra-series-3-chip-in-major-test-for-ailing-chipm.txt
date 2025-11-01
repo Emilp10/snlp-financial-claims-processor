@@ -1,0 +1,5 @@
+title: Intel unveils Core Ultra series 3 chip in major test for ailing chipmaker
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=8a099e072a1094fa9a7cbb43f86c7845cdfd15b051a9a04eeb4f91c998cf659b
+Intel's Core Ultra series 3 chips are based on its highly anticipated 18A technology.

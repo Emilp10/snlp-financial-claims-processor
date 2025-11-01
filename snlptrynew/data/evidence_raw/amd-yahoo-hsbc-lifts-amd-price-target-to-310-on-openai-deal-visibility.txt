@@ -1,0 +1,5 @@
+title: HSBC Lifts AMD Price Target to $310 on OpenAI Deal Visibility
+source: Yahoo
+date: 2025-10-18
+url: https://finnhub.io/api/news?id=e56e35c0e4e7929a31b1b7339589ec688693fd717a021dc07d5d37647ceb9898
+Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee raised his price target on the stock to $310 from $185 and reaffirmed his Buy rating. The firm believes that AMD’s OpenAI deal is poised to bring massive AI revenue upside potential. “OpenAI deal […]

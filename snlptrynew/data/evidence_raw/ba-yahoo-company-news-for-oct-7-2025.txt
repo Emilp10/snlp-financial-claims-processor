@@ -1,0 +1,5 @@
+title: Company News for Oct 7, 2025
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=4a7b164dd6d3899f77401561759a01fda026c73cef4c87d4d2f719a1f484f100
+Companies in The News Are: COIN,BA,TSLA,GOOGL

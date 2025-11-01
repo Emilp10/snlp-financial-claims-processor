@@ -1,0 +1,5 @@
+title: Quantum stocks soar on report that Trump administration is discussing equity stakes in companies
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=adc5dbeece621479a82bc5eb229d64d3d91b090fd611181d8ac05fa6ee2e76d0
+IonQ, Rigetti Computing, D-Wave and Quantum Computing stocks soared Thursday.

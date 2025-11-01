@@ -1,0 +1,5 @@
+title: Why Cipher Mining Stock Gained 10.3% This Week
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=9afa38d1e554913e2602bf12dc014081aee66c93bf009abfdb16bb5eb614295a
+Why is Cipher Mining soaring while Bitcoin falls? The answer involves artificial intelligence (AI) and a deal with Google-backed Fluidstack.

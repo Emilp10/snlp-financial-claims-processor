@@ -1,0 +1,5 @@
+title: Average UK house asking price rises over £1,000 in October
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=9fc33a22aaebe9851c3a20df71dc5e34b9c7b79e7cc885933764e92cfaf279ee
+Average new seller asking prices hit £371,422 this month, says Rightmove.

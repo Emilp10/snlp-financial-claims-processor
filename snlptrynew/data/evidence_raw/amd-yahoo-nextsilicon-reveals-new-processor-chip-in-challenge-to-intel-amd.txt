@@ -1,0 +1,5 @@
+title: NextSilicon reveals new processor chip in challenge to Intel, AMD
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=693252adb29caa54120022c843fd44081768ca8e03b6c1c83600cc06e55b028d
+SAN FRANCISCO (Reuters) -NextSilicon, an Israeli startup whose computing chips are being evaluated by U.S. national labs, on Wednesday said it is developing a central processor that it hopes will rival Intel and AMD and help it compete with Nvidia's systems.  NextSilicon's has raised $300 million in funding and its flagship "Maverick-2" chip is designed to speed up precision scientific computing tasks such as modeling nuclear weapons.  On Wednesday, NextSilicon also disclosed for the first time that it is developing a complement to its main chip in the form of a new central processing unit, a market still dominated by Intel and AMD.

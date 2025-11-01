@@ -1,0 +1,5 @@
+title: Kumo Wins Fast Company's Next Big Things in Tech Award for Advancing AI on Enterprise Data
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=8a41acc87d5a1a54de000b08161ec8a36182e027a0db4081a8837373b86d6bbe
+Kumo, a leader in predictive AI, today announced that it has been named on Fast Company's fifth annual Next Big Things in Tech list. Kumo joins a distinguished group of 137 honorees across 31 categories, including companies such as Google, GitHub, and Snap. Kumo was recognized in the Foundational AI category, which celebrates organizations advancing the core technologies that power the next generation of intelligent systems.

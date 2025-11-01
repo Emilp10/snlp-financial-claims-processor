@@ -1,0 +1,5 @@
+title: Microsoft Investors Focus on Azure, OpenAI Ahead of Q1 Results, Morgan Stanley Says
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=40466a003e1fab5618d1f745a3834ea698baacb6e4815c20752be318d81cd5d9
+Microsoft (MSFT) investors are watching the durability of Azure's growth and the company's evolving

@@ -1,0 +1,5 @@
+title: Sector Update: Health Care Stocks Advance Monday Afternoon
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=66d5a95ef6731ccf6f4aa87317fee196715bc369b42918ac99cb391528d060a6
+Health care stocks rose Monday afternoon, with the NYSE Health Care Index up 0.9% and the Health Car

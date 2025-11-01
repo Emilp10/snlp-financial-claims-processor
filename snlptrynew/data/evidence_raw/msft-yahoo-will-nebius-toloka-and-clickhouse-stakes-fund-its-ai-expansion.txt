@@ -1,0 +1,5 @@
+title: Will Nebius' Toloka and ClickHouse Stakes Fund Its AI Expansion?
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=3a3da8fa3ec63e9c35976e91a617dd4264e5d5ae96649b5b7bdb3c82ceb005ad
+NBIS' $17.4 billion Microsoft deal and surging AI demand spotlight how its ClickHouse and Toloka stakes can bankroll the next wave of expansion.

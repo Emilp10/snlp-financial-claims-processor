@@ -1,0 +1,5 @@
+title: GE: Q3 Earnings Snapshot
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=c32402e56947883157a5147f2f55b9fd4dcd9ef0a9dc3a32c0760151a77b8368
+EVENDALE, Ohio (AP) — GE Aerospace (GE) on Tuesday reported third-quarter earnings of $2.16 billion. On a per-share basis, the Evendale, Ohio-based company said it had net income of $2.02. Earnings, adjusted for non-recurring gains, came to $1.66 per share.

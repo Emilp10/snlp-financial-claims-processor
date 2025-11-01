@@ -1,0 +1,5 @@
+title: KeyCorp Q3 Earnings Beat Estimates on Higher Revenues, Stock Gains
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=ea6b09b218c6ff2752eacca579c9ccd3e0b59dac67a6aeeaba4811e9aaf94241
+KEY's Q3 earnings rise 36.7% y/y as higher net interest and non-interest income drive results.

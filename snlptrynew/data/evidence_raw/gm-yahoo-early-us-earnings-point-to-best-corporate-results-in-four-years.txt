@@ -1,0 +1,5 @@
+title: Early US Earnings Point to Best Corporate Results in Four Years
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=3f8c9974dd6097d3e650e9dfc89024f4a535d2f0ab103d7d4650faadb5b4e6dd
+About 85% of S&P 500 firms to have reported third-quarter earnings so far have surpassed profit estimates, on course for the best performance since 2021, according to data compiled by Bloomberg Intelligence.  It’s still early in the season, given that less than a fifth of the index’s market capitalization has announced results, but it’s an indication that US profits remain strong in the face of tariffs and an uncertain economy.  A majority of S&P 500 firms typically surpass expectations, but this season stands out considering that analysts had set the bar higher by raising projections heading into the reporting period.

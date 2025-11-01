@@ -1,0 +1,5 @@
+title: Inflation Data, P&G Earnings: What to Watch for Thursday and Friday
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=5e881f2af3e7ec5a9536b108450f71f06c76b2ff87bb852f61fedca523c252a6
+The U.S. government shutdown continues, but investors won't be completely starved for economic data. Friday brings a delayed look at September’s consumer-price index, a key inflation reading that will factor into the Federal Reserve’s next decision on interest rates.

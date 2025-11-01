@@ -1,0 +1,5 @@
+title: US Equity Indexes Decline as Investors Pare Risk Ahead of Tesla's Quarterly Results
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=d3c89f503a9b0282de68a9d4f5a2af7f6f976fa2c455e5d97a4845897e54c219
+US equity indexes fell as investors, weighing Netflix's (NFLX) disappointing earnings, took a breath

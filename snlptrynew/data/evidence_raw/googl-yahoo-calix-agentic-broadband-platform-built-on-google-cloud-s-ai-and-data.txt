@@ -1,0 +1,5 @@
+title: Calix Agentic Broadband Platform, Built on Google Cloud’s AI and Data Infrastructure, Will Deliver Breakthrough Innovation for Providers To Lead in the AI Era
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=b1f15c8e9c0919d280cb8b50c8ce2719006456a530c2d2d4a52ed3db3969d9b7
+LONDON & SAN JOSE, Calif., October 21, 2025--Calix, Inc. (NYSE: CALX) today announced the next generation of the Calix Broadband Platform, fully evolved for agentic AI and purpose-built to address the workflow, data, security, and insight requirements of broadband service providers (BSPs). Leveraging 14 years of platform innovation, deep operational expertise, and built on Google Cloud’s trusted AI and data infrastructure, including Vertex AI and Google’s Gemini models, Calix has extended its pl

@@ -1,0 +1,5 @@
+title: Sector Update: Financial Stocks Decline in Afternoon Trading
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=c2b099c4d88b81c065af7adf095d057ef85c31b7fbf611205edbc5140de7fa0d
+Financial stocks were softer Wednesday afternoon trading, with the NYSE Financial Index and the Fina

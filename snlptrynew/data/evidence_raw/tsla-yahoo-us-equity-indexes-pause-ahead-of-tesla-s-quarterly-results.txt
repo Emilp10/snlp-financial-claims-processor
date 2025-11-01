@@ -1,0 +1,5 @@
+title: US Equity Indexes Pause Ahead of Tesla's Quarterly Results
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=a14677fab39f47d59801421e5955c41af5b757551e7e03ab8bf71ef4cf50e6df
+US equity indexes took a breather ahead of Tesla's (TSLA) quarterly results after the bell and as Ne

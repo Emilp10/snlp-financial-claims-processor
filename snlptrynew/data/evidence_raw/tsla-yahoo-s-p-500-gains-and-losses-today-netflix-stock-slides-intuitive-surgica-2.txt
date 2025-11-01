@@ -1,0 +1,5 @@
+title: S&P 500 Gains and Losses Today: Netflix Stock Slides; Intuitive Surgical Pops After Earnings
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=6fd56d3f64ad442a6d7e3c36e8092de7dc38d9c4455895ccaa03dc7b6e3b43b0
+A video streamer faced pressure on Wednesday, Oct. 22, 2025, as a one-time tax event weighed on its earnings, while strong results boosted a maker of robotic surgical devices.

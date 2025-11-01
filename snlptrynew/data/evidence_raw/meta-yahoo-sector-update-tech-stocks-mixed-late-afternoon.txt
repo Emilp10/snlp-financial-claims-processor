@@ -1,0 +1,5 @@
+title: Sector Update: Tech Stocks Mixed Late Afternoon
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=67a5033108f28262636337afbc7dab5b524757785ffc1f1d4641f133abbd4829
+Tech stocks were mixed late Friday afternoon, with the Technology Select Sector SPDR Fund (XLK) gain

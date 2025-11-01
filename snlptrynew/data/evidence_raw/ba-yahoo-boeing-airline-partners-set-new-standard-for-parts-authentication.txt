@@ -1,0 +1,5 @@
+title: Boeing, Airline Partners Set New Standard for Parts Authentication
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=968e599e34ae6880e13d80c9dcd70ed6f7f0efa966e7a3cadd49cb7690651a21
+Boeing [NYSE: BA], in partnership with Southwest Airlines (SWA) and Aeroxchange Ltd., has successfully completed the aerospace industry's first parts shipment accompanied by a digital 8130-3 certificate—an electronic version of the FAA-governed 8130-3 Authorized Release Certificate. This milestone advances supply chain security by preventing unapproved spare parts from entering the aerospace aftermarket.

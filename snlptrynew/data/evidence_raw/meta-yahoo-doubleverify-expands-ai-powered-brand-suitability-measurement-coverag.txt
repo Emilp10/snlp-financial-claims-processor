@@ -1,0 +1,5 @@
+title: DoubleVerify Expands AI-Powered Brand Suitability Measurement Coverage Across Meta Threads
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=2c00563859f95ce0dd9db65240ce392978574005e1b37a8dda19535d677128ab
+NEW YORK, October 16, 2025--DoubleVerify ("DV") (NYSE: DV), a leading software platform to verify media quality, optimize ad performance and prove campaign outcomes, today announced the expansion of its post-bid brand suitability measurement coverage across Meta Threads feed. With this release, global advertisers can leverage DV’s industry-leading, AI-powered classification technology to gain transparency into the content and context surrounding their ads on Threads feed.

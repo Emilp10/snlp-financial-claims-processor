@@ -1,0 +1,5 @@
+title: Heard on the Street Recap: No Web, No Problem
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=e82f018aee8fedb19469eb3dbd718d11efaafaf3fa0453c8f644912fbd751351
+Stocks started the week off strongly. The S&P 500 index rose 1.1% and the Nasdaq Composite jumped 1.4%. The Dow Jones Industrial Average added 516 points, or 1.1%. A major website outage didn't take down the mood.

@@ -1,0 +1,5 @@
+title: 3 S&P 500 Stocks We Find Risky
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=14dbd8cb3b927457913f169f2301f529d0fff54bc27a6afc10ccbb63b9b3e7ab
+The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.

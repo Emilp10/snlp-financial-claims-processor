@@ -1,0 +1,5 @@
+title: Micron's New Wall Street Bull
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=c847010603f49c485140cc2e972f5cf2a5be0e04172842423b2f8d2262d64cde
+Micron's getting a big vote of confidence from Morgan Stanley. The stock was upgraded to a buy with a $220 price target and forecasts for double-digit price gains ahead. The analyst behind the upgrade Joseph Moore, Morgan Stanley's Senior Semiconductor Analyst, joined Bloomberg Open Interest to talk about his call.

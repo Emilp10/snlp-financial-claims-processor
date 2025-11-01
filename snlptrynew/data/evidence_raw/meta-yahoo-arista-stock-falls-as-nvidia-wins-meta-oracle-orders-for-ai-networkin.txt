@@ -1,0 +1,5 @@
+title: Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=79738e177ffa9894806756ae02ca4284ba225ed64930429ebe3813aa618ea2d8
+Nvidia on Monday said Oracle and Meta Platforms will use its Spectrum-X Ethernet AI networking devices.

@@ -1,0 +1,5 @@
+title: Goldman Sachs Sees US Earnings Beating Expectations
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=ce8b18b12eac337861dfd1761f6cdc0810872b60db2df178e119a2ff814c7637
+Christian Mueller-Glissmann, asset allocation research head at Goldman Sachs, says he is still "modestly pro-risk" on equities. "We're going into this earnings season with a view that it probably will validate that the corporate sector is still in relatively good shape," Mueller-Glissmann tells Bloomberg Television. "In the US in particular, the expectations, which are roughly 6% for that season, they probably will be beat again."

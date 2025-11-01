@@ -1,0 +1,5 @@
+title: GS Q3 Deep Dive: Investment Banking Rebound and Strategic Expansion Shape Outlook
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=71d00d1573356cf86c19d777bf5621344854f2d5df20c7ee932bd6eb677cf9ed
+Global investment bank Goldman Sachs (NYSE:GS) reported Q3 CY2025 results topping the market’s revenue expectations, with sales up 19.6% year on year to $15.18 billion. Its GAAP profit of $12.25 per share was 10.5% above analysts’ consensus estimates.

@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Rises As Nvidia Tests Key Level; Tesla Earnings Loom (Live Coverage)
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=a44f841e0baa84b1fb4a6ebf10bb5737061f770c7bd0ebf87ee8d42a77a40d59
+Stock Market Today: The Dow Jones index rose near record highs Tuesday. GM stock surged on strong earnings results.

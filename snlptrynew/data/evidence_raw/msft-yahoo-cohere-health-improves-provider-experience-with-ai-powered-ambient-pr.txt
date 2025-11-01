@@ -1,0 +1,5 @@
+title: Cohere Health Improves Provider Experience with AI-powered Ambient Prior Authorization at the Point of Care
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=13132df3800998769647395b7b2c49f1fe7c697f4b3f63c06a8044f9f31b94cf
+Cohere Health®, the leader in clinical intelligence solutions for health plans, will bring together its prior authorization capabilities with Microsoft Dragon Copilot to automate care requests made by healthcare providers. This extension will help clinicians secure approvals in real time at the point of care, to reduce administrative burden and speed access to necessary care for their patients.

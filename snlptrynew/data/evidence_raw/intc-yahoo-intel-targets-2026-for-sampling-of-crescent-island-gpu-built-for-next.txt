@@ -1,0 +1,5 @@
+title: Intel Targets 2026 for Sampling of Crescent Island GPU Built for Next-Gen AI Data Centers
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=47475bb26e9861bb2092f2112d06c4f27785b39b03b21b6a70fd6342d2869290
+Chipmaker renews bid to compete with Nvidia and AMD in AI computing

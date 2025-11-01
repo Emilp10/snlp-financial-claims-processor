@@ -1,0 +1,5 @@
+title: Keysight Enables SK hynix to Achieve Top-Tier OCP S.A.F.E. Evaluation for Solid-State Drive Solution
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=f1fb8aa0621e353c2814fbafbc002410d7bdebd4ce4cdcab36d43ecd56a771f3
+SANTA ROSA, Calif., October 21, 2025--Keysight Technologies, Inc. (NYSE: KEYS) has enabled SK hynix to earn its first Open Compute Project (OCP) Security Appraisal Framework and Enablement (S.A.F.E.) recognition for a solid-state drive (SSD) solution. This accomplishment represents a pioneering industry collaboration, underscoring Keysight’s commitment to empowering innovators and securing the technology supply chain.

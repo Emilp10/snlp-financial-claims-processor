@@ -1,0 +1,40 @@
+# Symbols to use for market and fundamentals ingestion (balanced set)
+# Mega-cap tech
+AAPL
+MSFT
+GOOGL
+AMZN
+META
+NVDA
+AMD
+INTC
+
+# Financials
+JPM
+BAC
+GS
+MS
+
+# Energy
+XOM
+CVX
+
+# Pharma/Healthcare
+JNJ
+PFE
+MRK
+
+# Industrials/Aerospace
+BA
+CAT
+GE
+
+# Consumer/Retail
+WMT
+COST
+PG
+
+# Autos
+TSLA
+GM
+F

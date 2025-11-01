@@ -1,0 +1,5 @@
+title: Pfizer’s BRAFTOVI® + MEKTOVI® Shows Sustained Long-Term Survival in Patients with Advanced Lung Cancer
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=c98dc7929c9a0c6b001928a3f64b6c81787ef7baf55bc94401c68ba0c110a683
+NEW YORK, October 19, 2025--Pfizer Inc. (NYSE: PFE) today announced updated follow-up results from the single-arm Phase 2 PHAROS trial evaluating BRAFTOVI® (encorafenib) + MEKTOVI® (binimetinib) for the treatment of adults with metastatic non-small cell lung cancer (mNSCLC) with a BRAF V600E mutation. In treatment-naïve patients, the median overall survival (OS) was 47.6 months (95% confidence interval [CI], 31.3, not estimable) after a median follow-up of 52.3 months. In previously treated pati

@@ -1,0 +1,5 @@
+title: Analysts update Broadcom stock forecast
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=ef60f0aabf7b289f3dbb527bb1a24a4c3f05ea932cfdcc9fcf464a68d4efd495
+Over the past six months, Broadcom's stock has gained 104%. A significant boost to the stock was the Q3 earnings reveal that Broadcom secured $10 billion in orders of AI racks, based on the company's XPUs (XPUs are custom AI accelerators) from OpenAI. However, OpenAI has made numerous deals, and ...

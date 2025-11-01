@@ -1,0 +1,5 @@
+title: Top Stock Movers Now: Walmart, Intel, Domino's Pizza, Arista Networks, and More
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=04a376f8de70ca202381aec7652dee3400a854fc96390e3c19ab861df2310cb5
+The major U.S. equities indexes rebounded Tuesday afternoon from earlier losses amid lingering worries about U.S.-China trade tensions.

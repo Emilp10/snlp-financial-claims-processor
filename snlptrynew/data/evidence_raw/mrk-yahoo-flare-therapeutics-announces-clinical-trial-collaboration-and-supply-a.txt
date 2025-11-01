@@ -1,0 +1,5 @@
+title: Flare Therapeutics Announces Clinical Trial Collaboration and Supply Agreement with Merck to Evaluate FX-909 in Combination with KEYTRUDA® (pembrolizumab) in New Cohort of Ongoing Phase 1 Trial in Metastatic Urothelial Cancer
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=c02e4475d049c551ba2623057c6f337b8feef845231d79f1bd5a8f5ff4c62f49
+CAMBRIDGE, Mass., Oct. 21, 2025 (GLOBE NEWSWIRE) -- Flare Therapeutics Inc. (FlareTx), a clinical-stage biotechnology company targeting transcription factors to discover precision medicines for oncology and other therapeutic areas, today announced that it has entered into a clinical trial collaboration and supply agreement with Merck (known as MSD outside of the United States and Canada). FX-909, a first-in-class orally available small molecule inhibitor of PPARG, the master regulator of the lum

@@ -1,0 +1,5 @@
+title: Volatility Shares files for the first ever potential 5X leveraged ETF in the US
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=560d3e010a0bc7724341a4d8e9895f950c9ae1d5e27623f0c231075c3d3a8ab0
+(Reuters) -Volatility Shares, an issuer of exchange-traded funds, filed on Wednesday to launch a total of 27 highly leveraged ETFs, including the first-ever proposed 5x ETF for the U.S. market, at a time of rising caution over inflated asset prices as markets continue their upward swing.  Volatility Shares has filed for a 3x and a 5x offering on Strategy, where existing issuers have struggled to manage a 2x product.  Until now, the U.S. Securities and Exchange Commission has approved single-stock leveraged ETFs with a maximum of 2x.

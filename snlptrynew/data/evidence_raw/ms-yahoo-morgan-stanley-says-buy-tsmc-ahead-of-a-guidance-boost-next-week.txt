@@ -1,0 +1,5 @@
+title: Morgan Stanley says buy TSMC ahead of a guidance boost next week
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=247c95ddc724099d6cf094be82f37a1235ba5ea83a39ec65402bac09eb99fc58
+Investing.com -- Morgan Stanley expects TSMC shares to rise in reaction to its third-quarter analyst meeting on October 16, as the chipmaker could lift its full-year revenue guidance on the back of strong demand for artificial intelligence semiconductors.

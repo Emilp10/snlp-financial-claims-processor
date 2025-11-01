@@ -1,0 +1,5 @@
+title: Johnson & Johnson to highlight breadth of its major depressive disorder portfolio at 2025 ECNP Congress
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=dafcc451dbf27f84a668fe51ffcffec5617ddb5bccb586b7e263a29e3cd9cf79
+Johnson & Johnson (NYSE: JNJ) announced today that 17 abstracts featuring new clinical and real-world data will be presented at the annual European College of Neuropsychopharmacology (ECNP) Congress, taking place October 11-14 in Amsterdam, The Netherlands. Presentations include the latest research from across the Company's neuropsychiatry portfolio, including major depressive disorder (MDD), treatment-resistant depression (TRD), and schizophrenia.

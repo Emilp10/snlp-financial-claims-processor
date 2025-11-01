@@ -1,0 +1,15 @@
+{
+  "country": "US",
+  "currency": "USD",
+  "estimateCurrency": "USD",
+  "exchange": "NEW YORK STOCK EXCHANGE, INC.",
+  "finnhubIndustry": "Pharmaceuticals",
+  "ipo": "1941-01-01",
+  "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MRK.png",
+  "marketCapitalization": 218531.05320668028,
+  "name": "Merck & Co Inc",
+  "phone": "19087404000",
+  "shareOutstanding": 2497.78,
+  "ticker": "MRK",
+  "weburl": "https://www.merck.com/"
+}

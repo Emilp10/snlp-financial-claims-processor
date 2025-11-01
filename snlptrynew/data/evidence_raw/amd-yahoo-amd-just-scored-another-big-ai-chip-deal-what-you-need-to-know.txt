@@ -1,0 +1,5 @@
+title: AMD Just Scored Another Big AI Chip Deal—What You Need to Know
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=9a4218753cc2b893e6813d3cf53878a02bcd438fa4bb14e3d0c33ee7951278af
+Oracle agreed to buy 50,000 GPUs from Advanced Micro Devices to build out its artificial intelligence capacity, a strong signal for broader AI demand.

@@ -1,0 +1,5 @@
+title: Walmart stock is at record highs after ChatGPT shopping deal
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=c4fdcaa643f2b5576ac4ff216ddaa746a86083b8afa8fe286ff9a7722eb9b909
+Walmart's partnership with OpenAI pushed the retail giant's stock into record territory for a second day on Wednesday.

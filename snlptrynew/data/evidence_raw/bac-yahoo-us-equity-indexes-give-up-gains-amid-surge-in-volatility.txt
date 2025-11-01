@@ -1,0 +1,5 @@
+title: US Equity Indexes Give Up Gains Amid Surge in Volatility
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=1d1a5c34c35f15e2776d6e7ab0ee3e6b268079b9ebd4ab41345547149d7e5a09
+US equity indexes traded mixed after midday on Wednesday, with the Nasdaq Composite, S&P 500, and th

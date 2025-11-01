@@ -1,0 +1,5 @@
+title: UK Drops the Hammer on Apple and Google's Mobile Empire
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=dcd5e66ffa01e6e59b477d0601cd3a2443cf24d81368050f03c7ed62a20aa6b5
+Britain's antitrust watchdog tightens control over Big Tech's app-store dominance, echoing Europe's toughest digital rules yet

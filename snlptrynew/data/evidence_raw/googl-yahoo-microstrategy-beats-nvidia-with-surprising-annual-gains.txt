@@ -1,0 +1,5 @@
+title: MicroStrategy beats Nvidia with surprising annual gains
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=8782532cfd6a1e6724073b09a70c8fc0dec91a142ddee0adf9189aa386ce45f9
+Michael Saylor’s Bitcoin strategy is paying off. According to data shared by the MicroStrategy (NASDAQ: MSTR) executive chairman, the company’s stock has delivered an 85% annualized return during what he calls the “Bitcoin Standard Era,” far surpassing both Nvidia (71%) and Bitcoin itself (54%). ...

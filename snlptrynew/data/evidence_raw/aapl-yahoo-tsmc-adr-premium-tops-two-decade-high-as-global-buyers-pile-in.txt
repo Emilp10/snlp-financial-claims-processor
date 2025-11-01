@@ -1,0 +1,5 @@
+title: TSMC ADR Premium Tops Two-Decade High as Global Buyers Pile In
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=32b4b72fe88e695ed8b216c0c622bc0bd1b5eec92fb60995fa45e867947a9625
+Its American depositary receipts are trading at the highest premium to its Taipei shares since 2002, on a 50-day moving average basis.  The ADRs have surged 54% this year, outpacing the 38% gain in the Taiwan listing, as global traders boost bullish bets.  “We are positive on TSMC’s outlook and expect it to raise its full-year 2025 sales growth outlook,” said Rex Chen, a Taipei-based fund manager at Capital Investment Trust Corp.

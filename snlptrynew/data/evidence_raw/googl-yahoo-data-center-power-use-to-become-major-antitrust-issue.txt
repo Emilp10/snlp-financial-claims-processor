@@ -1,0 +1,5 @@
+title: Data-Center Power Use to Become Major Antitrust Issue
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=3e183ede7e4c8534d2df37496fb1f34546d1d2d3e51838862c02091999cfe8fe
+As tech giants pour billions into data centers to cope with unrelenting demand, regulators are taking note. Jonathan Kanter, a former top official at the U.S. DOJ’s trustbusting division, expects it to become a big issue over the next decade.

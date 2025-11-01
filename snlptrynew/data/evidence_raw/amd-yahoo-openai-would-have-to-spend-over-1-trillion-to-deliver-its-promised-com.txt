@@ -1,0 +1,5 @@
+title: OpenAI would have to spend over $1 trillion to deliver its promised computing power. It may not have the cash.
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=c696dcd78eeed2eb710ee4eb50ad5c486228500b89e90372b36e9821bc0c93fa
+OpenAI's capital expenditures related to its deals with chipmakers could jump to $1.3 trillion by 2030, Citi analysts say.

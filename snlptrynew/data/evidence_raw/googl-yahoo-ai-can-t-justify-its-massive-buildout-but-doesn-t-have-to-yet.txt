@@ -1,0 +1,5 @@
+title: AI can't justify its massive buildout — but doesn't have to, yet
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=a2aaf875965f8fa48962e7127c0f9f263b02d91b15f79c9f6028e22b86625b26
+The absence of profitable AI services doesn't undermine the massive buildout; it justifies it.

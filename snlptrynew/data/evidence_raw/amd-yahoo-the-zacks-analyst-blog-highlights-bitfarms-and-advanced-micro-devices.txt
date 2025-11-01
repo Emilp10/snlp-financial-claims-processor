@@ -1,0 +1,5 @@
+title: The Zacks Analyst Blog Highlights Bitfarms and Advanced Micro Devices
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=78e3460decd59a4b4988a9da93226e958f8e6e4048c6d9487b4fed5842418e8a
+Bitfarms' 400% rally sparks debate as its pivot from Bitcoin mining to AI data centers gains traction alongside AMD's expanding GPU partnerships.

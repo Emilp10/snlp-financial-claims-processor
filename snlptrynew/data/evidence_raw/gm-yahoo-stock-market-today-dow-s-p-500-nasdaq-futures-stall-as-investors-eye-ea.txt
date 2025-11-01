@@ -1,0 +1,5 @@
+title: Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings ahead
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=eceac59a14d6631b0a83da21b6edc9d769bca035ef4d33da464cd17875478c27
+US stock futures were little changed Monday night as Wall Street geared up for a packed week of corporate earnings.

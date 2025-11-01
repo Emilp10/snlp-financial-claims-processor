@@ -1,0 +1,5 @@
+title: Brevan Electronics Acquires Micro Informatica
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=77b6dcef6c4d13eff87251aac7ede0e00b768485f1b61aafdd0df972586215dd
+Brevan Electronics, a leading global distributor of electronic components, today announced the acquisition of Micro Informatica, the largest authorized distributor of AMD products in Latin America. Established 39 years ago, Micro has built a reputation as a trusted leader in high-performance computing and semiconductor distribution across both Latin America and the United States.

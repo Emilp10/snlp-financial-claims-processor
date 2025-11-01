@@ -1,0 +1,5 @@
+title: Microsoft, Nscale Ink 200K GB300 GPU Deal
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=baac4d25c3a3d419cc66fae2eecc61610422230f977ec2a31449c849fa399ccf
+Microsoft and Nscale's 200,000-GPU rollout cements one of the biggest AI infrastructure plays to date

@@ -1,0 +1,5 @@
+title: AMD Wins Big AI Chip Order From Oracle in Race to Catch Nvidia
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=ef0288b8b20aaf0fe8f760584913e8316e502ef06b68ddeabc57fe121165e882
+Oracle will put 50,000 of the semiconductors in data center computers starting in the third quarter of 2026, according to a statement Tuesday.  The systems will contain AMD processors and networking components.  The Santa Clara, California-based company is working to become a credible alternative to Nvidia, the dominant provider of AI processors.

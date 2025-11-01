@@ -1,0 +1,5 @@
+title: Vultr Introduces Vultr VX1™ Cloud Compute Plans, Setting a New Standard for Enterprise Price-Performance
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=d15688624360c1d518b7788e09a99f756428d8848f7531d259edbe55c23336e7
+WEST PALM BEACH, Fla., October 21, 2025--Vultr, the world’s largest privately-held cloud infrastructure company, today announced the launch of its new Vultr VX1™ Cloud Compute plans.

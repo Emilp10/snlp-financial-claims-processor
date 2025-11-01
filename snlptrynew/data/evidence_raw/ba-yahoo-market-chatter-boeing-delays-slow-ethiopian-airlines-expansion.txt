@@ -1,0 +1,5 @@
+title: Market Chatter: Boeing Delays Slow Ethiopian Airlines' Expansion
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=082d156521f7fbb0725154ee8176d59842a997b4bcfc1012ff3cd1eef6374263
+Boeing (BA) delivery delays are constraining growth at Ethiopian Airlines, which has more than 100 j

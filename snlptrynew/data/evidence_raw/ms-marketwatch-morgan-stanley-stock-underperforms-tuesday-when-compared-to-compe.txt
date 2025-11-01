@@ -1,0 +1,5 @@
+title: Morgan Stanley stock underperforms Tuesday when compared to competitors
+source: MarketWatch
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=81d47a2ec885450f380733b443e57c4003f64b9b8d4b0d354adaf725509d30ef
+Morgan Stanley stock underperforms Tuesday when compared to competitors

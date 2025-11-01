@@ -1,0 +1,5 @@
+title: Meta Building New Gigawatt-Sized Data Center in Texas
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=46c27542b3e9d8b75b3e7e9e715bdc383602ece9ba99227fbd75d04f622783ae
+The Instagram parent will spend more than $1.5 billion on the new facility, which is being built in El Paso, Texas, the company said in a blog post Wednesday.  The data center will eventually have 1 gigawatt of capacity to power high-end computing chips for AI-related projects, according to the post.  Meta has been spending aggressively on AI infrastructure and talent alongside rivals like OpenAI and Alphabet Inc.’s Google, all of which are developing top-of-the-line AI models.

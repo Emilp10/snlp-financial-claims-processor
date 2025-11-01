@@ -1,0 +1,5 @@
+title: Intel results to show if barrage of investments in chipmaker paying off
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=a63f659f1cdb8427354b540c188b36174db1aebdc3176bc17b484801162adcef
+Multi billion-dollar investments from Nvidia and Japan's SoftBank as well as an unprecedented U.S. government stake during the September quarter provided bright spots in Intel's long-running turnaround.  The investments have helped its shares double in value this year and outpace gains in AI darling Nvidia, setting a high bar for the company expected to report a 1% drop in third-quarter sales to $13.14 billion according to LSEG data.

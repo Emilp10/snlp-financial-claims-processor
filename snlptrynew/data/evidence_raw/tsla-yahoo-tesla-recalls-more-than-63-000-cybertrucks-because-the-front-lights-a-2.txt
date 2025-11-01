@@ -1,0 +1,5 @@
+title: Tesla recalls more than 63,000 Cybertrucks because the front lights are too bright
+source: Yahoo
+date: 2025-10-23
+url: https://finnhub.io/api/news?id=7da356ce7a189ed89e08eaa8cdb122c85eba1d89bc0fd5164f568d088047dc37
+Tesla is recalling more than 63,000 Cybertrucks in the U.S. because the front lights are too bright, which may cause a distraction to other drivers and increase the risk of a collision.  The National Highway Traffic Safety Administration said that the recall includes certain Cybertrucks with a model year between 2024 and 2026.  The vehicles were made between Nov. 13, 2023, and Oct. 11, 2025, with operating software versions prior to 2025.38.3.

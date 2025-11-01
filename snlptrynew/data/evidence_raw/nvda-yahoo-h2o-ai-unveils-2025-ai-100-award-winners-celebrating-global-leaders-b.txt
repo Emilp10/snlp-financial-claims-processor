@@ -1,0 +1,5 @@
+title: H2O.ai Unveils 2025 AI 100 Award Winners: Celebrating Global Leaders Building the Future of AI
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=047493670fb32c6f8b0de41a58d3e98facebebb04e2ec66248f68a663fed438c
+MOUNTAIN VIEW, Calif., October 22, 2025--H2O.ai, the world’s leading agentic AI company and a pioneer in sovereign AI, today announced the winners of the 2025 H2O AI 100, an annual list recognizing innovators, operators, and researchers advancing the real-world impact of artificial intelligence across industries and borders.

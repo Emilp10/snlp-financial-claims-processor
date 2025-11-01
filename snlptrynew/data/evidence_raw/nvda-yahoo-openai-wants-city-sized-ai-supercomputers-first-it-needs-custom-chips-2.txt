@@ -1,0 +1,5 @@
+title: OpenAI Wants City-Sized AI Supercomputers. First It Needs Custom Chips.
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=ed9fac8ccf09340045dcd1c447e1bbe85308c30b24b6f803a2f78fc7478b06bb
+The maker of ChatGPT and Sora wants to control its destiny, which means controlling the hardware that runs its software.

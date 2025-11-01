@@ -1,0 +1,5 @@
+title: Bank stocks stabilize as new earnings ease Wall Street credit fears
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=888476dd685f47be124b267507ea99092732e625fed8fe9af51ecda42c3b636d
+Investor fears about worsening credit conditions eased Friday as a new round of regional bank earnings provided some relief following a Thursday rout that spooked Wall Street.

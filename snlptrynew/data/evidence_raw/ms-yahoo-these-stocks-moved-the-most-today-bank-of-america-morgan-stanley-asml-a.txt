@@ -1,0 +1,5 @@
+title: These Stocks Moved the Most Today: Bank of America, Morgan Stanley, ASML, AMD, Nvidia, Bunge, Progressive, Abbott, and More
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=1cf2d48de4fb5bdc310bf287281c23a713774653bf9adfaa6627e319cec9713b
+Bank of America and Morgan Stanley beat earnings estimates, while ASML, the Dutch semiconductor-equipment maker, posts better-than-expected third-quarter earnings and issues an upbeat forecast.

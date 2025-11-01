@@ -1,0 +1,5 @@
+title: Advanced Micro Devices Target Raised to $300 by Bank of America Analyst
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=7890b78118260f31f3ccaf1299809e0d08e47ed9d83c61b8559695ced59d4d91
+Price target increased from $250 following new AI hardware announcements

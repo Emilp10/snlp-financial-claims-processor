@@ -1,0 +1,5 @@
+title: Bank of America Earnings Lift Investor Sentiment, Driving Premarket Gains for US Equity Futures
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=668e243a275d607366c6800b39a006f37522f2fd745caf9e6370a4f13a622e69
+US equity futures were higher pre-bell Wednesday, lifted by strong quarterly earnings from Bank of A

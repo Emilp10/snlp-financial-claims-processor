@@ -1,0 +1,5 @@
+title: Pfizer touts Tukysa in front-line breast cancer after Phase III victory
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=961651e85603133344fd9cc26d48207f47da945ee336ea38a08fad8b8e64ee25
+If approved alongside current SoC maintenance therapies, Tukysa could become the first update to the regimen for HER2-positive breast cancer in over a decade.

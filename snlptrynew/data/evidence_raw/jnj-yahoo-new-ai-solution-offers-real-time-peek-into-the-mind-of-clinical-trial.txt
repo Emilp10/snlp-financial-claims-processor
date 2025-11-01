@@ -1,0 +1,5 @@
+title: New AI solution offers real-time peek into the mind of clinical trial participants
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=5e746a12e168889b6e8dcc840d5ec463cb21c0a6ebdc35adbc19ad638d9d5685
+Cognivia, an innovative AI company dedicated to helping clinical trial sponsors make smarter, more confident decisions by reducing behavioral variability, today announced the launch of its latest product, Cognivia Signal. As the world's first real-time behavioral risk intelligence dashboard, Cognivia Signal captures and displays the behavioral and contextual drivers behind trial participants. This information allows trial sponsors to instantly evaluate and assess critical information, including:

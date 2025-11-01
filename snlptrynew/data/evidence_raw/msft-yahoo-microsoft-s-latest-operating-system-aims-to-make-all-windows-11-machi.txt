@@ -1,0 +1,5 @@
+title: Microsoft's latest operating system aims to make all Windows 11 machines AI PCs
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=2cdbc7e1c96e7ba512e5b7c9e1d11cb60bd79d7fa5f9da0c2297a30c6166bc5d
+Microsoft is bringing a host of AI updates to its Windows 11 operating system.

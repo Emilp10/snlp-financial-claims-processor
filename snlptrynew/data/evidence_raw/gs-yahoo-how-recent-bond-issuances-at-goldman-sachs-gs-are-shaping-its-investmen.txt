@@ -1,0 +1,5 @@
+title: How Recent Bond Issuances at Goldman Sachs (GS) Are Shaping Its Investment Narrative
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=2ccc17c7d763fe7d245a4e522e1c99a82b4db045f7d32ff8a4760a40461cbf93
+In early October 2025, Goldman Sachs announced a series of new fixed-income offerings, including several callable and variable rate senior notes with maturities ranging from 2026 to 2040, and completed multiple smaller bond issuances as part of broader funding initiatives. These activities, coupled with growing analyst interest ahead of Goldman's upcoming earnings release, underscore the firm's active approach to balance sheet management and capital optimization in anticipation of evolving...

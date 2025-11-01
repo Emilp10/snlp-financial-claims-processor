@@ -1,0 +1,5 @@
+title: TSMC Raises Revenue View Again Amid Global AI Investment Frenzy
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=60d6cb58623fa145bdda0d9084145b3d8b0b7fdc05de4ebfbd9a42b1c4b4506b
+The world’s largest contract chip maker raised its outlook further as profit for the third quarter soared to a record, proving that chip demand for artificial intelligence remains strong.

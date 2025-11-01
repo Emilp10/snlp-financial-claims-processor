@@ -1,0 +1,5 @@
+title: Booming Stock Market Lifts Morgan Stanley’s Wealth Business
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=6b01044512023f4573c6a34c1fcf2f8c564b60145a964db9e47449bb2a15ad40
+Morgan Stanley’s wealth-management division got a boost from the booming stock market last quarter.  The unit generated $8.23 billion in revenue, up 13% from a year ago, and accounted for 45% of total company revenue.  Assets in Morgan Stanley's wealth business where financial advisers oversee clients' holdings increased 17% while assets in the retail wealth business, mostly comprised of E*Trade, rose 24%.

@@ -1,0 +1,5 @@
+title: Sector Update: Consumer Stocks Lower in Afternoon Trading
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=d8cddbebea005a44d5ced70afbf22155a54ac375e95f79c1e2e7646b9f258d99
+Consumer stocks declined Thursday afternoon, with the Consumer Staples Select Sector SPDR Fund (XLP)

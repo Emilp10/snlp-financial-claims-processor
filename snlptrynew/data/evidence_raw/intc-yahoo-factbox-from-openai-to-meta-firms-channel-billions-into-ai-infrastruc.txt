@@ -1,0 +1,5 @@
+title: Factbox-From OpenAI to Meta, firms channel billions into AI infrastructure as demand booms
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=e91d5479bdde79457adc52dc6440213c47c6c611985d3bf33b373e42c4913b6b
+The companies said OpenAI would design the chips, which Broadcom will develop and deploy starting in the second half of 2026.  AMD agreed to supply artificial intelligence chips to OpenAI in a multi-year deal that would also give the ChatGPT creator the option to buy up to roughly 10% of the chipmaker.  Nvidia is set to invest up to $100 billion in OpenAI and supply it with data center chips, in a deal giving the chipmaker a financial stake in OpenAI.

@@ -1,0 +1,5 @@
+title: Traders Digest Bank of America Earnings, Lifting US Equity Futures Pre-Bell
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=39c855e2eca11cb12aaa5a7e1d2efad9b5ffaa0e3c7013d9bc84576f08ea6ee4
+US equity futures were up ahead of Wednesday's opening bell, lifted by strong quarterly earnings fro

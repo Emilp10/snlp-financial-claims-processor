@@ -1,0 +1,5 @@
+title: US Equity Indexes Advance as Quarterly Results From Mega-Cap Banks Lift Sentiment
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=1efe39aac479e27277da1255dca9a2cd50121d42612e2705f13d6d2beb00eb51
+US equity indexes rose in midday trading on Wednesday as strong quarterly results from banking behem

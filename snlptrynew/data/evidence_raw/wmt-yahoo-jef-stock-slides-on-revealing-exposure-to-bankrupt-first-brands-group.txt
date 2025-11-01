@@ -1,0 +1,5 @@
+title: JEF Stock Slides on Revealing Exposure to Bankrupt First Brands Group
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=7d22948d843b3bbf8233a1d4c7b1723dc171f1c9d5a8f01c1dbe9933a3379a17
+Jefferies shares fell 7.9% on Wednesday after disclosing exposure to bankrupt First Brands, with investors reassessing related trade-finance and CLO links.

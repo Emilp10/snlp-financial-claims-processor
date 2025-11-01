@@ -1,0 +1,5 @@
+title: Analysts shift bets on which stocks will be the next big winners
+source: Yahoo
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=7c59a21b1127b72e0da3a8b2059dfa9518a62f9a6416a18a5aa5d9f6f960155c
+A new note from Bank of America Global Research says that U.S. stock markets are "changing lanes" as the economy moves away from rate-sensitive favorites like tech and consumer discretionary and toward less popular sectors such as banks, energy, and health care. “Old economy has new ...

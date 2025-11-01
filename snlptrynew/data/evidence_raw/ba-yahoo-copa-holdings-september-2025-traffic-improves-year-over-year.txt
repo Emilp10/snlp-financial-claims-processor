@@ -1,0 +1,5 @@
+title: Copa Holdings' September 2025 Traffic Improves Year Over Year
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=303f1c166ae7b081fa3f096b52807a46c3dd8f64494b84c00aa5cd118f8d3b2e
+CPA posts strong September traffic with RPM up 6.4% and load factor rising to 86.9% as demand outpaces capacity growth.

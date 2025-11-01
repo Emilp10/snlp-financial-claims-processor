@@ -1,0 +1,5 @@
+title: Is Pfizer (NYSE:PFE) Using Too Much Debt?
+source: Yahoo
+date: 2025-10-12
+url: https://finnhub.io/api/news?id=5dd1bf4285a4a2b796b9977454b8a9f8611243fb83514fec8a52b3f71c7d8faf
+Some say volatility, rather than debt, is the best way to think about risk as an investor, but Warren Buffett famously...

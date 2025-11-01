@@ -1,0 +1,5 @@
+title: Tesla Q3: Sell The News (Rating Downgrade)
+source: SeekingAlpha
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=de8a41c409d5993ce2dda8b8420e74a5f825e43747ebe62eb719281e495bd0d2
+Tesla, Inc. beats Q3 2025 revenue estimates, but sales outlook dims amid fading EV tax credits. Click to see why experts now rate TSLA stock a Sell.

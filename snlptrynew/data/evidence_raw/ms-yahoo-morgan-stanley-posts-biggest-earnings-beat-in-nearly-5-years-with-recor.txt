@@ -1,0 +1,5 @@
+title: Morgan Stanley posts biggest earnings beat in nearly 5 years with record quarterly revenue of $18.2 billion, shares up 4.7%
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=c5e25a1f90b23a74c4d082bb59c117822603d0e31812b8b6b3205d7140c011d4
+In a strong week for Wall Street banks, CEO Ted Pick said: “The capital markets flywheel is taking hold.”

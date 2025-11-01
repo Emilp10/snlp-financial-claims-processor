@@ -1,0 +1,5 @@
+title: Texas Instruments (TXN) Beats Q3 Earnings and Revenue Estimates
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=bd2185f61aab52a91a255f615dc63ad1b13ec4b20ef61db706b8e0846403c85c
+Texas Instruments (TXN) delivered earnings and revenue surprises of +0.68% and +2.06%, respectively, for the quarter ended September 2025. Do the numbers hold clues to what lies ahead for the stock?

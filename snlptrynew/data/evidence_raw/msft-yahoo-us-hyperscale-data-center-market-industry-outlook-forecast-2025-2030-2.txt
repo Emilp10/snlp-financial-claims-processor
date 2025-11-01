@@ -1,0 +1,5 @@
+title: US Hyperscale Data Center Market Industry Outlook & Forecast 2025-2030 | Liquid Cooling Revolutionizes AI/ML Workloads in U.S. Data Centers
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=ec44a25c710e620a0d788ef7efa4a7ce68a54b972ae602d1a46b01723f8999be
+The U.S. hyperscale data center market is projected to expand at a CAGR of 7.47% from 2024 to 2030, driven by AI, ML, and automation demands. Key trends include liquid cooling solutions for AI workloads, which improve efficiency and reduce downtime risks. Significant investments are being made, like IREN's 75 MW AI data center in Texas and Vantage's $25 billion Frontier Campus. Microsoft and Google are advancing energy-efficient technologies, aiming for sustainability goals. Northern Virginia re

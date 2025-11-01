@@ -1,0 +1,5 @@
+title: Is This AI Stock Still Worth Buying After Its Massive Rally?
+source: Yahoo
+date: 2025-10-19
+url: https://finnhub.io/api/news?id=c5de16206a5be62927650b97d6233e3c4fa2791aab5842627d45cb54c1bb575b
+Nvidia is the linchpin of the booming AI market, but it still has a lot of upside potential.

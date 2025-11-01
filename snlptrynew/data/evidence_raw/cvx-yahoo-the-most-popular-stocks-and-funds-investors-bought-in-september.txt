@@ -1,0 +1,5 @@
+title: The most popular stocks and funds investors bought in September
+source: Yahoo
+date: 2025-10-08
+url: https://finnhub.io/api/news?id=1cded81177fb598eed2ef393574585b36d2b589808eafdeee829e8fef68e917e
+Major stock markets continued to climb in September, despite lingering concerns around geopolitics, tariffs and the economy.

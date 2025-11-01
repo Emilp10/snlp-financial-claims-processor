@@ -1,0 +1,5 @@
+title: NVDA vs. AMD: Which AI Hardware Stock Has Better Investment Potential?
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=31a211c0141de619d9926f52368952b3f408c918f4c4f04316d626e204dc598e
+NVIDIA's dominance in AI chips, booming data center sales and expanding partnerships give it an edge over AMD in the race for AI hardware leadership.

@@ -1,0 +1,5 @@
+title: Moderna Announces Phase 3 Study of Investigational Cytomegalovirus (CMV) Vaccine Did Not Meet Primary Efficacy Endpoint
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=16412c666d5b6e170a3bceaaacfd99451d33239683fed4f6692f5279f9c774db
+Company to discontinue development of mRNA-1647 in congenital CMV Company will continue to evaluate mRNA-1647 in ongoing Phase 2 trial in bone marrow transplant patients Company does not anticipate any impact to its 2025 financial guidance or its ...

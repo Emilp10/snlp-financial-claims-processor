@@ -1,0 +1,5 @@
+title: Walmart stock hits all-time high after announcing partnership with OpenAI
+source: Yahoo
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=0c7dfc0706d6e5c9be63e348e1bd46bb3311be8ef6f758ab772c5173800c4fd4
+Walmart is the latest company to announce a partnership with OpenAI.

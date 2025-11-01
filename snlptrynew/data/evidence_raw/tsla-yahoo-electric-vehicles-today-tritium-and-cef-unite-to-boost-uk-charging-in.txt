@@ -1,0 +1,5 @@
+title: Electric Vehicles Today - Tritium and CEF Unite to Boost UK Charging Infrastructure
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=ec8b7a376b888c777aa70a9f75f8595de062a49db728384cacc531b68b8f354d
+Tritium, a leader in DC fast charging technology, has partnered with City Electrical Factors (CEF), the UK's foremost electrical distributor, to accelerate the deployment of EV infrastructure across the United Kingdom. This strategic partnership designates CEF as the exclusive distributor of Tritium’s DC fast charging solutions, leveraging CEF’s extensive network of over 390 branches to make these advanced charging technologies more accessible. By utilizing CEF’s well-established logistics...

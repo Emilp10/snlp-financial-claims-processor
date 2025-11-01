@@ -1,0 +1,5 @@
+title: Stocks Pressured by Higher Bond Yields
+source: Yahoo
+date: 2025-10-09
+url: https://finnhub.io/api/news?id=1cfa5edc3da22e8060e6dff245add9ebb0f8d77aa446f26fb8295351e703afe8
+The S&P 500 Index ($SPX ) (SPY ) today is down -0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.27%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.25%. December E-mini S&P futures (ESZ25 ) are down -0.08%, and December E-mini Nasdaq futures...

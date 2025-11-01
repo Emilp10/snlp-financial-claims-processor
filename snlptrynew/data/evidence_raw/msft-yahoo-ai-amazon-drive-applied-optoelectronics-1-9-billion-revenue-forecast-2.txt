@@ -1,0 +1,5 @@
+title: AI, Amazon Drive Applied Optoelectronics' $1.9 Billion Revenue Forecast
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=f867eeb6bf38fe05fccd8670a590e933b3348abccc2161b61d7a267a9cf8d3d0
+Analysts expect Applied Optoelectronics' revenue to spike 666% by 2027 on data center and AI demand, as well as deals with Amazon and Charter.

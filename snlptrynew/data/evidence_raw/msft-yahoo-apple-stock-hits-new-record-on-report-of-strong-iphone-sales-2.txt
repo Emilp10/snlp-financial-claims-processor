@@ -1,0 +1,5 @@
+title: Apple Stock Hits New Record on Report of Strong iPhone Sales
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=b3e3417f49500288565829d717bdcc0661874aa9c0c7263fd9a08140cc212eb2
+Early sales of the new iPhone 17 are outpacing last year’s launch of the iPhone 16 in the U.S. and China, a research firm says.

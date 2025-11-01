@@ -1,0 +1,5 @@
+title: Amgen Unveils New DTC Program, Cuts Cholesterol Drug Price by 60%
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=66af0f6dc5f1cb5421d4f7a57b4108420863bc56b14505318bcbbdd53f329b8a
+AMGN rolls out AmgenNow, a direct-to-consumer program debuting with Repatha at a 60% lower price to boost patient access and affordability.

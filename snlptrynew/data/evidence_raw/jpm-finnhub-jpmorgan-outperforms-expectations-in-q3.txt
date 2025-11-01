@@ -1,0 +1,5 @@
+title: JPMorgan outperforms expectations in Q3
+source: Finnhub
+date: 2025-10-14
+url: https://finnhub.io/api/news?id=79a9fe5025f47d7ff4ed93672db16ecac138ca8f3fe4876bfeec037e2fa6d8e8
+JPMorgan Chase, the largest US bank by assets, reported a 12% increase in quarterly profits on Tuesday, exceeding expectations, but also noted a degree of uncertainty for the coming months.The group...

@@ -1,0 +1,5 @@
+title: Google Cloud Rolls Out Nvidia-Powered G4 AI Machines
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=b0bfa7e083750c63659d64678c5c7885dfe81c00962bf6a6e5326e760042481b
+Nvidia Blackwell and AMD Turin chips drive next-gen enterprise workloads.

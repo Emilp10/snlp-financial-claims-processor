@@ -1,0 +1,5 @@
+title: Arm expands AI licensing program to boost on-device AI market share
+source: Yahoo
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=1eb3e701e1376b07e2887359e5f91f2f350dfa6c0efeecc1720b9953ed2a9404
+(Reuters) -Arm Holdings said on Monday it is expanding its Flexible Access licensing program to cover its Armv9 edge AI platform, aiming to attract startups and device makers developing on‑device AI

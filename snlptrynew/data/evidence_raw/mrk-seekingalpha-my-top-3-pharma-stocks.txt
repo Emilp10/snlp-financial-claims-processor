@@ -1,0 +1,5 @@
+title: My Top 3 Pharma Stocks
+source: SeekingAlpha
+date: 2025-10-20
+url: https://finnhub.io/api/news?id=16b7d42a7ab56fff4cf263eccf8bc6b046116accec4a8334c5f7f3ce0f4d8cee
+Discover the top 3 Big Pharma stocks beating forecasts and offering high dividends.

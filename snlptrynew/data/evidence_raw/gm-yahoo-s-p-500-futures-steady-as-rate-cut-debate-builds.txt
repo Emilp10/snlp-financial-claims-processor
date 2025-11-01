@@ -1,0 +1,5 @@
+title: S&P 500 Futures Steady as Rate Cut Debate Builds
+source: Yahoo
+date: 2025-10-22
+url: https://finnhub.io/api/news?id=7f7eda90edf9e5e81b7fe87f29009da179e9caa8e15566ddda3ec4af674233a4
+The Morning Bull - US Market Morning Update Wednesday, Oct, 22 2025 US equity futures are leaning mixed this morning as investors dissect falling Treasury yields and shifting expectations for a Federal Reserve rate cut. The focus is squarely on upcoming inflation data and signals from global central banks. Hopes for a cooling economy drive debate over whether lower rates will spur fresh optimism or simply reflect deeper uncertainty, leaving consumer-focused shares especially worth watching as...

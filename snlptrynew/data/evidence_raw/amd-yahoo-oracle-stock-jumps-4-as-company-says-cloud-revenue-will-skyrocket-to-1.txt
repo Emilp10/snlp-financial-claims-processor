@@ -1,0 +1,5 @@
+title: Oracle stock jumps 4% as company says cloud revenue will skyrocket to $166B by 2030
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=67b9a6441e3257268355c2b54fe192551707f1b194127ea8d143662426917ffd
+Oracle says its cloud revenue will see a 75% CAGR over the next five years.

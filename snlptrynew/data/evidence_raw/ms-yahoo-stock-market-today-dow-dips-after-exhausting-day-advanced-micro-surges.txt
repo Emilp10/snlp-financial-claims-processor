@@ -1,0 +1,5 @@
+title: Stock Market Today: Dow Dips After Exhausting Day; Advanced Micro Surges (Live Coverage)
+source: Yahoo
+date: 2025-10-15
+url: https://finnhub.io/api/news?id=8a3decc6d6049b620f02113aa049d7714c518abdf9d6c92e3449710c5c399e4a
+Nvidia was also jerked around, while Advanced Micro Devices bolted higher on the stock market today.  The Dow ended the day slightly lower with a 17-point dip, after making big swings in the final hours of trading.  The S&P 500 clung to a gain in the final hour after messy afternoon action and finished 0.4% higher.

@@ -1,0 +1,5 @@
+title: DoorDash Partners With Waymo For Robot Food Delivery
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=5c843d4accdeaf96e15b1a6faf6a5e7eb3e1a40d9296b047750ec3475389a571
+DoorDash stock wavered following news of a partnership with Waymo to deliver food using autonomous vehicles.

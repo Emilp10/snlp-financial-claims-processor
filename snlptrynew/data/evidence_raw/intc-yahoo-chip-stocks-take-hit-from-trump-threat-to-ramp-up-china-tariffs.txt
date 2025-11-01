@@ -1,0 +1,5 @@
+title: Chip Stocks Take Hit From Trump Threat to Ramp Up China Tariffs
+source: Yahoo
+date: 2025-10-10
+url: https://finnhub.io/api/news?id=0093b426fdd5397ec6794bde952b73e493b29cdcbb8bbad9d9fcf5e12f998fd5
+Semiconductor stocks tumbled Friday morning after President Trump threatened to increase tariffs on China. The Philadelphia Semiconductor Index fell 4% after Trump posted the tariff threat in response to China's recent decision to restrict rare-earth materials.

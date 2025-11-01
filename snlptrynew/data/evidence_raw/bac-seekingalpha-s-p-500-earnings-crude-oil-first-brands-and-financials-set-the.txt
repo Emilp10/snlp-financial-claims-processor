@@ -1,0 +1,5 @@
+title: S&P 500 Earnings: Crude Oil, First Brands, And Financials Set The Tone This Week
+source: SeekingAlpha
+date: 2025-10-13
+url: https://finnhub.io/api/news?id=e7f04e15b21ce2413538e353a37b9b351325d8dbfbdeac04e241f9bebfbf24b5
+According to LSEG, there will be 35 S&P 500 companies reporting this week, a lot of them from the financial sector. Read more here.

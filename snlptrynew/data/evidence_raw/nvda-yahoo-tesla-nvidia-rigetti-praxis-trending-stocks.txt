@@ -1,0 +1,5 @@
+title: Tesla, Nvidia, Rigetti, Praxis: Trending Stocks
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=295d38b071b69029e1a7a66d8a417c0518baccb74c26c27e3ce54a962f354d3c
+Tesla (TSLA) continued its slide in the pre-market on another bearish analyst report, and mounting questions around Elon Musk company's ability to deliver on robotics and AI promises. Nvidia (NVDA) shares swing down then recover some ground ahead of the open. Meta (META) is close to a $30 billion financing deal for a data center in Louisiana, and shares of its AI glasses partner EssilorLuxottica (EL.PA) hit a new record. Micron (MU) abandons some of its chip supplying activities in China. Other top gainers and losers include Praxis (PRAX) and Rigetti (RGTI). For more live coverage of markets watch the full episode of Market Sunrise and head to Yahoo Finance.

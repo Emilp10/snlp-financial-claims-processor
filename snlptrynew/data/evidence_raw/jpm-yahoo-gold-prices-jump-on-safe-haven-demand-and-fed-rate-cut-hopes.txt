@@ -1,0 +1,5 @@
+title: Gold prices jump on safe-haven demand and Fed rate-cut hopes
+source: Yahoo
+date: 2025-10-17
+url: https://finnhub.io/api/news?id=10211b63feca87fef28fd41116b1fdd61ac3ce08e3c7a0388112eebc9d586bd8
+Gold prices continued to surge on Friday, as concerns about credit quality and the US-China trade war fuelled demand for the safe-haven asset.

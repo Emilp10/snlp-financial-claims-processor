@@ -1,0 +1,5 @@
+title: Sector Update: Financial Stocks Mixed Tuesday Afternoon
+source: Yahoo
+date: 2025-10-07
+url: https://finnhub.io/api/news?id=98f73feb8f404f07d04a94e23a55681a7315e97409ee4d063f23f190f20cda43
+Financial stocks were mixed in afternoon trading with the NYSE Financial Index dropping 0.2% and the

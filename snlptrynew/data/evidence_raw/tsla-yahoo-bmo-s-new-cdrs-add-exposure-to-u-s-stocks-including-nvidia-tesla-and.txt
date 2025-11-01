@@ -1,0 +1,5 @@
+title: BMO's New CDRs Add Exposure to U.S. Stocks, Including Nvidia, Tesla and Amazon.com
+source: Yahoo
+date: 2025-10-16
+url: https://finnhub.io/api/news?id=3c5eadaa9c076fb90a94328536d90fd2c68c0e7449828a339785d1652e65c189
+Bank of Montreal (BMO) today announced the launch of five new Canadian depositary receipts (CDRs) offering investors exposure to U.S. companies. The initial offering of the new CDRs has closed and the five new CDRs will begin trading on the Cboe Canada exchange today.

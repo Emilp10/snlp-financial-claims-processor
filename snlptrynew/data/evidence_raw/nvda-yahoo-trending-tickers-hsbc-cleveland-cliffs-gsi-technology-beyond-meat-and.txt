@@ -1,0 +1,5 @@
+title: Trending tickers: HSBC, Cleveland-Cliffs, GSI Technology, Beyond Meat and Replimune
+source: Yahoo
+date: 2025-10-21
+url: https://finnhub.io/api/news?id=617ba6d96d27eea5578b0900c99ea9f26c15519a493f58727903fe88a08bc4ce
+The latest investor updates on stocks that are trending on Tuesday
