@@ -1,5 +1,0 @@
-title: Why Meta Platforms' Open-Source AI Strategy Might Win the Long Game
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=528a4c19758a4a48688ca0e78b1f19408c1582d2f55edc9612628ed592874491
-Meta Platforms' open-source approach might look risky in the short term, but it could prove brilliant in the long run.

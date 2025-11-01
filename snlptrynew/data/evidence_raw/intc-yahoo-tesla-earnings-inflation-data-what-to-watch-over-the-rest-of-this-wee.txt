@@ -1,5 +1,0 @@
-title: Tesla Earnings, Inflation Data: What to Watch Over the Rest of This Week
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=b36893e8e700a944d1c7e700623178661584b7bc6424c913e9ac2c818049b398
-The U.S. government shutdown continues, but investors won't be completely starved for economic data. Friday brings a delayed look at September’s consumer-price index, a key inflation reading that will factor into the Federal Reserve’s next decision on interest rates.

@@ -1,5 +1,0 @@
-title: Oracle’s AMD deal marks a new phase in the AI chip race
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=ce090903e4c93f71b70d234cf7c5d160ab55a91267521f7d54d05454d4b3d36f
-Oracle’s cloud arm has been dining almost exclusively at Nvidia’s table. Now it's buying leverage — and that costs billions

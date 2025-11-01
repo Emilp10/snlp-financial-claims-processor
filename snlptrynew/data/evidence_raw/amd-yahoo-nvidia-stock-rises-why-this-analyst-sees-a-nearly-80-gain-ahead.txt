@@ -1,5 +1,0 @@
-title: Nvidia Stock Rises. Why This Analyst Sees a Nearly 80% Gain Ahead.
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=67e23143033d5938570b14381113137ddad959ce645440ccd4acd98f0e750e54
-Nvidia should be able to hold on to its dominance due to its superior performance-per-watt for AI workloads.

@@ -1,5 +1,0 @@
-title: SpaceX Major Winner As Space Force Doles Out $1 Bil In Launch Contracts
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=f16eac759d70739cee27616777b7981737f773f76bfaaa2c0898bb09f6c0a1db
-Space Force awards $1.1 billion in launch contracts to SpaceX, United Launch Alliance. Blue Origin left out of this batch.

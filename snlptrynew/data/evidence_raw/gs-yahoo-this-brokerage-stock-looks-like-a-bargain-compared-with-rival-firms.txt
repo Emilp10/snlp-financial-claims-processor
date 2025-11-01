@@ -1,5 +1,0 @@
-title: This Brokerage Stock Looks Like a Bargain Compared With Rival Firms
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=452cfe2ea6f2079022356228f86b01c50d0e661c328f84d2b9d3c4641be6bff7
-LPL Financial stock is trading at a discount to competitors and Morningstar thinks the stock can soar.

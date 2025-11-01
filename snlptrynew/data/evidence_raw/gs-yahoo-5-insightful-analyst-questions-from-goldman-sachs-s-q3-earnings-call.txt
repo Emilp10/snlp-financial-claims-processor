@@ -1,5 +1,0 @@
-title: 5 Insightful Analyst Questions From Goldman Sachs’s Q3 Earnings Call
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=445a45eeae93f2d9ac584b1231fe9e0dc37d4a79b6d4dcdaed2d1a7475c15e26
-Goldman Sachs delivered third quarter results that exceeded Wall Street expectations, driven by a resurgence in investment banking activity and resilient performance across its trading businesses. Management emphasized the firm’s leadership in mergers and acquisitions, highlighting a substantial rebound in completed deals and a deep advisory pipeline. CEO David Solomon credited the “multiplier effect” of the firm’s integrated approach, noting that M&A activity is feeding opportunities in financi

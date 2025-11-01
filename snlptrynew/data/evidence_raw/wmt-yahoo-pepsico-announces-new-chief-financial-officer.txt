@@ -1,5 +1,0 @@
-title: PepsiCo Announces New Chief Financial Officer
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=e222cb3e2be51b1ce92c6eacb4b1ca3a2e31e218af1647c69829e310f29da191
-PepsiCo, Inc. (NASDAQ: PEP) today named Steve Schmitt Executive Vice President and Chief Financial Officer, effective November 10, 2025. Jamie Caulfield has decided to retire next year after a more than 30-year career with the company. Jamie will remain CFO until November 10, 2025, at which time he will assume an advisory role and assist with the transition through May 15, 2026.

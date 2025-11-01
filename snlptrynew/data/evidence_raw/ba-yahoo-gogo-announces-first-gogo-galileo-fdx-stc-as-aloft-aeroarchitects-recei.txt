@@ -1,5 +1,0 @@
-title: Gogo announces first Gogo Galileo FDX STC as ALOFT AeroArchitects receives approval covering Boeing Business Jet BBJ737-series aircraft.
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=52d83f3a193ad44b90f886aabbf3cc9e2c1d54a73632187dc0455c118cb4505c
-The first Supplemental Type Certificate (STC) for the Gogo Galileo FDX terminal has been issued by the Federal Aviation Administration (FAA). An initial Gogo Galileo FDX installation has already been completed on an undisclosed customer’s Boeing BBJ 737-700IGW that was previously without connectivity. The FDX terminal supports global, high-speed broadband with up to 195Mbps download and 32Mbps upload speeds throughout the cabin. Broomfield, CO., Oct. 06, 2025 (GLOBE NEWSWIRE) -- Gogo (NASDAQ: GO

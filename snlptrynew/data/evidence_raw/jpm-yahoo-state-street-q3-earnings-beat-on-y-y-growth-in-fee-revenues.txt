@@ -1,5 +1,0 @@
-title: State Street Q3 Earnings Beat on Y/Y Growth in Fee Revenues
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=e0d718f7fe0a46037e0940ae579df6687acea22b40ac99d6d9678e44fbefd407
-STT's Q3 earnings jump 23% year over year, beating estimates on fee revenue growth and stronger asset balances.

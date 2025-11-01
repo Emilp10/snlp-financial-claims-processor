@@ -1,5 +1,0 @@
-title: Caterpillar to acquire mining software solutions provider RPMGlobal
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=e012a7689e323acbd2c2407425836075ce30dc16303253cd798e383db023e3fb
-RPMGlobal provides data-driven software solutions across the mining life cycle, complementing Caterpillar's existing technologies.

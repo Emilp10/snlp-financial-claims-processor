@@ -1,5 +1,0 @@
-title: Ford: lowers targets as quarterly EPS falls
-source: Finnhub
-date: 2025-10-24
-url: https://finnhub.io/api/news?id=5d29a297653e8e901c174290c57be5e0f71f501b8a54080493bc822c8f9c1dc9
-On Thursday evening, Ford reported adjusted EPS down 8% to $0.45 for Q3 2025, which was still above analysts' expectations, while adjusted EBIT was stable at $2.6bn, representing a margin that fell...

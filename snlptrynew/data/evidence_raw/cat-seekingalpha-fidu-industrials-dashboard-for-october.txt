@@ -1,5 +1,0 @@
-title: FIDU: Industrials Dashboard For October
-source: SeekingAlpha
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=2e7044996c7434b72b1922f9a1c0072ea8d55fda3a46e3232bd232a8d3fedd25
-FIDU offers broad industrial exposure, with transportation undervalued and aerospace overvalued, while XLI shows better liquidity. Learn why FIDU ETF is a hold.

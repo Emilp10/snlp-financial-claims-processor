@@ -1,5 +1,0 @@
-title: Nasdaq Futures Slip as Netflix and Texas Instruments Earnings Disappoint, Tesla Results in Focus
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=f526806f136b4ce83dcb3a538d432d9523f43bbc34dff56493d598b7aa0b8ff5
-December Nasdaq 100 E-Mini futures (NQZ25) are trending down -0.27% this morning as investors digest disappointing results from Netflix and Texas Instruments.

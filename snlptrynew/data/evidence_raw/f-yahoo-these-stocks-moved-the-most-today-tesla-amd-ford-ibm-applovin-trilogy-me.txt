@@ -1,5 +1,0 @@
-title: These Stocks Moved the Most Today: Tesla, AMD, Ford, IBM, AppLovin, Trilogy Metals, Aehr, SoFi, and More
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=ab3212e6433dac14c0b69b053df145c12030f17fce377bac0c9b7cde2e93e0cb
-Electric-vehicle maker Tesla says it will roll out a pair of vehicles starting below $40,000, including a new standard Model Y starting at $39,900.

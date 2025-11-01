@@ -1,5 +1,0 @@
-title: Intel (INTC) Shares Climb After Mizuho Lifts Target on Strong Foundry Pipeline
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=01280beb36374c0e672a61e1d495a746f2d8c1037477b3d35fdf78d29e2ac9c6
-Intel Moves Higher as Analysts Turn Upbeat on Advanced Chip Production Growth

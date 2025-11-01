@@ -1,5 +1,0 @@
-title: Intel outlines details of first PC chip made on its new manufacturing tech
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=62440d96af0f717bcbea67c43f1a586853ebce1191fd9e8ec941391d923b82c7
-The rollout of Panther Lake, aimed at high-end, artificial intelligence-enabled laptops, is a major test of Intel's ability to scale its 18A manufacturing technology and reclaim PC market share lost to rival AMD.  Intel said graphics and central processors integrated in Panther Lake deliver 50% faster performance than its previous generation of chips, Lunar Lake, which was largely made by rival  Taiwan Semiconductor Manufacturing Co.  The 18A process includes a new transistor design and a method of delivering energy to the chip more efficiently.

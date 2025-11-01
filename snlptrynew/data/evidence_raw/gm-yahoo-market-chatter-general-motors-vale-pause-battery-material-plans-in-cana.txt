@@ -1,5 +1,0 @@
-title: Market Chatter: General Motors, Vale Pause Battery Material Plans in Canada
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=70357b28e8b40394b314ef2cebf2b4cada55beacf175321a2fb744d7834585fa
-General Motors (GM) and its joint venture partner, South Korea's Posco Future M, have paused the sec

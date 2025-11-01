@@ -1,5 +1,0 @@
-title: Wall Street Lunch: Broadcom Surges On Deal With OpenAI For Custom AI Accelerators
-source: SeekingAlpha
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=15599f5e0dd365ee72fa6b61f8bd086a0d5e1f84e77aff6214030550a23d8b4f
-Broadcom (AVGO) is jumping after it announced a deal with OpenAI (OPENAI) for 10 gigawatts of custom AI accelerators.

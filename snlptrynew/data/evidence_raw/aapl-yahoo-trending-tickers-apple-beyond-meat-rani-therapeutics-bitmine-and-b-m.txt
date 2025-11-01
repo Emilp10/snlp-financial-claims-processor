@@ -1,5 +1,0 @@
-title: Trending tickers: Apple, Beyond Meat, Rani Therapeutics, BitMine and B&M
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=fbcd7a0d3377507b70421e0ca2ac4bf29d43978cb90a02d248fa703c15893cc9
-The latest investor updates on stocks that are trending on Monday.

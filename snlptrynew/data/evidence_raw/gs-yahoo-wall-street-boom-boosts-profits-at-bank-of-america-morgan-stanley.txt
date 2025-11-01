@@ -1,5 +1,0 @@
-title: Wall Street boom boosts profits at Bank of America, Morgan Stanley
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=e7c15551bcaf91d3b4f8ee0d96074acade028417600dddda213dce3b27ffe048
-Third quarter profits at Bank of America and Morgan Stanley surged 23% and 45%, respectively, as the banking giants became the latest to benefit from a Wall Street dealmaking boom.

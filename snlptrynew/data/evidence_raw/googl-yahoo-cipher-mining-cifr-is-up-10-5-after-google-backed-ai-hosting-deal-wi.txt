@@ -1,5 +1,0 @@
-title: Cipher Mining (CIFR) Is Up 10.5% After Google-Backed AI Hosting Deal With Fluidstack – What's Changed
-source: Yahoo
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=1bfd91f20572cc86273cfc5f20a6d78274294cf63b5388d3cb67f938bdd55c24
-Earlier this month, Cipher Mining announced a 10-year artificial intelligence hosting agreement with Google-backed Fluidstack, backed by Google's US$3.0 billion investment and projected to generate US$300 million in annual revenue, marking a shift from exclusive Bitcoin mining to supporting AI infrastructure from its Texas data centers. This collaboration signals a material transition as Cipher leverages its data center assets to diversify into AI workloads, offering a path toward greater...

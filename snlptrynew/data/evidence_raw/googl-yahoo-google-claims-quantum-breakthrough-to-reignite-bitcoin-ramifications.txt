@@ -1,5 +1,0 @@
-title: Google Claims Quantum Breakthrough to Reignite Bitcoin Ramifications Debate
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=2d1f117be178ccbe85201db816eb4faa7d19a38f77c8399e58792364e343c137
-Google said it achieved a "quantum advantage," with its Willow chip completing a calculation that would take classical supercomputers thousands of times longer.

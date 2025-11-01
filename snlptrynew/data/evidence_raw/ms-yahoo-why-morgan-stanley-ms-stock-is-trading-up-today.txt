@@ -1,5 +1,0 @@
-title: Why Morgan Stanley (MS) Stock Is Trading Up Today
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=2244c91069cbc8d9aec46dbc24ef3e42cf60b16651272af2cd49f36c304f0369
-Shares of global financial services firm Morgan Stanley (NYSE:MS) jumped 5% in the afternoon session after the company reported exceptionally strong third-quarter results that surpassed analyst expectations on both the top and bottom lines.

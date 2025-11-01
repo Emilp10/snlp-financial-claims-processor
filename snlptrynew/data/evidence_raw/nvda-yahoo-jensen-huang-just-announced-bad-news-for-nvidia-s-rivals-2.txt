@@ -1,5 +1,0 @@
-title: Jensen Huang Just Announced Bad News for Nvidia's Rivals
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=4823cbbb58b7f3925c6f6cf1731f52d23b6a1d6a713aaf8633ba35df35509be0
-A recent deal scores a double win for Nvidia.

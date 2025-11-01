@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq futures rise with government shutdown, earnings season in focus
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=ad45580809564e3984ad17b04d869425d0443980a654d7530165f31620a27a3f
-US stock futures rose as Wall Street gears up for a heavy-hitting earnings season, with the government still in shutdown.

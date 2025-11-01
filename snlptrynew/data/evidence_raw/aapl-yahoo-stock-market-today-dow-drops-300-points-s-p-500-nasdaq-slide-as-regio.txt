@@ -1,5 +1,0 @@
-title: Stock market today: Dow drops 300 points, S&P 500, Nasdaq slide as regional bank woes hit markets
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=e8a20e0767a02006914f6e8bb5d226c430a664b706c029566738dd0e54e3b316
-Investors weighed corporate earnings against the escalating US-China trade war.

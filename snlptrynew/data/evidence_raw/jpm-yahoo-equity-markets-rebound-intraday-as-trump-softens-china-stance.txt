@@ -1,5 +1,0 @@
-title: Equity Markets Rebound Intraday as Trump Softens China Stance
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=c7fdd1485023aa3b5e41ea38503c116c97bafe6803619be3e4587ec47e1f1053
-US benchmark equity indexes were higher intraday after President Donald Trump appeared to have softe

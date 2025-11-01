@@ -1,5 +1,0 @@
-title: Can NSCLC Drug Silevertinib Drive Sustainable Growth for BDTX?
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=5523089484dc341bf2e88cbecf16c95ed8cbd9a777edf2d9e5756fd7b3939e15
-Black Diamond Therapeutics focuses on silevertinib, a next-gen EGFR inhibitor for NSCLC, after outlicensing its other lead asset to Servier.

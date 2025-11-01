@@ -1,5 +1,0 @@
-title: GE Aerospace (NYSE:GE) Reports Upbeat Q3
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=f093b9e8fe26c6fe98532cd182d7626b3f6a831d059949cb75e0c9177194403b
-Industrial conglomerate GE Aerospace (NYSE:GE) reported revenue ahead of Wall Street’s expectations in Q3 CY2025, with sales up 36.2% year on year to $12.18 billion. Its non-GAAP profit of $1.66 per share was 13% above analysts’ consensus estimates.

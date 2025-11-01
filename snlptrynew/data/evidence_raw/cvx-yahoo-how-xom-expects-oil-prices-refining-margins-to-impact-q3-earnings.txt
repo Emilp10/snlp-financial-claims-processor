@@ -1,5 +1,0 @@
-title: How XOM Expects Oil Prices & Refining Margins to Impact Q3 Earnings
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=34a67a5cf47f5fa0d734a4110e2fc6b72e7d0294cae8ccf5acb1cffb1e97228a
-Exxon Mobil expects Q3 earnings to rise sequentially, boosted by oil and gas price changes and stronger refining margins.

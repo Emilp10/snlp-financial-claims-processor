@@ -1,5 +1,0 @@
-title: Walmart Stock: This May Be The Best Defense As Markets Face Pressure
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=7a54821c10aef8d6efc89eb45046682e4ec78a84ff50e19c1acc5fba07a05194
-Walmart is a stock that pays a 0.84% dividend, but investors can significantly increase that via a long-term covered call.

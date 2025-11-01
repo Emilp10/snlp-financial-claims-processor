@@ -1,5 +1,0 @@
-title: Europe's Airline Crisis: Boeing and Airbus Delays Wreak Havoc on Jet Deliveries
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=6eb920aa3133ab578b6445c864162515a464edfcdd5eb4dd020362da6eb06405
-Seven-year certification holdups and a U.S. shutdown are grounding expansion plans at major European carriers.

@@ -1,5 +1,0 @@
-title: Goldman Sachs (GS) Profit Margin Surges to 27.5%, Reinforcing Bullish Community Narratives
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=20b8ae1d704e0ed71568fa3d1ba86fd455723aa815e6e8887ff57884c8c99fe3
-Goldman Sachs (GS) posted a net profit margin of 27.5%, a notable rise from last year’s 23.1%, signaling a meaningful lift in profitability. Earnings leapt 38.2% over the past year, a sharp turnaround compared to the company’s five-year annual average earnings decline of 3.6% per year. Investors are likely to view the combination of stronger margins, substantial recent growth, and a comparatively low 15.5x Price-To-Earnings ratio as constructive, especially as the company’s rate of growth is...

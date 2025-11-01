@@ -1,5 +1,0 @@
-title: Trump approves tariff relief for US auto production, issues new truck duties
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=34a0f2a19ae9072df1b8b74e24cfa9f631d15bc0be67676beff455ad4ecaedc5
-Trump is also setting a 10% tariff on imported buses.

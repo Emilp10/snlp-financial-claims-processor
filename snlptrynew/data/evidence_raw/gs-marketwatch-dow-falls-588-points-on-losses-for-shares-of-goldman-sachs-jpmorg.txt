@@ -1,5 +1,0 @@
-title: Dow falls 588 points on losses for shares of Goldman Sachs, JPMorgan Chase
-source: MarketWatch
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=0ccc561f98f621d2c3c936625bd1652bdf135ea74cab475cfbdd55e0203eb96a
-Dow falls 588 points on losses for shares of Goldman Sachs, JPMorgan Chase

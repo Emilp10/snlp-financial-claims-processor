@@ -1,5 +1,0 @@
-title: Jim Cramer Calls Coca-Cola “The Most Consistent of the Packaged Good Stocks”
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=61cce9ae2ed45c6bd8200f04035e0b933076169ed0e8be70b543c5091e33b7b8
-The Coca-Cola Company (NYSE:KO) is one of the stocks in Jim Cramer’s recent game plan. Cramer expects “excellent numbers” from the company, as he commented: “Tuesday, Coca-Cola [and] GE Aerospace report. I think Coca-Cola will put up its usual excellent numbers because it is the most consistent of the packaged good stocks.” The Coca-Cola Company […]

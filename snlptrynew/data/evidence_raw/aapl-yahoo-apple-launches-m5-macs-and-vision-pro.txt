@@ -1,5 +1,0 @@
-title: Apple Launches M5 Macs And Vision Pro
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=dee0dcb74a412f4ed6e92a6a07329fd29fe4cff044ed917a4f6b6ef23f4a2871
-MacBook Pro hits 24 hours battery life max

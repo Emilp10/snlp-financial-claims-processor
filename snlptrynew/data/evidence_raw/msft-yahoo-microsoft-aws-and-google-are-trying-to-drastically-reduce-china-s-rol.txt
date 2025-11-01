@@ -1,5 +1,0 @@
-title: Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=a8e9932f529e2e22537d97672113af46b5f4d5972ee51a2d6ea19c918ebff292
-Microsoft, Amazon and Google are ramping up efforts move production of their products and data centers outside of China, Nikkei reported, citing supply chain sources.

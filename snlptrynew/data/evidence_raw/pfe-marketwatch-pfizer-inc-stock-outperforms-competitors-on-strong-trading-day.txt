@@ -1,5 +1,0 @@
-title: Pfizer Inc. stock outperforms competitors on strong trading day
-source: MarketWatch
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d85bd57808d5afa6e322f87b534d058d95e15b291f3f72f26857e9ea4a652701
-Pfizer Inc. stock outperforms competitors on strong trading day

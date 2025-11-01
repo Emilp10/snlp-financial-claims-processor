@@ -1,5 +1,0 @@
-title: Why Intel (INTC) Stock Is Falling Today
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=ea802452bcfa75167f5358f399783775d67db6fed541b26c0bcc662db8da3d52
-Shares of computer processor maker Intel (NASDAQ:INTC) fell 5.8% in the morning session after a Bank of America analyst downgraded the stock to "underperform" from "neutral," citing concerns that the shares had climbed "too far, too fast."

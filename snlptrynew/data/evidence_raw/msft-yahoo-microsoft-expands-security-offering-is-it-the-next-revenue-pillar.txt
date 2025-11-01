@@ -1,5 +1,0 @@
-title: Microsoft Expands Security Offering: Is it the Next Revenue Pillar?
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=8c9b55507323940d3f0cf054cdc56553ffc703d87310a4dcc05b1166e6891b2f
-MSFT's security serves 1.5M customers, analyzing 100T signals daily with AI agents. Can automated threat detection become its next major revenue pillar?

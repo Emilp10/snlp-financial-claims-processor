@@ -1,5 +1,0 @@
-title: GM Aims to Deliver Eyes-Off Autonomous Driving by 2028
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=618f856c2f2dacd3cbfc78495c0df3ab690351cb05b1d8fb6d03d64f1dbe4155
-The automaker said it has already mapped 600,000 miles of hands-free roads in North America, and that customers have driven 700 million miles using its hands-off driver-assistance system Super Cruise without a single reported crash attributed to the system.

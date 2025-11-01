@@ -1,5 +1,0 @@
-title: Nigerian fintech gaint Moniepoint raises $200 million to expand digital services
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=451193fe98c2e903cb361489cd64764debd4fbe00bf2a0c5c168ab03691d28f4
-LAGOS (Reuters) -Nigerian fintech firm Moniepoint Inc. said on Tuesday it had raised more than $200 million in a funding round led by Development Partners International, as it seeks to expand its digital financial services across Africa and beyond.  The Series C financing, which also included LeapFrog Investments, Visa, Google’s Africa Investment Fund, and the International Finance Corporation, is one of the largest equity fundraisings by an African fintech this year.  Moniepoint, formerly known as TeamApt, said the funds would support its expansion into new markets and enhance its offerings for small and medium-sized enterprises, which form the backbone of Africa’s informal economy.

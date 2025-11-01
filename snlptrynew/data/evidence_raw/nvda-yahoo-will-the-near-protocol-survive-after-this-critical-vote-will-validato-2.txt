@@ -1,5 +1,0 @@
-title: Will The NEAR Protocol Survive After This Critical Vote? Will Validators Walk Away?
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=072b41fb470ba0ad1aec87615e7e73272e8e956605aef140abec6fe1aacfa7ac
-It’s hard to talk about crypto AI without mentioning the NEAR Protocol. Last year, the NEAR Protocol really took off because of Nvidia and everything the chipset manufacturer planned to do. That momentum was supposed to sustain the NEAR USDT upside for the better part of this year, but the ...

@@ -1,5 +1,0 @@
-title: Quantum, satellites and Gucci's owner: Trending Stocks
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=3808de95aeaee774010d021df3b4e1cfe244b6a336b6f7d5605f7e8034d7c867
-Quantum computing stocks IonQ (IONQ), Rigetti (RGTI) and D-Wave (QBTS) soar on a WSJ report indicating that the U.S. government might take equity stakes. Google (GOOG, GOOGL) says its quantum system can be 13 times faster than today's supercomputers. In aerospace news, SpaceX (SPAX.PVT) might be getting a new rival: Europe's Airbus (AIR.PA), Thales (HO.PA), and Leonardo (LDO.MI) announced plans to team up to expand the continent's networks. Two other European companies, Kering (KER.PA) and Nokia (NOKIA.HE), are seeing their shares rise, as Intel (INTC) and Ford (F) are set to report earnings after Tesla (TSLA), IBM (IBM) and others. For more live coverage of markets watch the full episode of Market Sunrise and head to Yahoo Finance.

@@ -1,5 +1,0 @@
-title: JPMorgan Leads Big Banks Raking in Trading Revenue
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=9137a4e1285dc07b1d49642c6683b475b89e22b99bef387ac61356c41fc52c99
-Wall Street is raking in revenue as traders navigate the uncertainty sparked by President Trump’s tariffs. Big banks all reported better-than-expected profits for the third quarter, boosted in part by surging trading revenue.

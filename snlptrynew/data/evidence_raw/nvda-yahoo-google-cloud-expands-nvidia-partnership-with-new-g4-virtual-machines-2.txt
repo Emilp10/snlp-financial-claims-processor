@@ -1,5 +1,0 @@
-title: Google Cloud Expands Nvidia Partnership With New G4 Virtual Machines
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=92f590bbf6fd61c77d0af0b176ae4b3b6622d18ee20c556e857e933fb0745448
-Launch targets enterprise and industrial AI workloads with Nvidia's latest Blackwell GPUs

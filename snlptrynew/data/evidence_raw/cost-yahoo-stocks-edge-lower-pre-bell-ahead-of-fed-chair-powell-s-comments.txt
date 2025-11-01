@@ -1,5 +1,0 @@
-title: Stocks Edge Lower Pre-Bell Ahead of Fed Chair Powell's Comments
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=9bc86fba2b7f97f069cfadbf156b25b53124a71c0bb89204e641a4aa1a290071
-US equity futures were pointing lower on Thursday as investors await commentary from Federal Reserve

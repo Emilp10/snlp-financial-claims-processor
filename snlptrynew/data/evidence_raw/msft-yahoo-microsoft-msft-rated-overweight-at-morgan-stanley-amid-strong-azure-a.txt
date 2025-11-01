@@ -1,5 +1,0 @@
-title: Microsoft (MSFT) Rated Overweight at Morgan Stanley Amid Strong Azure AI Demand
-source: Yahoo
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=b2f62c46518f4b47d668bd6664972a6f942e74c7baa17719f2382548c07a9f80
-Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Analysts Are Watching Closely. On October 16, Morgan Stanley reiterated the stock as “Overweight” and said that Microsoft is a “core holding.” According to the firm, the company reported robust Q4 results and strong demand for Azure AI. However, there are concerns about OpenAI’s relationship and whether […]

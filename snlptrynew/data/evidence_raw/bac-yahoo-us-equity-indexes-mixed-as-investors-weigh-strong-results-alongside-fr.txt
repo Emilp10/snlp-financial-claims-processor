@@ -1,5 +1,0 @@
-title: US Equity Indexes Mixed as Investors Weigh Strong Results Alongside Fragility in China Trade Talks
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=6ee71ac3f5cfa61948700efe99e9ceb7371d114f92de2ca447a23a1a6e9f36f4
-US equity indexes traded mixed ahead of the close on Wednesday as investors weighed strong quarterly

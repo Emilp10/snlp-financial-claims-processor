@@ -1,5 +1,0 @@
-title: These Stocks Are Moving the Most Today: Apple, Alphabet, GM, GE Aerospace, Coca-Cola, Lockheed, Netflix, and More
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=4c00d2a764504d0372724443f940706dac6a7862be8131a5747069c9c075b6c8
-Shares of both Apple and Alphabet pull back after setting record closing highs in the previous session, while General Motors and GE Aerospace posted better-than-expected third-quarter earnings.

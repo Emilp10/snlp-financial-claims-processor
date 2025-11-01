@@ -1,5 +1,0 @@
-title: Wall Street credit worries intensify after Dimon's 'cockroach' warning
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=9bdae9ff444a64f87a0165f07bd747f7396754e30514cd6cb156cee3c89f1489
-Wall Street's credit worries are intensifying as investors on Thursday punished the stocks of regional banks and an investment bank exposed to the bankruptcy of an auto parts maker.

@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=1c0ed12cdb1ab495913b1be65a74573e28454404700fd07ea11034d1260fcb6c
-Investor fears over regional banks' exposure to bad loans and credit quality eased while talks between the US and China appeared to be back on track.

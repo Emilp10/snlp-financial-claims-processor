@@ -1,5 +1,0 @@
-title: Walmart, IBD Stock Of The Day, Runs Past Buy Point On OpenAI Shopping Partnership
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=9b1cbf3e8f8912f94c3e9287ab73c21ccb7013216afbd14a1b659d32aec1bf93
-Walmart stock gained on a partnership with OpenAI to allow shoppers to purchase goods directly through ChatGPT.

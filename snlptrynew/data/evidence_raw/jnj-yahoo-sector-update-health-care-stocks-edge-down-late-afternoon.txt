@@ -1,5 +1,0 @@
-title: Sector Update: Health Care Stocks Edge Down Late Afternoon
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=e56d8938bc9062ca5aefbd8d375463e339a0f05b9b58c10f8b0d7c1580487c67
-Health care stocks edged lower late Tuesday afternoon, with the NYSE Health Care Index and the Healt

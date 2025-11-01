@@ -1,5 +1,0 @@
-title: Bidirectional Charging Market worth $844.1 million by 2035 | MarketsandMarkets™
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=0866a81343c5df86bd1c39d9df44de36f2860f6ff5f45bf1f3eac7a7797fc5da
-The global market for bidirectional charging market is projected to grow from USD 70.0 million in 2025 to USD 844.1 million by 2035, at a CAGR of 28.3%, according to a new report by MarketsandMarkets™. The global bidirectional charging market is gaining strong traction, led by the widespread deployment of V2L features in passenger vehicles and growing V2H deployment for home energy backup. V2L has emerged as the most common use case, allowing users to power external devices easily and at low cos

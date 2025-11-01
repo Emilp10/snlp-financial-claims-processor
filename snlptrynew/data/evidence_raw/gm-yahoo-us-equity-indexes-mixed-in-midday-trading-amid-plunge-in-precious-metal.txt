@@ -1,5 +1,0 @@
-title: US Equity Indexes Mixed in Midday Trading Amid Plunge in Precious Metal Prices
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=0b5cdcb580e30844265c80961ea35a0249d5f17f28d17f459e419fb87a8302d6
-US equity indexes were mixed after midday Tuesday amid lower government bond yields and plunging pre

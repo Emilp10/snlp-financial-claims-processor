@@ -1,5 +1,0 @@
-title: A Bit of Great News for Ford and GM Investors
-source: Yahoo
-date: 2025-10-05
-url: https://finnhub.io/api/news?id=22d372eebaa7bc822ffd95a1e0afca0b71b1534c4a6352c41d6f9b00a2de9710
-These Detroit automakers have found a financial workaround to help EV customers continue to get the federal tax credit.

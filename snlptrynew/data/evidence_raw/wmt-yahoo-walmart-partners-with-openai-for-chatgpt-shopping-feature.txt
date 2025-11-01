@@ -1,5 +1,0 @@
-title: Walmart partners with OpenAI for ChatGPT shopping feature
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=1c025797d375aaf0957aee34ff1b74f5783b6bab9d0b512fd99812e7d0dbcbf1
-Walmart has announced AI tools including generative AI-powered 'Sparky,' which is available on its app to assist customers with product suggestions or summarizing product reviews, among other options.  The company's growing investment in AI is also aimed at closing the gap with online behemoth Amazon, which had a head start with its chatbot, Rufus, a Gen AI-powered shopping assistant that answers various shopping queries.  Walmart's tie-up with the ChatGPT-maker follows a similar partnership OpenAI announced last month with Etsy and Shopify.

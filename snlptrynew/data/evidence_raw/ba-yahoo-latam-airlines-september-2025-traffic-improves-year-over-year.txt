@@ -1,5 +1,0 @@
-title: LATAM Airlines September 2025 Traffic Improves Year Over Year
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=1e6f7e8d951b994200eb327866e30149f6d4165e84d3461f2981004ea01946e0
-LTM flew nearly 7.3 million passengers in September 2025, with traffic up 8.8% year over year, along with a load factor of 84.2%.

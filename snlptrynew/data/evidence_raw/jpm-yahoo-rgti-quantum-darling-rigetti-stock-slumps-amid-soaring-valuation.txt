@@ -1,5 +1,0 @@
-title: RGTI: Quantum Darling Rigetti Stock Slumps Amid Soaring Valuation
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=61b12f4b0f1381b6a01ffaf41eacd0f7c55b421a0b7932d96c27a254bb696c46
-Rigetti Computing Faces Sharp Sell-Off As Analysts Warn Of 'Quantum Hype'

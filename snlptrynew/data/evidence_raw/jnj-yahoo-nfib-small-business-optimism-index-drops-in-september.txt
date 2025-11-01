@@ -1,5 +1,0 @@
-title: NFIB Small-Business Optimism Index Drops in September
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=0485d2812c86fc5441aa3dd20d21d77ada528d04198cacabbe3651a339551cd9
-NFIB Small-Business Optimism Index Drops in September.

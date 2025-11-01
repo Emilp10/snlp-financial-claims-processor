@@ -1,5 +1,0 @@
-title: OpenAI launches ChatGPT Atlas web browser in latest strike at Google's online dominance
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=da1fc41130b75b6b5d7849d3044607eac883f5176d54131eebb3f830e9e8cae9
-OpenAI launched its ChatGPT Atlas web browser on Tuesday.

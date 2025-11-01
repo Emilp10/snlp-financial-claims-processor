@@ -1,5 +1,0 @@
-title: Mark Cuban-Backed Fintech Startup Yendo Raises $50 Million To Create AI Bank Serving Millions Locked Out Of Traditional Lending
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=f18bbeabfda0fa8ed589fca4f9a67b7bea3bda02f65579e1f5fe69776ff2989b
-Fintech startup Yendo on Oct. 9 announced it raised $50 million in Series B funding to accelerate the growth of its artificial intelligence–driven credit platform. The round included high-profile investors such as Mark Cuban, Spice Expeditions, ...

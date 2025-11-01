@@ -1,5 +1,0 @@
-title: S&P 500 Posts Weekly Gain on Tariff Optimism, Better-Than-Expected Earnings
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=0d039924080216add766b39758d14090bf2b2385293f24999500ca5b8f9afd69
-The Standard & Poor's 500 index rose 1.7% this week as earnings season kicked off on a largely posit

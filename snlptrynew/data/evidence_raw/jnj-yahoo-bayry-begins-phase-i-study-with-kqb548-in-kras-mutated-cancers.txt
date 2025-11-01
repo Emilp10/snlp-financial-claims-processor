@@ -1,5 +1,0 @@
-title: BAYRY Begins Phase I Study With KQB548 in KRAS-Mutated Cancers
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=eb8e22e6821a054465a3b4e7ffe55f5f841c8c91d3477d9950c0909da9dd653c
-Bayer and Kumquat launch a phase I study of KQB548, aiming to target various KRAS G12D-mutated tumors like pancreatic, colorectal and lung cancer.

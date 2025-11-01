@@ -1,5 +1,0 @@
-title: Intel pushes further into humanoid robotics with new chip, software
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=36d95164e5566bbc5ef59debbe21cd5d59d272da0ff71440097b97cbd2eb59af
-Intel is pushing deeper into robotics with its latest hardware and software updates.

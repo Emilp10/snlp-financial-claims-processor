@@ -1,5 +1,0 @@
-title: Synchrony Financial Posts Higher Profit, Revenue
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=d3957f297b06bbe2cbf81743d8715b83afc1c6f97576892499cd2379a6e18fd3
-Synchrony Financial logged higher profit and revenue in the third quarter as it returned to purchase volume growth, driven by stronger spending trends.

@@ -1,5 +1,0 @@
-title: Sector Update: Tech Stocks Fall Wednesday Afternoon
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=bbe0b7d4aadf4dcd5ee323d41e27529b05ae77f79c524f75209d0e2b578b4613
-Tech stocks fell Wednesday afternoon with the Technology Select Sector SPDR Fund (XLK) decreasing 1.

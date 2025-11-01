@@ -1,5 +1,0 @@
-title: Indexes Turn Red as Stocks Give Up Morning Gains
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=a1a2f1f407ec23b702ed154e83a9bbde2de8edf2e42296f74c74bf5ba02bb489
-The S&P 500 Index ($SPX ) (SPY ) today is down -0.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.62%. After starting the day higher, stock indexes have turned lower and all 3 indexes...

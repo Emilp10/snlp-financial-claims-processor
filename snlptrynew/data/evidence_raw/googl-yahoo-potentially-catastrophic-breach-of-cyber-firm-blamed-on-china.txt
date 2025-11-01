@@ -1,5 +1,0 @@
-title: Potentially ‘Catastrophic’ Breach of Cyber Firm Blamed on China
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=0b5887e90027cba2a5c4c22391dfaf8682f0776d9ed99eb658cc0ef6a5947322
-Seattle-based F5 Inc. disclosed on Wednesday morning in a regulatory filing that nation-state hackers had breached its networks and gained “long-term, persistent access” to certain systems.  The intruders stole files including portions of source code from the company’s BIG-IP suite of application services, which are widely used by Fortune 500 companies and government agencies, in addition to details about some flaws that could be used to target the company’s customers.  Representatives for F5 have told customers that the hackers were in the company’s network for at least 12 months, according to the people, who asked not to be named as they aren’t authorized to speak publicly about the incident.

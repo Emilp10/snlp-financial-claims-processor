@@ -1,5 +1,0 @@
-title: 5 Revealing Analyst Questions From JPMorgan Chase’s Q3 Earnings Call
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=54bb24c9678c7d6109080b39e745055453e276a7c0e6ec9ab024612124db2d90
-JPMorgan Chase delivered third-quarter results that surpassed Wall Street’s revenue and earnings expectations, underpinned by robust growth in markets-related revenues and continued strength in consumer banking. Management credited higher asset management and investment banking fees, as well as increased payment activity, for powering revenue expansion. CFO Jeremy Barnum noted, “Revenue was up predominantly driven by higher markets revenue as well as higher fees across asset management, investme

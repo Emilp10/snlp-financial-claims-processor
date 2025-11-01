@@ -1,5 +1,0 @@
-title: E.l.f. Cosmetics first to test Twitch’s new livestream shopping ads
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=83ece86bf58972fb83d1adcd1d868885daa225c3f07a2f9d709e301b1aba0f5d
-A new integration powered by Amazon Ads’ retail media data is meant to drive “more measurable business outcomes” for E.l.f. on the platform.

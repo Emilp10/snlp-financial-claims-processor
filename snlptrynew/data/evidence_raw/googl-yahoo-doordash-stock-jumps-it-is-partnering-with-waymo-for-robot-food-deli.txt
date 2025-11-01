@@ -1,5 +1,0 @@
-title: DoorDash Stock Jumps. It Is Partnering With Waymo For Robot Food Delivery.
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=f6a757092dc820509ed6d440ac6be529268f9e7938f5a6f9071eb967d88fa8d8
-DoorDash stock jumped to new highs following news of a partnership with Waymo to deliver food using autonomous vehicles.

@@ -1,5 +1,0 @@
-title: Tesla Profit Plunges Despite Third-Quarter Rush to Buy EVs
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=9b1b156517499baef8f13f49e1b397123489054fa3f0035ec396bb6487e5c6a2
-The electric-vehicle maker’s net income fell 37%, even as American shoppers raced to buy electric vehicles before a $7,500 federal tax credit expired last month.

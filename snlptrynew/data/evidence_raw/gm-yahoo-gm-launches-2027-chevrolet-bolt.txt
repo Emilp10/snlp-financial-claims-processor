@@ -1,5 +1,0 @@
-title: GM Launches 2027 Chevrolet Bolt
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=61cb64dc5f1ed916a406b05a40f6edec4144340b1069ea4ce6877346cc74d74c
-GM is bringing back its Chevrolet Bolt with a new model that it expects to account for much of its electric-vehicle volume next year.

@@ -1,5 +1,0 @@
-title: Jabil Launches J-422G Servers for Scalable AI and Data Center Performance
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=bde12322fc82f08afeb034182d9c34bf69c66313e1ab49f1988f6e6c8ff62b77
-ST. PETERSBURG, Fla., October 13, 2025--Jabil Inc. (NYSE: JBL), a global engineering, supply chain, and manufacturing solutions provider, today announced the launch of its new J-422G servers to meet the growing needs of artificial intelligence (AI) and data center customers.

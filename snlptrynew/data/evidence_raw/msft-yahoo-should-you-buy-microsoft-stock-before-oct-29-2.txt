@@ -1,5 +1,0 @@
-title: Should You Buy Microsoft Stock Before Oct. 29?
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=4e2ae17397a424f7230d1436c7da5cd2ccae37e2c69caa2dc72ebce5f7bf65dd
-Artificial intelligence is driving an acceleration in Microsoft's cloud revenue growth.

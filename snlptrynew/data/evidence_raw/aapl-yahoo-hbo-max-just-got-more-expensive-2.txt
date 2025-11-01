@@ -1,5 +1,0 @@
-title: HBO Max just got more expensive
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=d56ef4a46accdf0cc0e589572b28e6df58fc53233c1cc89f10b10ba5f1b3a969
-For new subscribers, the updated prices go into effect on Tuesday, while existing customers will see the change on their first billing cycle on or after November 20.

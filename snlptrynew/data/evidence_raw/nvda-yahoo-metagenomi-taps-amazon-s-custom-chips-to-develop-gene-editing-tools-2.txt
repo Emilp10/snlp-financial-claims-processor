@@ -1,5 +1,0 @@
-title: Metagenomi taps Amazon's custom chips to develop gene-editing tools
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=72f5f496b375e1143126e2cb57f55e411380c89605ed9ae89d3adcb6cf1b8b9d
-SAN FRANCISCO (Reuters) -Biotech firm Metagenomi said it is using artificial intelligence chips from Amazon.com's cloud computing unit to power some of its work in developing gene-editing technologies.  The work represents one of the first major uses of Amazon Web Services chips beyond chatbots and other products powered by large language models, with Metagenomi saying AWS's Inferentia chips had proven far more cost-effective than products from rivals like Nvidia.  Emeryville, California-based firm Metagenomi is one of a number of companies working to develop tools to inject genetic material into the human body where it can edit genes to treat diseases.

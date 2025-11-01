@@ -1,5 +1,0 @@
-title: Apple loses UK lawsuit over App Store commission charges
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=d8106a2dddf154397dbb2b0a801addd1f2fcb69a7ac7e193fa651d868d70302b
-Investing.com -- Apple has lost a lawsuit in London that accused the tech giant of abusing its dominant market position by charging app developers a 30% commission through its App Store.

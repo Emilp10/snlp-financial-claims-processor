@@ -1,5 +1,0 @@
-title: Bristol Myers Squibb Buys Private Biotech for $1.5 Billion. The Deal Wave Keeps Going.
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=7d6a7d87f2d7d4a5725b458303ab18f2cf290aff6d4a485d575f23dc5f813107
-The recent cavalcade of biotech deals continued Friday morning, when  Bristol Myers Squibb  said it had agreed to pay $1.5 billion to acquire Orbital Therapeutics, an early-stage, privately held biotech designing RNA-based medicines.  Its lead program, a potential treatment for autoimmune conditions called OTX-201, isn’t expected to enter human trials until next year.  The Orbital deal is Bristol’s largest since February 2024, when it closed a $4.1 billion acquisition of RayzeBio, a cancer-focused biotech.

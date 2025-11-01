@@ -1,5 +1,0 @@
-title: Costco Wholesale Sales Climb in September, Early October
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=147954846cb78b4eb43a81d4ad9dd7b36f5e998f969cebeb0eb153627bad9fb4
-The warehouse retailer said sales rose 8% to $26.58 billion in the five-week period that ended Oct. 5.

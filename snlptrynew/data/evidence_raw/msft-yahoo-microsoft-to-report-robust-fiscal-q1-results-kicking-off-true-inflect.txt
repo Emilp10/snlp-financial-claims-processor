@@ -1,5 +1,0 @@
-title: Microsoft to Report 'Robust' Fiscal Q1 Results, Kicking Off 'True Inflection' Year of AI Growth, Wedbush Says
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=e115e135b817b6edb2589eb9ab2b03604ed3d598ae4287dbc4023b9a8ada9ab7
-Microsoft (MSFT) is set to report "robust" fiscal Q1 results as fiscal 2026 remains the "true inflec

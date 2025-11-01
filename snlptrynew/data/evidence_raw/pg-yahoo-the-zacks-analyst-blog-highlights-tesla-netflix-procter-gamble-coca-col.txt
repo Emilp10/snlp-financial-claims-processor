@@ -1,5 +1,0 @@
-title: The Zacks Analyst Blog Highlights Tesla, Netflix, Procter & Gamble, Coca-Cola, RTX and IBM
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=19c7c9be716f7f1b0820990170699f485f72dec90df9b639681d51d1d142f06c
-Zacks highlights Tesla, Netflix, Procter & Gamble, Coca-Cola, RTX and IBM as global markets brace for a data-heavy week amid U.S. shutdown woes and renewed trade tensions.

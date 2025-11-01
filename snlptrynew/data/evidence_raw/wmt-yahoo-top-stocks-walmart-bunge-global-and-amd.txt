@@ -1,5 +1,0 @@
-title: Top Stocks: Walmart, Bunge Global, and AMD
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=41d717286dce7c08e956115a71364754a6d795c63e2a64533180826a65501142
-After a mixed market performance on Tuesday, when major indices slipped at the close despite intraday gains, Wednesday opened on a bullish note. The S&P 500 rose 0.4%, driven by robust earnings releases and amid geopolitical tensions.The NASDAQ composite was up 0.6%, crediting, once again, to ...

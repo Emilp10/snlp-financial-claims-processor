@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq wobble as Trump tamps down China threats amid regional bank jitters
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=39c3695201b03ede5eaad9282404b625bffeb39b12c582c099fe572fa0f90042
-Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.

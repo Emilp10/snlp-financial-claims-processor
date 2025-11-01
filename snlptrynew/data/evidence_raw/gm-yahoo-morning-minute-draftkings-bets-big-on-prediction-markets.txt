@@ -1,5 +1,0 @@
-title: Morning Minute: DraftKings Bets Big on Prediction Markets
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=a0ff50ffda695ce262dd061ecfc28d81b9a04031d26b3fcf060cf01215187730
-DraftKings is officially entering the prediction market space and launching a new app, though sports are not on its immediate roadmap.

@@ -1,5 +1,0 @@
-title: Former Intel CEO drops curt 2-word verdict on AI
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=41f26312043ac9ea04f61d9b11ac4c06487cf4fc3999be6a98b6731e0d7de66a
-AI is still the stock market’s engine. Over the past year, we’ve seen the S&P 500 notch fresh highs as chip deals, larger data-center plans, and novel model launches draw money back into familiar names. It’s like every new headline has tightened the link between AI spending and index ...

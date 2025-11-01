@@ -1,5 +1,0 @@
-title: Nvidia, Other Chip Stocks Rise Premarket After Trump's More Conciliatory Tone on China
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=01f88362817362401fff876727b2c4c996791c0d00a066ddc0ec5e4b490dfd60
-Shares of Nvidia and other major U.S. semiconductor stocks are on the rise premarket after President Trump said in a Truth Social post during the weekend that he wanted to help China, not hurt it.  The more conciliatory tone came after Trump said he would hit China with a 100% additional tariff and impose new export controls on critical software products.  Nvidia shares closed 4.9% lower at $183.16 on Friday.

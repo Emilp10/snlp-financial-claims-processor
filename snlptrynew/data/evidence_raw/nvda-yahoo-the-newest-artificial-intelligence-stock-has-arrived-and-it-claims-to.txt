@@ -1,5 +1,0 @@
-title: The Newest Artificial Intelligence Stock Has Arrived -- and It Claims to Make Chips That Are 20x Faster Than Nvidia
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=ba28d17392f532fd89a195eab71dddccddf8ce2535bab2d9f5cdd947f4e661cc
-A start-up called Cerebras claims its chips are more powerful than Nvidia's GPUs.

@@ -1,5 +1,0 @@
-title: RhythmX AI Collaborates with Microsoft to Deliver Hyper-Personalized Care Through Dragon Copilot
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=136fc571b2f4081d4142c58773e180ccb558f86b49a04d4fceafe0bc92f59dd8
-RhythmX AI, the enterprise leader in AI-native precision care, today announced it will collaborate with Microsoft to explore integrating the RhythmX AI Enterprise Precision Care Platform directly into Dragon Copilot, equipping clinicians with real-time, whole-patient intelligence in their existing workflows and enabling health systems to achieve meaningful increases in access and measurable ROI.

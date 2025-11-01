@@ -1,5 +1,0 @@
-title: Why Nvidia Stock Is Getting a Boost From TSMC Earnings
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=0bb19dc201e15788658b6896a9cc8031dc2dd301888a1ac86d798e129b338296
-Nvidia stock was rising after Taiwan Semiconductor Manufacturing expressed confidence in demand for artificial-intelligence chips.

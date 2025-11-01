@@ -1,5 +1,0 @@
-title: Bayer Reports Positive Data on Cell Therapy for Parkinson's Disease
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=f74d2ae582a28408223a0a5398e1b995b1a398278e9126f9f63d12a14aa49d64
-BAYRY's subsidiary BlueRock reports 36-month data showing its Parkinson's therapy bemdaneprocel remains safe and effective in easing motor symptoms.

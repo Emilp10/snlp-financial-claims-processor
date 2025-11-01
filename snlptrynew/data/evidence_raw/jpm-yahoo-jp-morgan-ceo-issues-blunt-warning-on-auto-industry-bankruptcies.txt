@@ -1,5 +1,0 @@
-title: JP Morgan CEO issues blunt warning on auto industry bankruptcies
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=413e885138c45faf1d799933501a8a0cce8b328ce1f441055792b9d3e24b556d
-Jamie Dimon, CEO of JPMorgan, recently issued some harsh warnings about the state of corporate lending. His warnings were prompted by two recent auto-industry bankruptcies, including one involving a company in which JPMorgan had a significant investment. The bankruptcy caused JPMorgan to charge off ...

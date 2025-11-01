@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq futures rebound as Trump tempers tariff talk toward China
-source: Yahoo
-date: 2025-10-12
-url: https://finnhub.io/api/news?id=82af71fd3d012d6a193ab9b196c2c7453c41fe5cbe735b58814028babf6436e6
-US stock futures jumped Sunday night following Trump's retreat from combative comments on China last Friday.

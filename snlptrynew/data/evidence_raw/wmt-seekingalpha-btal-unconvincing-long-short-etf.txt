@@ -1,5 +1,0 @@
-title: BTAL: Unconvincing Long-Short ETF
-source: SeekingAlpha
-date: 2025-10-24
-url: https://finnhub.io/api/news?id=e9c8229720fc2528f411f8ef642b75e06ea92222f9541b86139f83b1f40c39e4
-The AGF U.S. Market Neutral Anti-Beta Fund (BTAL) is long in 200 low-beta stocks and short in 200 high-beta stocks. Read the full analysis here.

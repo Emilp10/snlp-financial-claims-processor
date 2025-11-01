@@ -1,5 +1,0 @@
-title: AWS outage resolved: Which companies were affected the most?
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=1ed22c8209a79898df7093f1305891366f132755c7f1de8de385a3898fb4b45b
-Everything from apps and website hosting to even your child's schoolwork portal were affected by Amazon's (AMZN) AWS outage on Monday. The company has since announced that the Amazon Web Services' cloud outage has been resolved. Yahoo Finance tech editor Dan Howley comes on the Morning Brief to highlight an assortment of companies and platforms most affected by the outage. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.

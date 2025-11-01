@@ -1,5 +1,0 @@
-title: This Cyber Stock Is the S&P 500’s Worst Performer Today. A Security Breach Is to Blame.
-source: MarketWatch
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=4d326b9191f23cb9030ef77bf534ff664cff54161832c3f46f791155d9c44dca
-This Cyber Stock Is the S&P 500’s Worst Performer Today. A Security Breach Is to Blame.

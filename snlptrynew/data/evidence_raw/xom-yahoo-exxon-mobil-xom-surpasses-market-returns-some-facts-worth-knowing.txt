@@ -1,5 +1,0 @@
-title: Exxon Mobil (XOM) Surpasses Market Returns: Some Facts Worth Knowing
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=731cecde393bd9cfbdce4bae0db5562525bc6213b565f0b7b4338b78b8c1647e
-Exxon Mobil (XOM) closed at $112.22 in the latest trading session, marking a +1.42% move from the prior day.

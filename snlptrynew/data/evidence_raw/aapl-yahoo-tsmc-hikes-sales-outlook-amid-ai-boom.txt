@@ -1,5 +1,0 @@
-title: TSMC Hikes Sales Outlook Amid AI Boom
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=4d30d1c4bfdab8605a00330997984b4f38b25832d5932d1894b703102f73c9cb
-Taiwan Semiconductor Manufacturing Co. hiked its projection for 2025 revenue growth to the mid-30% range. The company also raised the lower end of its capital spending target for the year after reporting a better-than-anticipated 39% jump in profit in the September quarter. TSMC is the go-to chipmaker for Apple Inc. and most of the world's biggest semiconductor designers. The results show Taiwan's largest company remains one of the bigger beneficiaries of a spending spree on AI infrastructure. Bloomberg Intelligence's Matthew Bloxham breaks down the numbers.

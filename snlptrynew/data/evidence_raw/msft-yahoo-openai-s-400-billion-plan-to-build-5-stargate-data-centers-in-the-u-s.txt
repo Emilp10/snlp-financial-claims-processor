@@ -1,5 +1,0 @@
-title: OpenAI's $400 Billion Plan To Build 5 'Stargate Data Centers' In The U.S. Takes Direct Aim At Microsoft And Meta In Battle For AI Supremacy
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=5248fbd8a4d5b6ed6946b485ef74d1bfdc2689345b6dfc5cca063b171086c446
-OpenAI is taking dead aim at Microsoft (NASDAQ: MSFT) and Meta (NASDAQ: META)in the battle for AI supremacy by investing $400 billion to build five giant data centers across the U.S., according to Fortune. The "Stargate" AI infrastructure project, ...

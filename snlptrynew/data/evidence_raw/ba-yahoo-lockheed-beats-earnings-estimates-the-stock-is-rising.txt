@@ -1,5 +1,0 @@
-title: Lockheed Beats Earnings Estimates. The Stock Is Rising.
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=a41dac7e46fd708677c468a598dbd341329502a550610be4af20791199549bc4
-Lockheed  Martin produced the clean quarter investors needed.  Wall Street was looking for earnings per share of $6.38 from sales of $18.6 billion, according to FactSet.  A year ago, in the third quarter of 2024, Lockheed reported EPS of $6.80 from sales of $17.1 billion.

@@ -1,5 +1,0 @@
-title: Energy Transition Update - US Renewable Energy Sector Poised for Substantial Growth
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=d00778452af496e39f5677ff5534f1981082949e31e22df59dcd29cbbe58504a
-The United States renewable energy sector is on a trajectory of substantial growth, expected to triple its capacity from 429.55 GW in 2024 to 1,002.13 GW by 2033. This expansion is driven by a combination of technological advancements, increasing investor interest, and supportive federal and state policies. Key factors include the implementation of Renewable Portfolio Standards, tax credits, and declining costs of solar photovoltaic (PV) and wind technologies. Despite challenges such as...

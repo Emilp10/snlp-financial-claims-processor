@@ -1,5 +1,0 @@
-title: Reflection AI Lands $2 Billion From Nvidia, Eric Schmidt To Build Open Alternative To ChatGPT And Gemini Models
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=9ad495255423994ea3045a6d4d5e70635a81aeaffa3825d1d2536461a6acd735
-Nvidia-backed (NASDAQ:NVDA) Reflection AI on Oct. 9 announced it secured $2 billion in funding to build frontier-scale open intelligence systems that rival closed labs like OpenAI, Google, Gemini, and Anthropic. The startup says it will use the ...

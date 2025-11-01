@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Mixed Late Afternoon
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=cdc52081c5edbe877b61f627f88f437b23304ea8c4f890ba669037f8f841346a
-Financial stocks were mixed in late Tuesday afternoon trading, with the NYSE Financial Index easing

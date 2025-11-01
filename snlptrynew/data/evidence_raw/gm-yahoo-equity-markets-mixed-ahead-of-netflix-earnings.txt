@@ -1,5 +1,0 @@
-title: Equity Markets Mixed Ahead of Netflix Earnings
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=239ceb1a16895673ce3569daee9071c69cc455c97a7fb5e5703aabbe920913c5
-US benchmark equity indexes were mixed intraday as investors parsed the latest set of corporate earn

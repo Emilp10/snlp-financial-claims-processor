@@ -1,5 +1,0 @@
-title: HistoSonics raises $250M to expand use of noninvasive cancer therapy
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=9d10f4d2ba7104a1f47458c9a6eb45c377b0742eaab48062383312a269585cad
-The company raised money from Bezos Expeditions, Thiel Bio and other investors to fund the commercial and clinical expansion of its technology.

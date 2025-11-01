@@ -1,5 +1,0 @@
-title: NVIDIA, MediaTek Co-Design GB10 Superchip for New DGX Spark Personal AI Supercomputer
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=5bd98d50f65d58d69e27dd38f204e3ae67e65036c8e5ea01191f8fd5da1b6418
-NVIDIA Corporation (NASDAQ:NVDA) is one of the best big tech stocks to invest in now. On October 15, MediaTek announced that it had teamed with NVIDIA on the co-design of the GB10 Grace Blackwell Superchip, which powers the newly-launched NVIDIA DGX Spark. The DGX Spark is a personal AI supercomputer designed for developers to prototype, […]

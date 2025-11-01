@@ -1,5 +1,0 @@
-title: U.S. Oil Growth Shifts from Shale to Gulf
-source: Yahoo
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=df8dd014ffa8b10f2c85d60879df6f6e7dd713d99fe5d7bd59e874440e3c19f3
-Output is projected to rise from 1.8 to 2.4 million barrels per day by 2027 amid strong federal support and new investment.

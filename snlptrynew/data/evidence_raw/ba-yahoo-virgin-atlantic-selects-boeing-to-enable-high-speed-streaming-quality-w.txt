@@ -1,5 +1,0 @@
-title: Virgin Atlantic selects Boeing to enable high-speed, streaming quality Wi-Fi across 787 fleet
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=93a7e5b1917fc35b72ed05fc64b2dea13fe492b34ecf216c300cce487cab1454
-Boeing [NYSE: BA] and Virgin Atlantic have agreed to implement connectivity modifications across Virgin Atlantic's fleet of Boeing 787 Dreamliners. The upgrades will enhance onboard internet service, bringing high-speed, streaming-quality Wi-Fi to passengers. The services agreement was announced at MRO Europe on Oct. 15.

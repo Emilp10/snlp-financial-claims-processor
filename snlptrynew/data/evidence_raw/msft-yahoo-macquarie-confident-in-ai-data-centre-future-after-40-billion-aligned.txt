@@ -1,5 +1,0 @@
-title: Macquarie confident in AI, data centre future after $40 billion Aligned sale
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=e40623b9ab6f77c5838e9d83f2a350ecb038905b787ea4071ddc1c40c7a159b9
-SYDNEY (Reuters) -The head of Australia's Macquarie Asset Management (MAM), which sold its Aligned Data Centers business in a deal worth $40 billion, said on Thursday the sale was not a sign the global data centre boom had peaked.  Aligned emerged as one of the world's largest data centre operators during the seven years it was owned by MAM, the funds management arm of investment bank Macquarie Group.  MAM head Ben Way said the decision to sell to investors including BlackRock, Microsoft and Nvidia, was not a warning sign for the sector or AI.

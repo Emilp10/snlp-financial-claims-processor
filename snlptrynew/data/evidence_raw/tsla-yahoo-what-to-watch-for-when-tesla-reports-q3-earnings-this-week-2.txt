@@ -1,5 +1,0 @@
-title: What to watch for when Tesla reports Q3 earnings this week
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=a3c20620108e8d2a5d820c96b48a582595d4b04ca10149afddf32a285eea735e
-Tesla reports earnings Wednesday after record deliveries, with analysts watching margins, cash flow, and whether growth is holding up under pressure

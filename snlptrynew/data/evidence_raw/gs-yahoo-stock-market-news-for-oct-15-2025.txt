@@ -1,5 +1,0 @@
-title: Stock Market News for Oct 15, 2025
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=3c95b543341ff75bbff040f7b38876c847b5f145c9a4f8c14d96f97da03bc6bb
-Wall Street closed mixed on Tuesday after a highly choppy session.

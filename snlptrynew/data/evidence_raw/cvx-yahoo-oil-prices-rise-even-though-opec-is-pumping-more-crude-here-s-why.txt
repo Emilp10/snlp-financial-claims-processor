@@ -1,5 +1,0 @@
-title: Oil Prices Rise Even Though OPEC+ Is Pumping More Crude. Here’s Why.
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=f9333d8d332710c76c38123d0ea67150f887008a9a03128a3fda7756830705f3
-Oil prices were rising Monday after the OPEC+ cartel said it would hike its crude output by less than some market participants had expected.  The  Brent  international benchmark jumped 0.9% to $65.11 a barrel, and  West Texas Intermediate  U.S. prices rose 0.8% to $61.34 a barrel.  The moves came after OPEC+ and its allies agreed to raise production by  137,000 barrels a day for November, the same as its output hike for October.

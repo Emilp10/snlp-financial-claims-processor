@@ -1,5 +1,0 @@
-title: Cargo Plane Accident Kills Two in Hong Kong
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=3cb91029b9037c35500c2daa9a211be7120d2bafd5e4ffec4df271851f8cc81d
-The accident involved a Boeing 747-400 cargo aircraft that had departed from Dubai’s Al Maktoum International Airport.

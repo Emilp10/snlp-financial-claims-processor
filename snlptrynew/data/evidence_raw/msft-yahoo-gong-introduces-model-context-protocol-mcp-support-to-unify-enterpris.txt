@@ -1,5 +1,0 @@
-title: Gong Introduces Model Context Protocol (MCP) Support to Unify Enterprise AI Agents from Hubspot, Microsoft, Salesforce, and Others
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=4fd1ab58fdad13bfdeb5e6dcf28165f7104e3c60d0ad4765b528034de654d91c
-Today at Gong Celebrate, Gong, the leading revenue AI platform, announced new ways for its ecosystem of partners to leverage Gong, including model context protocol (MCP) support. This strategic move formalizes a crucial level of interoperability for its ecosystem, enabling customers to deploy highly effective agentic AI systems that share data and context across leading enterprise platforms.

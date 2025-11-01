@@ -1,5 +1,0 @@
-title: AerCap to Provide GE Aerospace with Lease Pool Management Services for GE9X Engine
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=1b95c9ad606ae589833b872e9c78e0a3248d81c6f5d516faacce8ab290eac567
-AerCap Holdings N.V. ("AerCap" or the "Company") (NYSE: AER) today announced it has signed a seven-year agreement with GE Aerospace (NYSE: GE) to provide lease pool management services for the GE9X engine. The agreement also extends AerCap's ongoing lease pool support for GEnx, GE90, CF6 and CF34 engines.

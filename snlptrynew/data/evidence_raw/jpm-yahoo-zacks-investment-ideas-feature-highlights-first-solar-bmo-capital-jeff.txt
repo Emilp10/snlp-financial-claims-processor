@@ -1,5 +1,0 @@
-title: Zacks Investment Ideas feature highlights: First Solar, BMO Capital, Jefferies Financial and JPMorgan and Citigroup
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=7451bb824f523114852d242711a927b4f0b8f9188d6b6de6ca0704e488f558b0
-First Solar surges as policy support, analyst upgrades, and strong fundamentals drive renewed investor excitement ahead of Q3 results.

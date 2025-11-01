@@ -1,5 +1,0 @@
-title: Amazon Web Services Outage Disrupts Social Media, Airlines, Telecom Firms
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=1b2e99d86ba404f219d086224df9d5a4342d909cb424cc3c85ff22695d3199ae
-Amazon.com's (AMZN) cloud platform, Amazon Web Services, reported a major outage early Monday, disru

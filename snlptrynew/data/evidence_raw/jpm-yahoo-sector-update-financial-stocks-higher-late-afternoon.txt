@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Higher Late Afternoon
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=2c932afea3618f457bdd5e6a3c57e67c8356d166a8b414ad4b11e6e677511758
-Financial stocks rose in late Monday afternoon trading, with the NYSE Financial Index and the Financ

@@ -1,5 +1,0 @@
-title: AM Best Withdraws Credit Ratings of Jamestown Insurance Company Limited
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=340ad5383917279843e207b98026fe26fbbb61a30fde976e5192c6bd4c7f4163
-OLDWICK, N.J., October 13, 2025--AM Best has affirmed the Financial Strength Rating of A- (Excellent) and the Long-Term Issuer Credit Rating of "a-" (Excellent) of Jamestown Insurance Company Limited (Jamestown) (Bermuda). The outlook of these Credit Ratings (ratings) is stable. Concurrently, AM Best has withdrawn these ratings as the company has requested to no longer participate in AM Best’s interactive rating process.

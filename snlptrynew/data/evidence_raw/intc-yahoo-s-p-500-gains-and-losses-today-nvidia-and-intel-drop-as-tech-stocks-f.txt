@@ -1,5 +1,0 @@
-title: S&P 500 Gains and Losses Today: Nvidia and Intel Drop as Tech Stocks Falter; Wells Fargo Pops
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=613a9977d945900d2a1565e5113eda72c53659512fc8c58f02b3bc48fa4007d3
-Trade tensions and signs of stiffening competition weighed on a number of companies in the AI space, while strong quarterly profits helped lift shares of a large bank.

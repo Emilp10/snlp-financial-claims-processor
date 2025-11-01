@@ -1,5 +1,0 @@
-title: Amazon says cloud services recovering from widespread outage
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=b5e4c5e994a735ab6985247d986fb4c84ef844bc9003499d291f3185d32faf48
-Amazon’s cloud business suffered significant “errors and connectivity issues” on Monday, causing a widespread outage that forced customers’ apps...

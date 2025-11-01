@@ -1,5 +1,0 @@
-title: ELD Asset Management: Apple in Talks to Buy Prompt AI
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=133b03896c390a2a72add4b48d518616b71c118b56dfab3fd2f4c83c7fbaa74d
-ELD Asset Management has released an assessment of Apple Inc.'s ongoing negotiations to acquire Prompt AI, identifying the potential deal as a focused transaction aimed at enhancing on-device intelligence and strengthening developer-facing tools.

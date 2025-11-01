@@ -1,5 +1,0 @@
-title: Intel unveils new processor powered by its 18A semiconductor tech
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=db0c242fceb36cba9b6360061794254a3c7a15b42d7c2e3de9d5ebf34f2e6ca4
-Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing.

@@ -1,5 +1,0 @@
-title: This Analyst Just Issued a Major Intel Stock Warning: The INTC Rally Is ‘Unsustainable’ So You Should Sell Now
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=016e836f072039d9db3a085e9121cce9e93ee8780cea45a951edf5629a4f54de
-Intel stock has almost doubled in 2025 due to its big-ticket partnerships with Nvidia, Softbank, and others.

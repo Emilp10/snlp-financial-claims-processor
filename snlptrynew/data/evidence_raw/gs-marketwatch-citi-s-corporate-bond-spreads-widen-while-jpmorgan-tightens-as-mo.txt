@@ -1,5 +1,0 @@
-title: Citi's corporate bond spreads widen while JPMorgan tightens as money flows into money-center debt
-source: MarketWatch
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=a9a2a0fabfd0ed6e3d7fb388674202b30fd6d7e2e7ebe104f7c10262428a3993
-Citi's corporate bond spreads widen while JPMorgan tightens as money flows into money-center debt

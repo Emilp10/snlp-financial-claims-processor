@@ -1,5 +1,0 @@
-title: Salesforce and Google Expand Strategic Partnership with Deeper Integrations Across Agentforce 360 and Gemini Enterprise
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=24396cf55dbd3faadea23fa188adbfbd2810f2f8d2faa8683def6cf55a0ff8a7
-SAN FRANCISCO, October 16, 2025--Salesforce (NYSE: CRM) and Google today announced an expansion of their strategic partnership, introducing a new wave of AI innovations designed to transform the enterprise. This collaboration brings Google's cutting-edge Gemini models to the new Agentforce 360 Platform.

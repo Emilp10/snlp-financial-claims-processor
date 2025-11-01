@@ -1,5 +1,0 @@
-title: Microsoft extends AI advancements in Dragon Copilot to nurses and partners to enhance patient care
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=69f54ef7693a72815747f6ecc98884fdc9615169ecab607ff5ec9f7445cd96b2
-Microsoft Corp. on Thursday unveiled AI innovations, leveraging ambient and generative technologies, to improve the patient journey, reduce the workflow burden across care teams and enhance the financial integrity of healthcare provider organizations. Microsoft is expanding the capabilities of its leading AI clinical assistant, Dragon Copilot, by introducing the first commercially available ambient experience created for nursing workflows and new extensibility capabilities that allow partners to

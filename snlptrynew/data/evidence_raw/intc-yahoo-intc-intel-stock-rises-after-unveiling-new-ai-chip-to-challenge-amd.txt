@@ -1,5 +1,0 @@
-title: INTC: Intel Stock Rises After Unveiling New AI Chip To Challenge AMD
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=02f772b299e35bfb1971301b089dc733a0eaed8ded6cd9803cf77d2bedda7c72
-Intel Ramps Up AI Chip Race With Launch Of 'Crescent Island' GPU

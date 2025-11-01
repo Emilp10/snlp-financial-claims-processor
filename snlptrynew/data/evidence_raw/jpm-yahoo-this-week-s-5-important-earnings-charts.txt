@@ -1,5 +1,0 @@
-title: This Week's 5 Important Earnings Charts
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=208438d7cb51fe263d0578b82b13d79c49aa850dfd9647a6c7b1576a5b408cc0
-In addition to the banks, watch the rails, semiconductors, energy and asset management.

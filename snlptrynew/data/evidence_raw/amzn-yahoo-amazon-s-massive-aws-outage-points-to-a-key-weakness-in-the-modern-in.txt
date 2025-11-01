@@ -1,5 +1,0 @@
-title: Amazon's massive AWS outage points to a key weakness in the modern internet
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=d0998711347b3d298ee88082211e8302505d6c64bb804f0d998aa9078ddb123c
-Amazon's AWS is back and so are websites around the world. But the outage points to a key weakness in the modern internet.

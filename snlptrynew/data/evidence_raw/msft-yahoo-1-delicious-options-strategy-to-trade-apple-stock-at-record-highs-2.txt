@@ -1,5 +1,0 @@
-title: 1 Delicious Options Strategy to Trade Apple Stock at Record Highs
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=2ddc1cc861ec11ad6fb2d773458d2a24dce268d7e726b424f16ddf4b337a941f
-This option collar lets us keep riding the Apple high without risking a major downside move.

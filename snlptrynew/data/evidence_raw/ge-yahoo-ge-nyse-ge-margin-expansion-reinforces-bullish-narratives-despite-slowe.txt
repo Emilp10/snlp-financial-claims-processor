@@ -1,5 +1,0 @@
-title: GE (NYSE:GE) Margin Expansion Reinforces Bullish Narratives Despite Slower Growth Forecast
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=ec82cee826c8052102e1a1ac2b3cb5fd7d7b6944cb3ab18c70c16d6de54b76ec
-General Electric (GE) reported earnings that highlight continued momentum, with net profit margins rising to 18.3% from 15.8% last year and annual earnings growth accelerating to 36.1%, outpacing its five-year average growth of 32.5%. Both earnings and revenue are forecast to expand at annual rates of 6.7% and 6.6% respectively, which is slower than the broader US market, while shares recently traded at $306.63. Robust profit growth and margin gains paint a picture of high-quality...

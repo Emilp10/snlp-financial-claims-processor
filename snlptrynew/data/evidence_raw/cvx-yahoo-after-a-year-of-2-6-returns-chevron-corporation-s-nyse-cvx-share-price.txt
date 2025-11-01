@@ -1,5 +1,0 @@
-title: After a year of 2.6% returns, Chevron Corporation's (NYSE:CVX) share price drop last week may have less of an impact on institutional investors
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=be81910e0e93f306ec78d67ca6a2a155c8a647acfde7363933d0854c1e2c3df5
-Key Insights Significantly high institutional ownership implies Chevron's stock price is sensitive to their trading...

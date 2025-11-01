@@ -1,5 +1,0 @@
-title: America's Growth Leaders of 2025
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=05494348aac44eca9af4d0a07b7ea28eea16775c7f4217c5228b59a24d3e20cd
-TIME and Statista have named the top performing publicly listed U.S. companies of 2025

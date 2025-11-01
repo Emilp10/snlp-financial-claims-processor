@@ -1,5 +1,0 @@
-title: Why the Market Dipped But GE Aerospace (GE) Gained Today
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=375d207cd3e5bde234a43247145ece7ec6fe0552127752228b0472c4d26c513b
-GE Aerospace (GE) closed the most recent trading day at $301.74, moving +1.18% from the previous trading session.

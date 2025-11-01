@@ -1,5 +1,0 @@
-title: Zadara Partners with Micro Support Group (MSG) to Deliver Multi-Tenant AI Clouds Powered by NVIDIA GPUs, Sovereign Clouds, and a Superior Alternative to VMware
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=30cbfab0594904d50cc4a610fd5253aae53c307a66d9635c175604219f4becad
-Zadara and MSG help enterprises modernize IT with resilient and secure AI-ready cloud solutions.Irvine, CA and Beverly, MA, Oct. 21, 2025 (GLOBE NEWSWIRE) -- Zadara, the sovereign AI cloud leader and Micro Support Group (MSG), a leading technology provider based in the Northeast U.S. with over 40 years of experience delivering secure and effective IT strategies, today announced a strategic partnership. Through this collaboration, MSG will now offer Zadara-powered multi-tenant AI clouds, sovereig

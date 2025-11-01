@@ -1,5 +1,0 @@
-title: Salesforce, Google enhance Agentforce 360 with Gemini AI
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=934d007d527e4cefc8072711253ea4be4e57db8bab6589326273417af1fc600d
-Gemini's multimodal intelligence is said to be integrated into the Salesforce ecosystem to enhance hybrid reasoning.

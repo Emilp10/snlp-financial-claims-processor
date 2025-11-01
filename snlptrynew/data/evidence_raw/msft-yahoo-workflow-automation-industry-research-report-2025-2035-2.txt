@@ -1,5 +1,0 @@
-title: Workflow Automation Industry Research Report 2025-2035
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=b02a8b028defca3410f3fdf391065cfc00e849df90cbe7cedcb93c3e4856127f
-The workflow automation market is forecasted to soar to $78.26 billion by 2035, growing at a CAGR of 21% from 2025 to 2035. Key growth drivers include rising demand for real-time automation solutions, increasing business process automation, and digital transformation. The report segments the market by offering, type, deployment mode, organization size, application, sector, and geography, highlighting Asia-Pacific's rapid growth. Key players include IBM, SAP, and Microsoft. Demand for software so

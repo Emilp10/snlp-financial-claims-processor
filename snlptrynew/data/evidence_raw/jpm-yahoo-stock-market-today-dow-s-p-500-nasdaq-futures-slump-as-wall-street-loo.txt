@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Wall Street looks to big bank earnings
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=7e1a6c2eaa3cd4120e52cebf6994d9f012d0166a7f80af2ac679aed5f88fa3cd
-US stock futures were mostly flat as investors took stock after a strong rebound session from Friday's tariff-fueled free fall.

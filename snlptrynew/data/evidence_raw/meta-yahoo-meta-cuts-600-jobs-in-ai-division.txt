@@ -1,5 +1,0 @@
-title: Meta Cuts 600 Jobs in AI Division
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=d7b8bdb5fb039b50689ae0895404743ac7b5ab2104192588882327306636be10
-Meta Platforms  is cutting about 600 jobs in its AI division, according to an internal memo that was viewed by The Wall Street Journal and a person familiar with the matter.  The job cuts will affect the company’s teams focused on artificial-intelligence products, infrastructure and long-term AI research, but won’t touch TBD Lab, the new team that houses most of Meta Chief Executive  Mark Zuckerberg’s  multimillion-dollar hires, the memo said.

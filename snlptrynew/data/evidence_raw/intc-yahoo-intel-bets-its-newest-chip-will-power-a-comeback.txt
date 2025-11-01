@@ -1,5 +1,0 @@
-title: Intel Bets Its Newest Chip Will Power a Comeback
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=a878b1f13b3ce42702760b5cb2856d377aba22f01219bcea32edbcafb44deb66
-Intel has invested more than $20 billion in the new factory, which will churn out its chips in the US for the first time in nearly a decade.

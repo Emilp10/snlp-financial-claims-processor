@@ -1,5 +1,0 @@
-title: AI Crypto Trading Showdown: DeepSeek and Grok Are Cashing In as Gemini Implodes
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=9b1a20c79a6220ddfb3fa6957e20a0cf38c0ed48d5cde9543ba3dda12df86f37
-Grok, DeepSeek, and Claude are posting serious gains in Alpha Arena’s live, real-money AI trading test, rattling Wall Street in the process.

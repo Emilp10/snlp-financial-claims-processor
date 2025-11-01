@@ -1,5 +1,0 @@
-title: Equities Mixed Intraday Amid Renewed US-China Tensions
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=c12ceab8e20f0b5eabb999ac09cbee43b58fc96184e6a71dcbee1bb7231bf136
-US equity indexes were mixed intraday as Wall Street continued to monitor an apparent impasse in tra

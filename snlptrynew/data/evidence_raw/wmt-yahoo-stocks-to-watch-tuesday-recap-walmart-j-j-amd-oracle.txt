@@ -1,5 +1,0 @@
-title: Stocks to Watch Tuesday Recap: Walmart, J&J, AMD, Oracle
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=bedb8937486060e213437bb4cbd1356dbe4d1a898d3c56d2a1f2f3bb363d559b
-↗️ Walmart (WMT): Shares of the retailer advanced 5% after it said it is forming a partnership with OpenAI to let shoppers buy its products directly within ChatGPT. ? Johnson & Johnson (JNJ): The healthcare giant said it planned to split off its orthopedics unit within two years and raised its annual sales outlook.

@@ -1,5 +1,0 @@
-title: Stocks Turn Higher. Here's What's Leading the Way.
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=fd389677429397ad25b3a1d94c8487b70cbfbe25830e4187e4dc726a1ee0aa72
-The stock market is starting to perk up. The S&P 500 was up 0.2% after opening lower. The Nasdaq Composite was up 0.2%. The Dow rose 150 points, or 0.3%. Roughly 320 stocks in the S&P 500 were rising, but its worst performers were among some of the year's big winners: Oracle was down 6.

@@ -1,5 +1,0 @@
-title: Top Midday Gainers
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=aa1e52ffcab16a23793a3b168d287d20b88eb4e4fcdcd12e2f7ac8a1f9402ae9
-Beyond Meat (BYND) said Tuesday it will increase the availability of some of its plant-protein produ

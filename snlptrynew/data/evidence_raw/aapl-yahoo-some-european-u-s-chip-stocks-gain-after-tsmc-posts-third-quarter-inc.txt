@@ -1,5 +1,0 @@
-title: Some European, U.S. chip stocks gain after TSMC posts third-quarter income spike
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=881d1cb394e5af4028b1283e1d206bc8d51a5c8f12d391d90cc91da994c335e1
-Investing.com - Some European and U.S. chip equipment stocks ticked up on Thursday after Taiwan Semiconductor Manufacturing Co. clocked a record third-quarter profit, powered by soaring demand for artificial intelligence infrastructure.

@@ -1,5 +1,0 @@
-title: EU watchdog attacks Britain over iPhone ‘backdoor’ demand
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=f88322df9dcb4364bebea80a721e45df3d325d4f4d358d27e92e00e778c573d9
-A European tech watchdog has attacked the Government for demanding “backdoor” access to consumers’ iPhone data, piling pressure on Home Secretary Shabana Mahmood in a fight with Apple.

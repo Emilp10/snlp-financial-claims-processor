@@ -1,5 +1,0 @@
-title: Jamie Dimon drops surprising take on AI stocks
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=a16e86b74613431edfbe073b642b682731834dfba5a621eba15495fee3784d53
-AI has transformed business, but in doing so, it has also rewritten the stock market’s leaderboard. Since 2023, AI-driven megacaps have effectively become trillion-dollar machines, minting record-level gains while dominating the indexes. For a little color, Nvidia’s market cap alone has ...

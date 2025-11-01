@@ -1,5 +1,0 @@
-title: Are you concerned about an AI bubble in stock markets? How readers voted
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=ae995ab7ffce16aed18f2d0ecbd77f241330efaaf375d6f5eda23aeaac8fb0a4
-Fears are growing that huge investment in AI could lead to a bubble on the scale of the dot-com crash.

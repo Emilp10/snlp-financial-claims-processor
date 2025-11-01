@@ -1,5 +1,0 @@
-title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=e0e2af8486976c0129afddf6bae80500263450dedc18f3b6f31ddb876f4b268d
-Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.

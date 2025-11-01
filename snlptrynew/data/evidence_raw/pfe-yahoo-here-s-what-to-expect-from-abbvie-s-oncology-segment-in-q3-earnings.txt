@@ -1,5 +1,0 @@
-title: Here's What to Expect From AbbVie's Oncology Segment in Q3 Earnings
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=1e9dbaf41953c277f26e4ff578a8861bfff09a0cdfb19eb428566cf3bedcc0c4
-ABBV's oncology lineup, spanning blood and solid tumor drugs, faces modest Q3 growth as new launches offset Imbruvica's decline.

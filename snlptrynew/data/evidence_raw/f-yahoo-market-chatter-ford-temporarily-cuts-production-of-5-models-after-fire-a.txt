@@ -1,5 +1,0 @@
-title: Market Chatter: Ford Temporarily Cuts Production of 5 Models After Fire at Supplier's Plant
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=3dd3993552efbbcd7f93626af417ffc9aac2283c20238e78be314d35ac4df749
-Ford (F) is temporarily cutting production of at least five models following last month's fire at th

@@ -1,5 +1,0 @@
-title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=5333d6004223c7b420cf7a3e85d41af1bba711cb183054905582eb1e9f30c8c5
-Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.

@@ -1,5 +1,0 @@
-title: Morgan Stanley (MS) Surpasses Q3 Earnings and Revenue Estimates
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=62bbb719d18d85165344fdcc5d1ef61bb05706558259fad4d98340f6108de680
-Morgan Stanley (MS) delivered earnings and revenue surprises of +34.62% and +10.80%, respectively, for the quarter ended September 2025. Do the numbers hold clues to what lies ahead for the stock?

@@ -1,5 +1,0 @@
-title: Wide Moat Stocks Defy September Slump
-source: SeekingAlpha
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=f03805ab19f94a4c248f8e3383322745dda801a5328fe4c9464f0cde28ec96aa
-Moat Index gains in September, thanks to tech names offsetting weakness in defensive sectors like consumer staples. Read more here.

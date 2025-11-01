@@ -1,5 +1,0 @@
-title: JP Morgan, Houlihan Lokey lead TMT M&A adviser rankings Q1-Q3 2025
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=21bbd51642997dc7b3140d462040fedf802dc2214b2706137cd23ca52a62b813
-JP Morgan advised on transactions with a total value of $158.4bn.

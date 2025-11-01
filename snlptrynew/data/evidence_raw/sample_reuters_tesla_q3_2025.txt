@@ -1,6 +1,0 @@
-title: Tesla eyes profitability rebound in Q3 2025
-source: Reuters
-url: https://www.reuters.com/example
-published_at: 2025-09-30
-
-Tesla reported a 20 percent rise in third-quarter revenue for 2025, driven by steady deliveries of the refreshed Model Y and new energy storage contracts in Europe. Gross margins improved to 19 percent as battery material costs eased. Executives guided for modest growth into Q4 while highlighting risks from currency fluctuations and supply chain constraints related to advanced driver-assistance chips.

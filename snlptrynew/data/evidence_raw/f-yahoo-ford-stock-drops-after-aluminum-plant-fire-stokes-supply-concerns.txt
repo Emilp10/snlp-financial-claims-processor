@@ -1,5 +1,0 @@
-title: Ford Stock Drops After Aluminum-Plant Fire Stokes Supply Concerns
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=806080d384913dcf46418e536ac8da2e7eb6ce2c1b6949511878b8f278b03ae4
-Ford shares dropped about 6% in midday trading on news of a potential disruption in its aluminum supply. The Wall Street Journal reported late Monday that a September fire at a New York aluminum plant will disrupt business at the automaker for months.

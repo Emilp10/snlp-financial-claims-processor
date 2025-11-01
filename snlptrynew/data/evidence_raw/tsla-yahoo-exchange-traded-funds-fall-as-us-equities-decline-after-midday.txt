@@ -1,5 +1,0 @@
-title: Exchange-Traded Funds Fall as US Equities Decline After Midday
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=b75c467c131ad32acb5a849a59f3e0b6e4dd0a3265611e17bc728b450b812452
-Broad Market Indicators Broad-market exchange-traded funds IWM and IVV pointed lower. Actively tr

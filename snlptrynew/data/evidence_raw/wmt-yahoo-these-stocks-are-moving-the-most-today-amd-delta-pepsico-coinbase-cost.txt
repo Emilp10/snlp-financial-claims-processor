@@ -1,5 +1,0 @@
-title: These Stocks Are Moving the Most Today: AMD, Delta, PepsiCo, Coinbase, Costco, AZZ, and More
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=781b3dff8d3691b5034b31651565fc5800fa74ca9be74847c16ac62ed8f17abe
-Stock futures traded flat Thursday as moves toward peace in the Middle East removed a key geopolitical worry for markets, and investors awaited the kickoff of earnings season with reports from PepsiCo and Delta Air Lines.  Advanced Micro Devices  rose 0.9% in premarket trading after the chip maker finished up 11% Wednesday at $235.56, a record high.  Dell Technologies  fell 0.6%.

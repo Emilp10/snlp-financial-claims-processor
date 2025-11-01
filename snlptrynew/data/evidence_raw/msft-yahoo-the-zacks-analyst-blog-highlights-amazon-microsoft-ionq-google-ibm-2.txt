@@ -1,5 +1,0 @@
-title: The Zacks Analyst Blog Highlights Amazon, Microsoft, IonQ, Google, IBM
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=ae5d3e45cfe5cb479ef2f9b45dec2ef474810e2b915674918d83338d1bbe5d60
-Zacks highlights Amazon, Microsoft, IonQ, Google, and IBM as key beneficiaries of rising quantum computing investments fueled by renewed U.S. government support and global funding momentum.

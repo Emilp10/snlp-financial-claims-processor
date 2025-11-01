@@ -1,5 +1,0 @@
-title: Nvidia May Backstop OpenAI Debt, WSJ Reports. What It Means for the Stock.
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=46eeec0da025381796a7fd154fc406ea0359c3eee1add47beaf70cbb04bc9d94
-The chip maker’s shares were edging down as more details about its business arrangements with the ChatGPT-developer emerged.

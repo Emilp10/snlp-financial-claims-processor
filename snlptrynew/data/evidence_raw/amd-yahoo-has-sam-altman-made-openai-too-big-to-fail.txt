@@ -1,5 +1,0 @@
-title: Has Sam Altman Made OpenAI Too Big to Fail?
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=984ffc94cb9100d0f2e7d4ffa0736e62ce0d993672529cad1120570e4e7b0a38
-$650 billion That's how much OpenAI, under Chief Executive Sam Altman, has signed up to pay Nvidia and Oracle in the years ahead. Its prospective outlay could be closer to $1 trillion if deals with AMD, Broadcom, and other cloud providers like Microsoft are included.

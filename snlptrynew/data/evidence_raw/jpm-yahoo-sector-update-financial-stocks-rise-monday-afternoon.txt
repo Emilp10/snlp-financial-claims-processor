@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Rise Monday Afternoon
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=ab52e617192ab46fd6721ffe3cf03012eb72707e4f1666ee9776033e23b548b6
-Financial stocks were higher in Monday afternoon trading, with the NYSE Financial Index rising 1.1%

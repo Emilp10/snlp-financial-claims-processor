@@ -1,5 +1,0 @@
-title: Stocks rise on China-US hopes, Japan's new PM lifts Tokyo
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=74a01abfbf82b391192486430093b8c636863af9dae407be7deead05124e2aa6
-Most stock markets extended gains Tuesday on further signs that China-US trade tensions were easing and as investors looked to corporate earnings."The focus is now on US interest rate cuts, the new corporate reporting season, and US-China trade talks."

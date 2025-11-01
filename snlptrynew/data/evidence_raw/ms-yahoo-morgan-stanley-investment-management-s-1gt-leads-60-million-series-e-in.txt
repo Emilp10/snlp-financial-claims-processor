@@ -1,5 +1,0 @@
-title: Morgan Stanley Investment Management’s 1GT Leads $60 Million Series E in Corvus Energy
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=8d82666e6ef2bdd7d93b399bd4b20ac3e2c3c012abf408f6bf9f17e3164e4643
-NEW YORK, October 09, 2025--Morgan Stanley Investment Management (MSIM) announced today that the 1GT private climate equity strategy (1GT) led a growth capital fundraise for Corvus Energy (Company), a leading provider of low-carbon Energy Storage Systems (ESS) solutions suitable for a wide range of fully electric and hybrid-powered vessels. 1GT led an investor consortium that includes Just Climate and J. Lauritzen.

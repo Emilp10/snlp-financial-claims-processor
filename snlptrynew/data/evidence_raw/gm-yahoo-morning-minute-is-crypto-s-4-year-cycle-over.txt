@@ -1,5 +1,0 @@
-title: Morning Minute: Is Crypto's 4-Year Cycle Over?
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=ff228f582922ecf494bf3ec5c595275b0ddc84bf926f368d5435dd3f61556243
-Arthur Hayes argues that prior peaks and busts coincided with tightening or easing of fiat liquidity, not the Bitcoin halving date itself.

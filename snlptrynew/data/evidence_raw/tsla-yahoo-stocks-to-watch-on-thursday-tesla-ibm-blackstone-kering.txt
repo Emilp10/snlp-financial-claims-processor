@@ -1,5 +1,0 @@
-title: Stocks to Watch on Thursday: Tesla, IBM, Blackstone, Kering
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=6d372ea058ed4516b8bf423f48e932772cb59827bfe36c5c5bf6d5259383427d
-↘️ Tesla (TSLA): Shares fell 1.5%. Late Wednesday, The electric-vehicle maker reported a 37% drop in quarterly profit, which it attributed to R&D spending and lower tax-credit revenue. ↘️ IBM (IBM): The computing company swung to a quarterly profit and reported higher earnings, saying clients have shifted from experimenting with AI to using it at scale.

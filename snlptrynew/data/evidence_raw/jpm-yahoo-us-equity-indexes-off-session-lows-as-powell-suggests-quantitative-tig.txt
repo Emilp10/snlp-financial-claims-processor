@@ -1,5 +1,0 @@
-title: US Equity Indexes Off Session Lows as Powell Suggests Quantitative Tightening May End Soon
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=33591f20b182f671b5cb9390086e7411b2e960fccd324ff6f28a9bf011aa0d5d
-US equity indexes traded mixed after midday Tuesday, with the S&P 500 and Dow Jones Industrial Avera

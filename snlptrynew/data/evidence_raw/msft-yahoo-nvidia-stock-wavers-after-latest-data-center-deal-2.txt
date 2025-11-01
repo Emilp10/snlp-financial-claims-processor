@@ -1,5 +1,0 @@
-title: Nvidia Stock Wavers After Latest Data Center Deal
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=facfe173dbf80892436b94320c2820b69bdff2cb51a3dabae1992637431f1606
-Nvidia stock wavered Wednesday after the AI chip leader garnered additional business from British data center operator Nscale.

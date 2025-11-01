@@ -1,5 +1,0 @@
-title: Zacks Value Trader Highlights: Pfizer, Merck, AbbVie, Eli Lilly and Novo Nordisk
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=f3d1e325c8979e5c256a781877a0e5161cf834c3f44fa173ef7dd8a98274314c
-Zacks Value Trader weighs whether big pharma names like Pfizer, Merck, AbbVie, Eli Lilly and Novo Nordisk are genuine bargains or value traps.

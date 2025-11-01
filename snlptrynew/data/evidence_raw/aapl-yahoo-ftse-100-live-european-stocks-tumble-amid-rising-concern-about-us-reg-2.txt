@@ -1,5 +1,0 @@
-title: FTSE 100 LIVE: European stocks tumble amid rising concern about US regional banks
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=90db271088c61a7c6321f9b9dccbdb81db3a830658cc2129ce3028e1f8ff407c
-The event has drawn comparisons to the regional bank stress that followed the collapse of SVB in March 2023.

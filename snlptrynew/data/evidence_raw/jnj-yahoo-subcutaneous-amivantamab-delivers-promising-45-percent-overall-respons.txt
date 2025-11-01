@@ -1,5 +1,0 @@
-title: Subcutaneous amivantamab delivers promising 45 percent overall response rate with median duration of 7.2 months in recurrent or metastatic head and neck cancer
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=bdd3a77e2af55c725a47e896eb37b7641c2cf2ad3c0a784404cda25ee7a2b145
-Johnson & Johnson (NYSE:JNJ) today announced promising new results from the Phase 1b/2 OrigAMI-4 study evaluating the efficacy and safety of subcutaneous (SC) amivantamab monotherapy in patients with human papillomavirus (HPV)-unrelated, recurrent or metastatic head and neck squamous cell carcinoma (R/M HNSCC) after disease progression on a checkpoint inhibitor and platinum-based chemotherapy. The study used the new subcutaneous formulation of amivantamab, which can be delivered in a five-minute

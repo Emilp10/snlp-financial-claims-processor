@@ -1,5 +1,0 @@
-title: Update: Wedbush Raises Intel's Price Target to $20 From $19, Neutral Rating Maintained
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=92584d77552d4d30f08bbeff3684de25ae2bdd0130c6971e7a9a676554b75869
-(Updated to include Wedbush commentary) Wedbush raised its price target on Intel (INTC) to $20 fr

@@ -1,5 +1,0 @@
-title: Aptos stakes its claim as the institutional blockchain powerhouse
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=0f733b57b87a615d30ab8f39358be4c2a846b817c744f8a5a2ebe3ca198dc610
-Aptos is quietly doing what most blockchains only promise. Built from the ashes of Meta’s abandoned crypto ambitions, the company has turned that legacy code into one of the fastest and most enterprise ready Layer 1 blockchains in the world. While much of the industry fights over retail ...

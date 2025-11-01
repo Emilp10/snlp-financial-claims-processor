@@ -1,5 +1,0 @@
-title: Here's What to Expect From Pfizer's Oncology Drugs in Q3 Earnings
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=4222835e405c672e97b2d5ef9e8bc676ddc39cdc39fdafa5fb4cb7dc23c73cd8
-Pfizer's oncology strength, powered by Seagen's ADCs and key drugs like Xtandi and Lorbrena, is likely to be in focus ahead of Q3 earnings.

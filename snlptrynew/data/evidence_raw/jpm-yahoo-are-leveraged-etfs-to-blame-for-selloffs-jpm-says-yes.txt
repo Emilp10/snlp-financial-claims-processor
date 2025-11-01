@@ -1,5 +1,0 @@
-title: Are Leveraged ETFs to Blame for Selloffs? JPM Says Yes
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=241f12221c26e6cf84f974fcdefe5f6e1ae88875c0abc6ab34e7ae55be53bdf9
-Analysts from JPMorgan on Monday wrote that levered ETFs might worsen macro swings by increasing intraday volatility.

@@ -1,5 +1,0 @@
-title: S&P Drug Titan J&J Announces Its Surprise Spinoff Plans
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=8c47e396596253c0e2fe7ebea4b174767bf4ec434bc055fa432267314bc2b409
-Johnson & Johnson said Tuesday it will spin off its orthopedics business into a new company called DePuy Synthes.

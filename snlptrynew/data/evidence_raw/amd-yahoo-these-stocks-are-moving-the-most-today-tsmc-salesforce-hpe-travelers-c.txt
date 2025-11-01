@@ -1,5 +1,0 @@
-title: These Stocks Are Moving the Most Today: TSMC, Salesforce, HPE, Travelers, Charles Schwab, J.B. Hunt, NIO, and More
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=70acb66b048e400f4d1d49dc60b04edf542cba1e2cae06099010ef2a3405f9fa
-Taiwan Semiconductor Manufacturing rises after third-quarter profit beats analysts’ estimates, while HP Enterprise falls sharply after weaker-than-expected guidance.

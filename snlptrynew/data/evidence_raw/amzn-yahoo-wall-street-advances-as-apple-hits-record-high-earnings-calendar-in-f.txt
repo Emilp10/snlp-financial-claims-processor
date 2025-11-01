@@ -1,5 +1,0 @@
-title: Wall Street Advances as Apple Hits Record High; Earnings Calendar in Focus
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=f7cce7a1228eaa50f078998b00f6a8da6fec1958ddb020600086f268b9082e5d
-US equity markets rose Monday, driven by Apple's (AAPL) shares surging to a record high, as Wall Str

@@ -1,5 +1,0 @@
-title: Walmart Stock Hit Record Highs on OpenAI Deal. What Message Does That Send About the Business of AI?
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=ea0b04a54059f4ba492626c0f5e8fb8924e0212557c940c5242f23f51528406c
-Walmart shares soared this week after the retail giant announced a partnership with OpenAI that will allow ChatGPT users to buy Walmart merchandise directly through the chatbot. Here's what that says about the business of AI.

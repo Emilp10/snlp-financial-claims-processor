@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Narrowly Mixed Wednesday Afternoon
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=0bc1d9970b20be0c7a6e79c18defe6a79c2d3cf4928f26b25f37a96446a8db21
-Financial stocks were narrowly mixed in Wednesday afternoon trading, with the NYSE Financial Index i

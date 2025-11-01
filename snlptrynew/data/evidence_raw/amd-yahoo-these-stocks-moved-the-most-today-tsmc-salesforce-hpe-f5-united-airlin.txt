@@ -1,5 +1,0 @@
-title: These Stocks Moved the Most Today: TSMC, Salesforce, HPE, F5, United Airlines, Travelers, J.B. Hunt, Praxis Precision, and More
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=4d5607e5e4abbcf9af6eae5c2a396aad0f916ac4da6f2bcfee0f0de416b55cbf
-Taiwan Semiconductor Manufacturing declines even as third-quarter profit beats analysts’ estimates, while HP Enterprise falls sharply after weaker-than-expected guidance.

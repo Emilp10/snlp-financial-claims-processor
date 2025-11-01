@@ -1,5 +1,0 @@
-title: Equities Rise Intraday; Oil Jumps as US Sanctions Russian Firms
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=59a726da777071b71110ad2619d34591555007dcf163c06d4d35b6d84da71a92
-US benchmark equity indexes were higher intraday as Wall Street evaluated the latest corporate earni

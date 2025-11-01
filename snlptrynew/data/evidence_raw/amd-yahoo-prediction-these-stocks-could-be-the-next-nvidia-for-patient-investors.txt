@@ -1,5 +1,0 @@
-title: Prediction: These Stocks Could Be the Next Nvidia for Patient Investors
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=93b33069eec13a5bc8687f280a3cd34a1e657451724adcff3acbecd405314d7e
-Long-term investors can benefit from picking stakes in core artificial intelligence (AI) infrastructure players besides Nvidia.

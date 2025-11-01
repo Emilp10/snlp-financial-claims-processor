@@ -1,5 +1,0 @@
-title: Merck launches three new trials on tulisokibart
-source: Finnhub
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=7bba01aa62a4556bd74d00b4ec4edbbf0d53c4dfe2054340a1084923dee94dda
-Merck announces the launch of three Phase 2b trials evaluating the safety and efficacy of tulisokibart , an investigational humanized monoclonal antibody targeting tumor necrosis factor -like...

@@ -1,5 +1,0 @@
-title: The Stock Goes Green After Hefty Loss
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=057189a4e679200328c0f2db2994e4750671c03d64a18e50493c72f137e1a560
-Tesla stock has clawed back all of its post-earnings losses. Shares traded below $414 early Thursday, before rising to sit at $440.44 in midday trading, for a gain of 0.3%. The rebound is a little surprising given that Tesla reported weaker-than-expected numbers on Wednesday evening.

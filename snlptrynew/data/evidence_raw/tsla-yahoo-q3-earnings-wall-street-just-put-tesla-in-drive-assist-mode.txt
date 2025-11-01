@@ -1,5 +1,0 @@
-title: Q3 earnings: Wall Street just put Tesla in drive-assist mode
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=ee6b7b3ecafdf1db038fecca1820ad28dbcde9da8d6592cf5e56aeea6ffc3e96
-Revenue surged on strong demand ahead of the U.S. EV tax-credit expiration, yet profit and margins were squeezed

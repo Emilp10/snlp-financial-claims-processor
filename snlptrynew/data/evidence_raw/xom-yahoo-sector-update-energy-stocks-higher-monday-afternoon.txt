@@ -1,5 +1,0 @@
-title: Sector Update: Energy Stocks Higher Monday Afternoon
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=c6bcead56d24ca5f492a416903ac240a51ac2e198c9585f5aada0ab6aaaa5df6
-Energy stocks rose Monday afternoon, with the NYSE Energy Sector Index and the Energy Select Sector

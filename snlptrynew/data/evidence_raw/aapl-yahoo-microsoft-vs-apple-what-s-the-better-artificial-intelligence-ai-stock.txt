@@ -1,5 +1,0 @@
-title: Microsoft vs. Apple: What's the Better Artificial Intelligence (AI) Stock to Buy Today?
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=8eef9fd49444fac5e59370530d19dd0b2ae41a696e00cbc50864d33ae08d0877
-Microsoft's Copilot is already helping generate billions in revenue, while Apple is in the midst of enhancing its iPhones with new AI features.

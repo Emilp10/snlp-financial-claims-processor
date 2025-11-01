@@ -1,5 +1,0 @@
-title: ETB: A Consistent Buy-Write Options Fund, With 8.5% Yield And 7% Discount
-source: SeekingAlpha
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=80e94f4dd49bb604d933352c9b76556c4ef13568b5d4a83546387f32555c0a97
-Eaton Vance Tax-Managed Buy-Write Income Fund offers an 8.5% yield and trades at an attractive 6.8% discount to NAV. Read why ETB CEF is a Hold.

@@ -1,5 +1,0 @@
-title: Why Boeing (BA) Outpaced the Stock Market Today
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=75b80f0ec1bc98606441c63d2e884b77308e930ece52178adf7975028b53c1e9
-Boeing (BA) closed at $225.32 in the latest trading session, marking a +1.58% move from the prior day.

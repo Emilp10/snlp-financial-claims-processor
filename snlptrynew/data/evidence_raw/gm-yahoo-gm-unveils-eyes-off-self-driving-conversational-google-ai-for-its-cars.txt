@@ -1,5 +1,0 @@
-title: GM unveils 'eyes-off' self-driving, 'conversational' Google AI for its cars at tech event
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=990f5c234ad6bbd49985c3af8e9e267a9edc630b8725ce2b9915d24927009b76
-One day after its strong earnings report, GM unveiled new features, including "eyes-off" autonomous driving, conversational AI powered by Google, and a type of robot called a "cobot" that will assist in assembling the cars of the future.

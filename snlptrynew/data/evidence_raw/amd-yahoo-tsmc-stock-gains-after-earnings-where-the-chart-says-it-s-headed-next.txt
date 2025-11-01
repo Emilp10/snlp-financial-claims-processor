@@ -1,5 +1,0 @@
-title: TSMC Stock Gains After Earnings. Where the Chart Says It’s Headed Next.
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=6d6ad7a634858bbd8a7b25de2789b6dd00f1c43a5d2f39c8e327791cecf16870
-Taiwan Semiconductor Manufacturing  stock is rising in early trading after the company reported strong earnings and raised fourth-quarter guidance, a move that shouldn’t surprise given its critical role supplying chips to leaders like Nvidia, AMD, Broadcom, and Apple.  TSMC  has delivered a technical clinic over the past year, notably breaking above a cup base pivot near $225 this summer, retesting it successfully in August, and then surging higher.  Round number theory came into play at $300, and with shares now trading above a bull flag pivot in the premarket, a measured move toward $350 into 2026 appears in play.

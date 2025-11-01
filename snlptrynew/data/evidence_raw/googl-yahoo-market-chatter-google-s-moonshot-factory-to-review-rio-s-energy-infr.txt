@@ -1,5 +1,0 @@
-title: Market Chatter: Google's Moonshot Factory to Review Rio's Energy Infrastructure for Data Centers
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=198428208cc140832b23a2e38e20c0f41b1c5fbac6ccfdd770984d501ae86ad8
-Alphabet's (GOOG, GOOGL) Google Moonshot Factory plans to review Rio de Janeiro's electricity grid a

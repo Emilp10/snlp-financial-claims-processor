@@ -1,5 +1,0 @@
-title: Bernstein: AMD Buys Its Ticket on the OpenAI Rocket Ship
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=77d1b301cab97b392522a61797b4b6200bab08c04c80e17bf44294a089678027
-Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Making Moves on Wall Street. On October 20, Bernstein SocGen Group reiterated its Market Perform rating on the stock with a $200 price target. The rating affirmation follows AMD’s strategic move with OpenAI, where it will supply billions of dollars’ worth of GPUs to the […]

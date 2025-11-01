@@ -1,5 +1,0 @@
-title: Caterpillar Inc. stock underperforms Friday when compared to competitors
-source: MarketWatch
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=228313c75f09ec48d9c3691dca7c5fc069f48d955b3723a8281a1eff245c4f05
-Caterpillar Inc. stock underperforms Friday when compared to competitors

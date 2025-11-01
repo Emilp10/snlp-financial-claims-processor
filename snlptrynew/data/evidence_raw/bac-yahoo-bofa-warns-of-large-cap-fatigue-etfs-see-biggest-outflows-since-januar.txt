@@ -1,5 +1,0 @@
-title: BofA warns of large-cap fatigue, ETFs see biggest outflows since January
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=ebc05e33bfaf1330e42b9ca4d85952d324f2dc78cac06c9f61cf4b359bd4e88e
-Investing.com -- Investors continued to pull money from U.S. equities last week, with Bank of America reporting the largest equity ETF outflows since January 2024 amid signs of “large cap fatigue.”

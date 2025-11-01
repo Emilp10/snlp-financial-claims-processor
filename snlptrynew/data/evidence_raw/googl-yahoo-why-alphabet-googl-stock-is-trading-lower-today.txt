@@ -1,5 +1,0 @@
-title: Why Alphabet (GOOGL) Stock Is Trading Lower Today
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=8bc592a42f6fd9ad331be232b14f73157608983019bd2841be23144618f54f68
-Shares of online advertising giant Alphabet (NASDAQ:GOOGL) fell 3.2% in the afternoon session after privately held competitor OpenAI announced a new online search browser (ChatGPT Atlas). This new product, integrating advanced AI directly into the browsing and search experience, represents a direct, major competitive threat to Google's most profitable assets: the Chrome browser and the Search advertising engine. This news likely prompted some investors to take profits in GOOGL, which was near an

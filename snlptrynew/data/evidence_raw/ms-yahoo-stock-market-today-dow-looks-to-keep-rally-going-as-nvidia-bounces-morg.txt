@@ -1,5 +1,0 @@
-title: Stock Market Today: Dow Looks To Keep Rally Going As Nvidia Bounces; Morgan Stanley Jumps On Earnings (Live Coverage)
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=024ce340f60d3051ea381bc47a97c9255938007079f8da1819fc97b0aba12644
-The Dow Jones Index sees more gains Wednesday as Nvidia stock rebounds after Tuesday's sell-off. Two bank stocks rally.

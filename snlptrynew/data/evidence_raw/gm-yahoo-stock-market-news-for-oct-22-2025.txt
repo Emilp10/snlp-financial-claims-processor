@@ -1,5 +1,0 @@
-title: Stock Market News for Oct 22, 2025
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=26e880dfd06593df4706c946006677a0fb49065bf78a5edd13d742d00226d4fa
-Wall Street closed mixed on Tuesday, driven by industrial and discretionary stocks.

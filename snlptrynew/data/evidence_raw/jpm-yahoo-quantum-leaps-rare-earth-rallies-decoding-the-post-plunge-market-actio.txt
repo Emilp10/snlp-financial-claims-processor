@@ -1,5 +1,0 @@
-title: Quantum Leaps & Rare Earth Rallies: Decoding the Post-Plunge Market Action
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=48377b6b7e522c672a369fa1918e777578caafc10907b591d4bd135c4e05ef4c
-Despite the Friday sell-off, Wall Street's strongest industry themes reasserted themselves Monday. Quantum computing, rare earth, and AI energy stocks led the way.

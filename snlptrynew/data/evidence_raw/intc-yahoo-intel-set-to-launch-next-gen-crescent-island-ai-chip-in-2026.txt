@@ -1,5 +1,0 @@
-title: Intel Set to Launch Next-Gen Crescent Island AI Chip in 2026
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=584a40b9624e7a942b5b8b6b3262788c5317eb96aa2c224261fb7a5c20bb1554
-Move aims to reestablish footing against Nvidia and AMD in AI hardware market

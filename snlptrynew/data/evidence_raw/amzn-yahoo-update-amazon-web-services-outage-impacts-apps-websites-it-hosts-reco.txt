@@ -1,5 +1,0 @@
-title: Update: Amazon Web Services Outage Impacts Apps, Websites it Hosts; Recovery Underway
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=cd57d10dc43266c2787d8eb513a792fe12674c424a66ef83c9ebd63db5cd6743
-(Updates with Amazon's comments in the third and fourth paragraphs, and in the headline.) Amazon

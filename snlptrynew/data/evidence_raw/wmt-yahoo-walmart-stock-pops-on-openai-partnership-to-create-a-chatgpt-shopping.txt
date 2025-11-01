@@ -1,5 +1,0 @@
-title: Walmart stock pops on OpenAI partnership to create a ChatGPT shopping experience
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=f50acb316959019681850086fa88b8568b1335b643731c830d187db92409f2f6
-Walmart is the latest company to announce a partnership with OpenAI.

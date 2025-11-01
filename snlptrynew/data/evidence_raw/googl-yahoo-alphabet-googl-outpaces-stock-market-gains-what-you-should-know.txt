@@ -1,5 +1,0 @@
-title: Alphabet (GOOGL) Outpaces Stock Market Gains: What You Should Know
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=5d6acbc63909b28b6cc079db0830ff2064c40d86aee7b5e818aebce77a2d4648
-Alphabet (GOOGL) closed at $251.03 in the latest trading session, marking a +2.27% move from the prior day.

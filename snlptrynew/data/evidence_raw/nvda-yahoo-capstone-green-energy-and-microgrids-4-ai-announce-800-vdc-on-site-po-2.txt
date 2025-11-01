@@ -1,5 +1,0 @@
-title: Capstone Green Energy and Microgrids 4 AI Announce 800 VDC On-Site Power to Chip Next-Generation AI Infrastructure
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=c08b962b7d437091c2b0ca207c395589c3c3430ecf0f6c217085d1d235b0ac36
-LOS ANGELES & REDWOOD CITY, Calif., October 21, 2025--Capstone Green Energy Holdings, Inc., and its subsidiaries (the "Company" or "Capstone") (OTCQX: CGEH) a leading provider of clean, low-emission microturbine energy systems and clean technology solutions, and Microgrids 4 AI, Inc. ("MG4AI"), a developer of modular, AI-ready data center infrastructure, today announced their 800-volt direct-current (VDC) microturbine plus compute engineered equipment package to power the next generation of AI i

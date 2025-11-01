@@ -1,5 +1,0 @@
-title: Bank of America (BAC) Margin Surge Reinforces Profitability Narrative Despite Industry-Lagging Growth Outlook
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=b47cad1d1b5a28bbf7443814ea7a783bbcfb74d42b951df13b1b9180094faaf9
-Bank of America (BAC) posted an average annual earnings growth of 2.7% over the past five years, highlighted by a sharp 28.8% increase in the most recent year. Net profit margins climbed to 27.9%, well above last year’s 23.2%. With an earnings outlook calling for 5.8% growth per year and revenue set to grow at 5.9% per year, forward projections trail the broader US market. However, the recent combination of margin improvement and sustained profits could bolster investor sentiment. See our...

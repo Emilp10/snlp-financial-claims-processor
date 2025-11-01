@@ -1,5 +1,0 @@
-title: Will BASF (XTRA:BAS) Use Carbon Accounting Leadership to Bolster Its Sustainability Edge?
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=cba44c31f4c2cb925c25a61cbe5610d58f160e54071144431888d246b93d65ad
-BASF has joined a global coalition of leading industrial and financial companies, including ExxonMobil, ADNOC, Banco Santander, and NextEra Energy, to launch Carbon Measures, a standardized carbon accounting framework aimed at improving emissions tracking and transparency across supply chains. This initiative positions BASF at the forefront of efforts to set rigorous, comparable emissions standards, which could drive forward the adoption of lower-carbon technologies throughout the chemical...

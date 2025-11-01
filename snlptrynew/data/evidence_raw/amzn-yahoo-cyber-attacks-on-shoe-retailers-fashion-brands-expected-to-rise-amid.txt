@@ -1,5 +1,0 @@
-title: Cyber Attacks on Shoe Retailers, Fashion Brands Expected to Rise Amid Several Online Outages
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=45a1a128eea3660c3898f233c1a46168c0dd92e1d6c0851e0c484cbf41eb4d3e
-Online outages this week have some cyber security experts reminding retailers to be more vigilant as hackers and ransomware attacks are on the rise.

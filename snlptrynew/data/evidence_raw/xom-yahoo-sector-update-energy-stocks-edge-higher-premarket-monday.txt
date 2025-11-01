@@ -1,5 +1,0 @@
-title: Sector Update: Energy Stocks Edge Higher Premarket Monday
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=62b43a9b126ff132fcfe67419c152a2faf6b6000431c45c899611c4b0360830c
-Energy stocks were edging higher premarket Monday, with the Energy Select Sector SPDR Fund (XLE) adv

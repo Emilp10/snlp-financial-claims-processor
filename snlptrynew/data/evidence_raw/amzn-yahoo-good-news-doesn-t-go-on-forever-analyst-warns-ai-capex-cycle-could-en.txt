@@ -1,5 +1,0 @@
-title: Good News 'Doesn't Go On Forever' – Analyst Warns AI CapEx Cycle Could End In Recession
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=3920a47dbd72441c7961a3869cfcc29e3593c3d4d8a3d75e41971f0e56d9a6e6
-Major technology companies have pledged billions in spending on artificial intelligence infrastructure and data centers in recent months, driving the surge in AI stocks and boosting valuations. However, some analysts warn that this cycle of AI-related ...

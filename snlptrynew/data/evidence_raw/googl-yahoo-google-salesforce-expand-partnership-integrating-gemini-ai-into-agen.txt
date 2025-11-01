@@ -1,5 +1,0 @@
-title: Google, Salesforce Expand Partnership, Integrating Gemini AI into Agentforce 360 Platform
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=e6343f99136fd93113660d8d4667f51998456552f69ddbe85d5102891987337d
-Alphabet Inc. (NASDAQ:GOOGL) is one of the best big tech stocks to invest in now. On October 16, Google and Salesforce Inc. (NYSE:CRM) announced a significant expansion of their partnership, introducing new AI innovations across the enterprise. The collaboration integrates Google’s Gemini models into the new Agentforce 360 Platform. The partnership deepens the integration of […]

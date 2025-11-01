@@ -1,5 +1,0 @@
-title: Oil Market Braces for Contango and Shale Slowdown
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=5956a14cbca4d131e657122db803cacfff7ec790226a4ca1eae5bcd903dedb85
-The prospect of a contango is casting a shadow over oil markets, with the entire 2026 WTI futures curve now trading below $60 per barrel

@@ -1,5 +1,0 @@
-title: Merck (MRK): Valuation Perspective as Groundbreaking Cancer Trial Wins Drive New Investor Focus
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=d99fa11948d811309c52d16a039eb2ad6c425a8169d6c338726679bf2a16ba4b
-Merck (MRK) made headlines at the ESMO Congress by releasing new data from a suite of major Phase 3 clinical trials, each highlighting practice-changing advances for some hard-to-treat cancers. Results from Keytruda-based regimens included the first immune checkpoint inhibitor to show survival benefits in platinum-resistant recurrent ovarian cancer, improved outcomes in muscle-invasive bladder cancer, and extended event-free and overall survival for non-small cell lung cancer. See our latest...

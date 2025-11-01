@@ -1,5 +1,0 @@
-title: Boeing's 737 Momentum Fuels Delivery Surge, Embraer Stays On Track
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=e3f62a0daee7b03e06c05df7ff413198627cb98dd809fa90d89108bd4097cf43
-Boeing Co. (NYSE:BA), Embraer S.A. (NYSE:ERJ), and Airbus SE (OTC:EADSY) all showed a surge in deliveries and production stability in the third quarter, signaling a broad rebound in the commercial aerospace sector and renewed momentum for aircraft makers as global demand recovers. According to Bank of America Securities, the uptick reflects improving workflow efficiency and rising delivery momentum across major aircraft makers. Boeing led the gains with 121 737 deliveries in the quarter, up from

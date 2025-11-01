@@ -1,5 +1,0 @@
-title: Can AMD Stock Reach $300 in 2025?
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=b02e014e79a68181c34a82e77a60f3cb20c5f573d0f39638ca909bfd3a8a6d4c
-Barclays just pushed AMD’s target to $300 after its OpenAI tie-up. Can the chipmaker really keep this pace?

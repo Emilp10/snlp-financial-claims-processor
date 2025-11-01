@@ -1,5 +1,0 @@
-title: This Wall Street analyst says Apple stock is ’expensive’
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=0e94f1067d12461beb5a325fbd8e3df10f1ccb04f14b0924baadc450e7239ea2
-Investing.com -- Apple (NASDAQ: AAPL) shares may be pricing in too much optimism, according to one Wall Street analyst, who reiterated a Sector Weight rating on the stock despite stronger-than-expected September data.

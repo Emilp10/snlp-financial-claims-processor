@@ -1,5 +1,0 @@
-title: This Wall Street Firm Says Alphabet Stock Is A Better Bet Than Meta. Here's Why.
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=49d7037abc6158be639b1efa25534e7cc65e1b5b7f7034d2838ac920c152acb3
-While the Magnificent Seven group of big tech stocks has outpaced the S&P 500 this year, under the hood there are signs that it might make sense to pick and choose carefully among them.

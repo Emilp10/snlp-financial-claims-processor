@@ -1,5 +1,0 @@
-title: AI Stocks Are in a Bubble, BofA Fund Manager Survey Finds
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=ae7df3ef435dcab3aec85f20a8c03893d4a7ac7bf500c4c9d299aabdd327013a
-A global survey by Bank of America finds a record share of global fund managers saying artificial intelligence stocks are in a bubble, which was viewed as the biggest market tail risk. Elyas Galou, senior investment strategist at BofA Securities, runs through the findings of the bank's global fund manager survey.

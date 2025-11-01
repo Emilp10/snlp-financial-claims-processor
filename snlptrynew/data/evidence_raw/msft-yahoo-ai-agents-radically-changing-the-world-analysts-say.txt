@@ -1,5 +1,0 @@
-title: AI Agents radically changing the world, analysts say
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=7d090e1b4f6f00ffc0306ded00cfa3b01c06b187d716a3d510a6a9b30d024529
-Eliza wants to know how you feel. Before we go any further, please know that Eliza, or ELIZA, wasn’t a human being, but an early conversational artificial intelligence agent developed in 1966 by the computer science Joseph Weizenbaum. Eliza the agent could act like a therapist by reflecting users’ ...

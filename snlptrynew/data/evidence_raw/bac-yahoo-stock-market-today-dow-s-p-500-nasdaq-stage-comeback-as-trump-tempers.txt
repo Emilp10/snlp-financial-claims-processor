@@ -1,5 +1,0 @@
-title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
-source: Yahoo
-date: 2025-10-12
-url: https://finnhub.io/api/news?id=c20619dca0d912db2401035ac2a7c811ccf9edb0a4e7573e7b5648c60b590c17
-Markets are assessing Trump's retreat from combative comments on China.

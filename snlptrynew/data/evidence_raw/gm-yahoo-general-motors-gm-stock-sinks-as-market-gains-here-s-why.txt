@@ -1,5 +1,0 @@
-title: General Motors (GM) Stock Sinks As Market Gains: Here's Why
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=7bce80071bd32d265a75b4b308aa62f1016a698da1a74564fa5e4f5b0e7e6b7f
-General Motors (GM) closed at $56.4 in the latest trading session, marking a -1.5% move from the prior day.

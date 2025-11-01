@@ -1,5 +1,0 @@
-title: Meta Stock: An Advanced Put Strategy Takes Advantage Of Pre-Earnings Volatility
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=ec1c81ae0dffdd9129c148f29464a64234c30f818739e832010c666022e04b63
-Meta stock investors will look at earnings Oct. 29. Take advantage of volatility skew with this options strategy.

@@ -1,5 +1,0 @@
-title: Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=b1933f79fb29f2f5927d3e7ce00e040c0774f2cd79a5889e51575b98222d7468
-Meta Platforms is cutting roughly 600 artificial intelligence jobs even as it continues to hire more workers for its superintelligence lab, the company confirmed on Wednesday.  Axios first reported the cuts, which will affect Meta’s Fundamental AI Research, or FAIR unit, as well as product-related AI and AI infrastructure units.  Citing a memo sent to workers by chief AI officer Alexandr Wang, Axios said the company is encouraging employees affected to apply for other jobs at Meta, with most expected to find other roles.

@@ -1,5 +1,0 @@
-title: Astera (ALAB) Extends Losses, Drops 19% on Cutthroat GPU Market
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=82e2f183c6a1816c6c3735fbfcb358d46c6b8356d89453bbb5d2c927a89161c0
-We recently published 10 Stocks Hammered Harder than Wall Street. Astera Labs Inc. (NASDAQ:ALAB) is one of the worst performers on Tuesday. Astera Labs extended its losing streak to a third straight day on Tuesday, slashing 19.03 percent to close at $161.55 apiece amid cut-throat competition in the GPU market. The drop followed Advanced Micro […]

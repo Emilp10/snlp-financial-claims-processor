@@ -1,5 +1,0 @@
-title: Amazon Q3: Not Expecting A Show Off
-source: SeekingAlpha
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d0239c5a6afff62af66af12f790bd5bdedd9e3cf163a335f9ab42121aec04ca3
-AWS faces growth challenges amid capacity constraints, while ad services boost profits.

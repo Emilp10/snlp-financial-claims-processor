@@ -1,5 +1,0 @@
-title: TeraWulf (WULF) Is Up 27.8% After Google Increases Stake With $3.2 Billion AI Infrastructure Backing
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=4be5eab36ba639ad89c6c9359eb7135db3c3c725f1d697aeb38137c7205982ea
-Earlier this month, Fluidstack announced it signed two 10-year AI hosting agreements with TeraWulf at the Lake Mariner campus worth approximately US$3.7 billion, with Google providing US$3.2 billion of project debt support and increasing its ownership in TeraWulf to around 14%. This collaboration is accompanied by an 80-year ground lease at the Cayuga, NY site, enabling TeraWulf to expand its zero-carbon power capacity by up to 400 MW, with 138 MW expected to come online in 2026. We'll...

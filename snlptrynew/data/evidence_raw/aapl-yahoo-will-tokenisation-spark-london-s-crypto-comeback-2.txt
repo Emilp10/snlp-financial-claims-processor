@@ -1,5 +1,0 @@
-title: Will tokenisation spark London’s crypto comeback?
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=f0f5fdafc0d09fbc1c652384d51164a45a4bdf4346423d1c35559997ff3b69cc
-The UK is modernising its financial markets, with the FCA proposing to let asset managers 'tokenise' investment funds on public blockchains, such as Ethereum.

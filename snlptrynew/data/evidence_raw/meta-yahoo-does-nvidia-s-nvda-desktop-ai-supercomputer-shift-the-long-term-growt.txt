@@ -1,5 +1,0 @@
-title: Does NVIDIA's (NVDA) Desktop AI Supercomputer Shift the Long-Term Growth Outlook?
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=2bab69d304a561f3d1d5cd20fcf03864a0db45c31ee533631d0fe17ab5ed1f65
-NVIDIA has begun shipping the DGX Spark, a compact AI supercomputer developed in partnership with MediaTek, enabling developers to locally prototype and fine-tune large AI models using the ultra-efficient GB10 Grace Blackwell Superchip. This advancement, along with new client integrations like Meta and Oracle standardizing NVIDIA networking technologies, dramatically expands access to scalable, high-performance AI development beyond traditional cloud or data center environments. We’ll...

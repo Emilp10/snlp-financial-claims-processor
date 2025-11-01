@@ -1,5 +1,0 @@
-title: Nvidia unveils first Blackwell chip wafer made with TSMC in US
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=401f025474957ec9c02910db7ee03939b186a4248649f74992a47990a6089174
-Companies have been racing to meet the broader AI industry's voracious appetite for computing power as they develop AI technology that meets or exceeds human intelligence.  The move "bolsters the U.S. supply chain and onshores the AI technology stack that will turn data into intelligence and secure America's leadership for the AI era," Nvidia said in a blog post.  It also aligns with President Donald Trump's efforts to strengthen U.S. technology and manufacturing leadership.

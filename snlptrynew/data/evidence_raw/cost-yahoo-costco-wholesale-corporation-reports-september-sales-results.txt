@@ -1,5 +1,0 @@
-title: Costco Wholesale Corporation Reports September Sales Results
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=7cbcdff77cc68082462a5396c2fcf9391b01a482bc1255807db426bd594ef2e1
-ISSAQUAH, Wash., Oct. 08, 2025 (GLOBE NEWSWIRE) -- Costco Wholesale Corporation (“Costco” or the “Company”) (Nasdaq: COST) today reported net sales of $26.58 billion for the retail month of September, the five weeks ended October 5, 2025, an increase of 8.0 percent from $24.62 billion last year. Comparable sales were as follows: 5 Weeks U.S.5.1% Canada6.3% Other International8.5% Total Company5.7% Digitally-Enabled26.1% Starting with this sales release, we changed our Ecommerce comparable sales

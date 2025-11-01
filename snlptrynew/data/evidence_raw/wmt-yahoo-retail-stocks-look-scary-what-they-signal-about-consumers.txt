@@ -1,5 +1,0 @@
-title: Retail Stocks Look Scary. What They Signal About Consumers.
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=bdd1cb2dd6d2a6833d446be6b9049c5def6ee80597649bba88953a36673e7be9
-The real test will come with the holiday shopping season, the most crucial time of the year for retailers, and their stocks.

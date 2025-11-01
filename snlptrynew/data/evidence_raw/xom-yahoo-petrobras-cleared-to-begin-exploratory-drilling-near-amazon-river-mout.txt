@@ -1,5 +1,0 @@
-title: Petrobras Cleared to Begin Exploratory Drilling Near Amazon River Mouth
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=4db29a29794668545df6ad900cefbf4bc122ca283f597f8a62a29bd5c62959d6
-Brazil’s state-run oil giant Petrobras has received approval from environmental regulator Ibama to begin exploratory drilling in the Foz do Amazonas basin

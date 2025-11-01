@@ -1,5 +1,0 @@
-title: US Equity Indexes Drop as Big Tech Weighs on Investor Sentiment, China Trade-Talks Uncertainty Grows
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=54ec681ceb6b77277ef7a0abc43c0c03cac1704a380adcc56d4a0134f422edea
-US equity indexes fell on Wednesday as market heavyweights Netflix (NFLX), Amazon.com (AMZN), and Te

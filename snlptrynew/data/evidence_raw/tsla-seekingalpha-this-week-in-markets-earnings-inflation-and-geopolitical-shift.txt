@@ -1,5 +1,0 @@
-title: This Week In Markets: Earnings, Inflation, And Geopolitical Shifts
-source: SeekingAlpha
-date: 2025-10-25
-url: https://finnhub.io/api/news?id=bfc31fe75b5c863d4c55d411cce0ba9692135739721c602056ed365e303b723a
-Corporate earnings were the primary market driver this week, fueling sector-specific rallies and helping equities reclaim record levels.

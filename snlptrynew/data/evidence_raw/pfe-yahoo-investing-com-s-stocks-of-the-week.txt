@@ -1,5 +1,0 @@
-title: Investing.com’s stocks of the week
-source: Yahoo
-date: 2025-10-04
-url: https://finnhub.io/api/news?id=ad47b9d8f47825708059bf6ae3706caf540c07f9b928ddec4afceb0449acacaa
-Investing.com -- Despite the U.S. government shutdown, U.S equities have performed positively in the last week, climbing to new highs, with the S&P 500, Nasdaq and Dow all on track for more than 1% gains.

@@ -1,5 +1,0 @@
-title: Meta Announces New Texas Data Centers in AI Push
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=582e42ef9223ae1c0c10fa9da32eae9e3aaed4d35f683b74d117200c02f774f5
-Meta Platforms Inc. is building a new gigawatt-sized data center in Texas to advance its artificial intelligence efforts, the latest in a string of significant investments by the company as it looks to keep pace in the competitive AI industry. Bloomberg's Kurt Wagner has the story.

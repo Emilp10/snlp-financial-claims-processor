@@ -1,5 +1,0 @@
-title: MS Q3 Deep Dive: Capital Markets Momentum and Integrated Platform Drive Outperformance
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=cff590c91952de00df73a3f1021d01589b49ff9db2c0f35c1e758d064f778624
-Global financial services firm Morgan Stanley (NYSE:MS) reported revenue ahead of Wall Street’s expectations in Q3 CY2025, with sales up 18.5% year on year to $18.22 billion. Its GAAP profit of $2.80 per share was 32.6% above analysts’ consensus estimates.

@@ -1,5 +1,0 @@
-title: Why Ford (F) Stock Is Trading Lower Today
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=f8cfd98cc5328e54fc6176b079e4e47e3815413173d4b8147289951769ef6eef
-Shares of automotive manufacturer Ford (NYSE:F) fell 7% in the afternoon session after reports highlighted the severe, long-term impact of a fire at a key aluminum supplier's plant, raising concerns about significant production disruptions.

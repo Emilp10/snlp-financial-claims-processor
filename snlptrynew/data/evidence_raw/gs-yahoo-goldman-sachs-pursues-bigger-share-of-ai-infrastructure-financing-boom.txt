@@ -1,5 +1,0 @@
-title: Goldman Sachs Pursues Bigger Share of AI Infrastructure Financing Boom
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=94014e799f257849faa31264a8bef71588fa700a2516577e31305fc005247803
-Goldman Sachs  is expanding its push into the hot market for financing data centers and other infrastructure, a move to grab a bigger piece of the AI boom.  The Wall Street giant is creating a team within its global banking and markets division that will focus on infrastructure financing globally, both by lending more in the sector and finding investors to buy that debt, according to people familiar with the matter.  The effort is being fueled by the new wave of multibillion-dollar deals that involve financing artificial-intelligence data centers, the massive amounts of power they need to run, and the processing units behind the AI build-out.

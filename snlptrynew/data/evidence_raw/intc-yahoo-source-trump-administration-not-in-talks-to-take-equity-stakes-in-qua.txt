@@ -1,5 +1,0 @@
-title: Source: Trump administration not in talks to take equity stakes in quantum computing firms
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=3bab2f95e8c16474225a4b817bfaa80a2b386d0084eebf307b39f946f031ef51
-A report that the administration is in talks for the government to take equity stakes in quantum computing companies is not necessarily something the Trump administration is considering.

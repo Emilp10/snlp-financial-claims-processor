@@ -1,5 +1,0 @@
-title: US AI revenue in 2025 nearly double closest competitor – analysis
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=e6efbf677b74a0a61c51b36f97bf624df430e2bca03f216d01996c808b8074fd
-GlobalData’s AI Global Market Opportunity Forecasts to 2029 report indicates that the US AI market will generate $41bn this year.

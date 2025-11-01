@@ -1,5 +1,0 @@
-title: AbbVie Stock on the Move: What Sparked the 6% Jump in the Past Week?
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=5fcaf3a41fe0cdbdb83a5783564f188f7555554b2bd1b20dff5217998e180b68
-ABBV shares rose 6% last week as optimism swept the pharma sector after Pfizer's landmark drug-pricing deal with the Trump administration.

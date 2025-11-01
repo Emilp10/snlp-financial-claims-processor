@@ -1,5 +1,0 @@
-title: AMD Stock Has Ample Room to Rise, Say Analysts. Thank Oracle and Meta.
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=1d5c7ad398507dce43910448581d0201ceeda66c1e299bce55e4f2eefb62126e
-Shares of  Advanced Micro Devices  lifted recently by partnerships with major players in artificial intelligence, could keep gaining regardless of stiff competition among chip makers.  The stock was down 1% to $232.35 on Friday, a level leaving room for a gain of more than 29% to BofA Securities’ target.  Intel  and  Nvidia  were each up 0.3%.

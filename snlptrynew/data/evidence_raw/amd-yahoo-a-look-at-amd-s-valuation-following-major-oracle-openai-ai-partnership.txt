@@ -1,5 +1,0 @@
-title: A Look at AMD’s Valuation Following Major Oracle, OpenAI AI Partnerships and Growing AI Hardware Demand
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=4bc9edc0d55ef2ef2c2b1df6055c666c5b9a741e7ad861d33554147b3d0a3a6c
-Advanced Micro Devices (AMD) shares drew fresh attention this week after Oracle revealed plans to deploy 50,000 of AMD’s upcoming MI450 GPUs for massive AI superclusters. OpenAI also signed a multi-generation deal for AMD’s chips. See our latest analysis for Advanced Micro Devices. The buzz around AMD is not just about the headlines; it is showing up in the numbers too. AMD’s recent tie-ups with Oracle and OpenAI sent excitement through the market, helping drive a remarkable 46% share price...

@@ -1,5 +1,0 @@
-title: Wall Street Lunch: Gold Rally Keeps Going
-source: SeekingAlpha
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=f104498debec5ea4e593591545ad0243b5f2470df56a1455256cafcc403d6497
-Gold futures topped $4,000/oz. for the first time today, while spot gold (XAUUSD: CUR) is currently knocking on the door of that level.

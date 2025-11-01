@@ -1,5 +1,0 @@
-title: Micron Stock Is Up 140% and Analysts Predict Even More Big Gains. AI Is Why.
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=1f1978cd71226ac79b92a6644e444264d3ab1c0f5118dd559dbf9d51fa18b299
-Shares of  Micron Technology  have surged 140% this year, but some analysts see no end in sight to the gains.  Citi Research analyst Christopher Danely argued that dynamic random-access memory, or DRAM, which the kind of storage used in most laptops and personal computers, “will be the next chip to get long-term contracts with the AI food chain given its importance and undersupply.”  Micron gained 6.3% to $204.08, putting the stock on pace for a record high, according to Dow Jones Market Data.

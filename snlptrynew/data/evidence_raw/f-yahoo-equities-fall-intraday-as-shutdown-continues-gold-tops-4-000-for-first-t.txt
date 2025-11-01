@@ -1,5 +1,0 @@
-title: Equities Fall Intraday as Shutdown Continues; Gold Tops $4,000 for First Time
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=86ed4b484fd6bb57488b7a1c65650067f1913b80657fa81f97e8e1adbe54e5ce
-US benchmark equity indexes were lower intraday as a federal government shutdown entered its seventh

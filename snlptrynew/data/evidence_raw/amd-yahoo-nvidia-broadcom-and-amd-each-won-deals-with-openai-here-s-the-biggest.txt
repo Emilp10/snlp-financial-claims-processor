@@ -1,5 +1,0 @@
-title: Nvidia, Broadcom, and AMD Each Won Deals With OpenAI. Here's the Biggest Winner of the Bunch.
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=3349fe2dc583636aa68f7035929839febd8694e56d98d25a775f29c4d0bc338e
-These chip rivals each aim to win as AI spending reaches into the trillions of dollars.

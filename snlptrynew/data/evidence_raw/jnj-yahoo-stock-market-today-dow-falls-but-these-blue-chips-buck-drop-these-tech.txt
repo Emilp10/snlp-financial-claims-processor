@@ -1,5 +1,0 @@
-title: Stock Market Today: Dow Falls But These Blue Chips Buck Drop; These Techs Eye New Entries (Live Coverage)
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=1698f938d98339bb5ac51386ca01d40fbac79dc20b4fdf5332334048abf16393
-The Dow and other major indexes fall Thursday. Nvidia rises as supplier Taiwan Semi posts strong September sales.

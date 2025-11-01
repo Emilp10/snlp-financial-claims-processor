@@ -1,5 +1,0 @@
-title: Trending tickers: Broadcom, Ericsson, Navitas, Intel and BP
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=54be72d2eb2bc6e675f35dc3018b73036b13a3b962c50766fe614b18c7c0aadb
-The latest investor updates on stocks that are trending on Tuesday.

@@ -1,5 +1,0 @@
-title: Nvidia Stock Gains. Taiwan Semiconductor Gives the AI Boom Another Boost.
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=a5056844c68c95855c7620000309af08c8c7d931e3f237d2f26ffde98291064a
-Nvidia stock was rising after Taiwan Semiconductor Manufacturing expressed confidence in demand for artificial-intelligence chips.

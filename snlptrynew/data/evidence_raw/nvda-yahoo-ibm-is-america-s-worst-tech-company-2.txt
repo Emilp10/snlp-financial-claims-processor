@@ -1,5 +1,0 @@
-title: IBM Is America’s Worst Tech Company
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=9a4bbb5a3c1864fbe4f2ea05241396e6c54b5ff670a2ee7ab0274c11d26ce86e
-IBM announced terrible quarterly results, and its stock promptly dropped sharply. It is too small to play an important role in the future of AI.

@@ -1,5 +1,0 @@
-title: Is Costco Stock Too Expensive -- or Worth Every Penny?
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=9a78277a2f534b9b2423a3a8ee36e2226a8478c41b2a01c57563b9c45bf7c93a
-Costco stocks aren't cheap, but there are good reasons for that.

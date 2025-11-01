@@ -1,5 +1,0 @@
-title: Morgan Stanley Expanding Access to Crypto Fund Investments: CNBC
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=94775a68481640eb3fce9a9ea0f8807db237a045defcb3fee49798a33cf4e611
-Morgan Stanley is cutting restrictions on crypto investments for wealth clients, broadening access as Bitcoin and Ethereum rise.

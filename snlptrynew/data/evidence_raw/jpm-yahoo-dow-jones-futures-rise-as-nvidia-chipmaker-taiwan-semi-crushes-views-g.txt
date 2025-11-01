@@ -1,5 +1,0 @@
-title: Dow Jones Futures Rise As Nvidia Chipmaker Taiwan Semi Crushes Views; Google, Tesla Near Buy Points
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=2e62a7642ee56bad35fd338374457232ec10b89b20050e22e204fa2fc85a996f
-Futures: Nvidia chipmaker Taiwan Semiconductor easily beat earnings views and guiding up. Google and Tesla are near buy points.

@@ -1,5 +1,0 @@
-title: Here's What Traders Expect Intel Stock To Do After Earnings This Week
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=280509283caff6fd2edb6d3481fba2d83e5ef78d23934fc2fe4897da6a08f969
-Intel is set to report third-quarter earnings after markets close Thursday, and traders expect the stock to be highly volatile following the results.

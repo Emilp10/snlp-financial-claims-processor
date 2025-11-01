@@ -1,5 +1,0 @@
-title: Axiado and Jabil Collaborate to Advance AI-Driven Platform Security in OCP MHS-Inspired Servers
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=eadc6c6864f9ecd80544667ffec5655a037be7119027fcf576dbb1e8d027e643
-OCP Global Summit 2025 — Axiado Corporation, a leading AI-driven, hardware-anchored platform security and system management solutions company, today announced a collaboration with Jabil Inc. (NYSE: JBL), a global engineering, supply chain, and manufacturing solutions provider to develop AI-driven cybersecurity and Open Compute Project (OCP) Modular Hardware System (MHS) server solutions. Products for next-generation AI and cloud workloads will be displayed at the OCP Global Summit, October 13-16

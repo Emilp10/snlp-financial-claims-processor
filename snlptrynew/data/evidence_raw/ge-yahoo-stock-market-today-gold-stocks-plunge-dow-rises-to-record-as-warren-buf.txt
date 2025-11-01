@@ -1,5 +1,0 @@
-title: Stock Market Today: Gold Stocks Plunge; Dow Rises To Record As Warren Buffett Stock Soars (Live Coverage)
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=5e6dbf1ce58694f70644f47875a585aebe843246380683207d4ff71873f7dabf
-Stock Market Today: The Dow Jones index rose near record highs Tuesday. GM stock surged on strong earnings results.

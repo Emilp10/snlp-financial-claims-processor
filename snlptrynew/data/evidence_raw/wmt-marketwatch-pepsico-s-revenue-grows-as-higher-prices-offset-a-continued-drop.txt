@@ -1,5 +1,0 @@
-title: PepsiCo’s revenue grows, as higher prices offset a continued drop in beverage volumes
-source: MarketWatch
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=d17dc0f383e1e627550e55101215a8fed132227180a4a94ac220a0fb7786fc5f
-PepsiCo’s revenue grows, as higher prices offset a continued drop in beverage volumes

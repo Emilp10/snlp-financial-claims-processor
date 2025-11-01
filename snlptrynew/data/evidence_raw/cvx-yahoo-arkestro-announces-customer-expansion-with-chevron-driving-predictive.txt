@@ -1,5 +1,0 @@
-title: Arkestro Announces Customer Expansion With Chevron, Driving Predictive Procurement Transformation Across Global Markets
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=d71bf724008fdb696caaa2e56b48ca4ae8cc74bcdb37ac742d2d412a96aaba58
-Arkestro, the leading predictive procurement platform accelerating enterprise scale, today announced the expansion of its adoption within Chevron Corporation (NYSE: CVX), one of the world's leading integrated energy companies. To date, Chevron has used Arkestro's platform across business units to accelerate supplier cycle times, mitigate cost volatility in sourcing, and gain greater visibility across all types of spend. Chevron's global expansion with Arkestro earlier this year broadens the reac

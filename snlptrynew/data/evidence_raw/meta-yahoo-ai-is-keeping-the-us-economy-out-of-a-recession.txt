@@ -1,5 +1,0 @@
-title: AI is keeping the US economy out of a recession
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=b3df50682178798055a59149b493187694c9a71cfbfcea9dbc85ef90ca5173e9
-Artificial intelligence is simultaneously "saving the day" and rewriting the rules.

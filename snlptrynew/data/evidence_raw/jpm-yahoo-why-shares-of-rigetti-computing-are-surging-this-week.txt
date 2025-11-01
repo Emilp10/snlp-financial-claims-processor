@@ -1,5 +1,0 @@
-title: Why Shares of Rigetti Computing Are Surging This Week
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=cf0947e24becf4655d5b0a9c5c2106205acb40adbe3fac0ef85f4b3d67b43c46
-Quantum computing stocks blasted higher earlier this week after a large bank announced it would look into making investments in the sector.

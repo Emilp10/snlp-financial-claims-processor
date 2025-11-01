@@ -1,5 +1,0 @@
-title: AlphaSense Surpasses $500M in ARR as Adoption of Applied AI Workflows Surges
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=a64b2a021035497da0ac30ba7ea87ba1893a8a42131f7458a1ecb3c0f0222891
-AlphaSense, the AI platform redefining market intelligence for the business and financial world, today announced it has surpassed $500M in annual recurring revenue (ARR). This milestone reflects accelerating market adoption of AlphaSense's agentic workflows and AI capabilities, as well as growing demand for trusted, enterprise-wide AI insights that drive smarter decisions at scale. Today, over 6,500 customers trust AlphaSense to fuel their decision making, including Google, JP Morgan, Pfizer, Mi

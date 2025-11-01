@@ -1,5 +1,0 @@
-title: Update: Market Chatter: Reddit Sues 4 Firms Over Alleged Data Theft by Scraping Google Results
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=eae949a022918958e2dd322a61a812f11a7d5ebb83743dded0fa546599c9b462
-(Updates with Oxylabs' response in fifth paragraph and latest Reddit stock movement in the last para

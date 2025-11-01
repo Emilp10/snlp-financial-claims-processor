@@ -1,5 +1,0 @@
-title: Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=e496feb28c9f035a5acf6e38e064b291e365581abca313fb347c3174f95a26ea
-Taiwan’s leading computer chip maker, TSMC, said Thursday that its net profit surged nearly 40% in the last quarter, boosted by the surge in use of artificial intelligence.  Taiwan Semiconductor Manufacturing Corp. is the world’s biggest semiconductor manufacturer.  It reported a net profit of a record 452.3 billion new Taiwan dollars ($15 billion) in the July-September quarter, higher than analysts’ forecasts.

@@ -1,5 +1,0 @@
-title: Zacks Investment Ideas feature highlights: IBIT, MP, JPM, BE, NVTS, NVDA and RGTI
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=cd2c068d33ca49335fb3b074e3700f663b9277c5fbce8801a3276594cab06bc7
-MP surges on rare-earth tensions as AI energy and quantum computing stocks like BE, NVTS, and RGTI lead the market rebound.

@@ -1,5 +1,0 @@
-title: Chevron (CVX) Stock Moves -1.81%: What You Should Know
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=ee3a91d3ffb930b38e3c220c7a584513ef6f742d4443c171cd09c1c2a4828ff1
-Chevron (CVX) concluded the recent trading session at $148.9, signifying a -1.81% move from its prior day's close.

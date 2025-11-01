@@ -1,5 +1,0 @@
-title: Why Investors Are Excited About CoreWeave
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=eae513d379de22b6c2edb45be3e3a20561e3de22725e517fbf72cdda1385f780
-CoreWeave might not be a household name yet, but it's quietly becoming one of the most essential companies powering the artificial intelligence (AI) revolution.

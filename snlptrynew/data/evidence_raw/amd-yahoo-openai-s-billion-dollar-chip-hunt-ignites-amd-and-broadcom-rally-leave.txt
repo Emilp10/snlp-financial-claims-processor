@@ -1,5 +1,0 @@
-title: OpenAI's Billion-Dollar Chip Hunt Ignites AMD and Broadcom Rally, Leaves Nvidia on the Defensive
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=3c73970f518909a965793b42e74112b2582436916d2fb52b577a85eb50f3a08c
-OpenAI's spending spree is reshaping the AI chip battlefield -- and investors are rushing to place new bets.

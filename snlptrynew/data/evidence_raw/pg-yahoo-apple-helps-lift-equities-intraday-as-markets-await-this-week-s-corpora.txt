@@ -1,5 +1,0 @@
-title: Apple Helps Lift Equities Intraday as Markets Await This Week's Corporate Earnings
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=633ae8fe9b9efed7118e23a425987cf7c150cd50f0a3dc51132a805054a5eb53
-US benchmark equity indexes were higher after midday Monday, aided by a rise in Apple (AAPL) shares

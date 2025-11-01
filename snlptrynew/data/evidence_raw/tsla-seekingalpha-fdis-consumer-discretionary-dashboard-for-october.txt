@@ -1,5 +1,0 @@
-title: FDIS: Consumer Discretionary Dashboard For October
-source: SeekingAlpha
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=316b09ad3747d82510853c7e428d305badbc4e7e0319f2d4ba20adea7d3a2d54
-Consumer Discretionary sector analysis reveals consumer services are undervalued with strong quality, while autos/components lag in both value and quality. Read the full analysis here.

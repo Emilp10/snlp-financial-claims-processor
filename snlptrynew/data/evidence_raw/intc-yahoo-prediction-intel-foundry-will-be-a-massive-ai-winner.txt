@@ -1,5 +1,0 @@
-title: Prediction: Intel Foundry Will Be a Massive AI Winner
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=9f8a7aa7b9c018fbf6c7136cfaddaa760ef93a56dadf6db6bd86226e68569aa0
-A new report suggests that Microsoft has committed to using Intel Foundry for an AI chip.

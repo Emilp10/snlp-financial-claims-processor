@@ -1,5 +1,0 @@
-title: Goldman Sachs Expects More M&A Activity in 2026
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=f078192858078d867cd08593332553ea9a532a77cbc1fef782625b19c361cecb
-Goldman Sachs expects the current encouraging deal environment to gain more strength through the end of the year and into 2026, Chief Executive David Solomon told investors Tuesday. "I'd expect 2026 to be a stronger M&A environment unless there's some macro disruption," he said.

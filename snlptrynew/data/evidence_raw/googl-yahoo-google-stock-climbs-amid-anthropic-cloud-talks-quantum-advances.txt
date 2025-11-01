@@ -1,5 +1,0 @@
-title: Google Stock Climbs Amid Anthropic Cloud Talks, Quantum Advances
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=c9428a3ee39c3c033fb057df29f383614541e98d5ad10d06dd0cb141e12b0c76
-Google stock climbed amid a report that Anthropic could be a new cloud computing customer while its CEO claimed more quantum computing advances in a blog.

@@ -1,5 +1,0 @@
-title: BofA says history shows no penalty for buying S&P 500 at all-time highs
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=f15cdf053c8445a2f2f5c4250ef8fe2a1533bf86a092272b30588c5a9760d71b
-Investing.com -- Bank of America said in a note Thursday that investors should not fear buying U.S. equities at record levels, noting that “over the past fifty years, S&P 500 returns showed no penalty versus buying on any other occasion, and five years later there was on average a meaningful boost.”

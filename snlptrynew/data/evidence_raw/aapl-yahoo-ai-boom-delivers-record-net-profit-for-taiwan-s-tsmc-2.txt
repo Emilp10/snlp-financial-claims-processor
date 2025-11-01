@@ -1,5 +1,0 @@
-title: AI boom delivers record net profit for Taiwan's TSMC
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=05f2fd5a517b8c0d1d22be39236989d5261a0d9358e48fa23827cc2563713815
-Taiwanese tech titan TSMC reported Thursday a record net profit for the third quarter on skyrocketing demand for microchips used to power iPhones and artificial intelligence.TSMC said net profit for the three months to September soared 39.1 percent from a year ago to NT$452.3 billion (US$14.7 billion), a quarterly record.

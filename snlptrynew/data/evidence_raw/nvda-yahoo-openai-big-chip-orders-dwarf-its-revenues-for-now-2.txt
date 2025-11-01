@@ -1,5 +1,0 @@
-title: OpenAI big chip orders dwarf its revenues -- for now
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=e7e7dfdbe8f031686c87a31b8354ee58e933f24b70a91ccecd8384f5eed60e6a
-OpenAI is ordering hundreds of billions of dollars worth of chips in the artificial intelligence race, raising questions among investors about how the startup will finance these purchases."They will need hundreds of billions of dollars to live up to their obligations," said Gil Luria, managing director at D.A. Davidson, a financial consulting firm.

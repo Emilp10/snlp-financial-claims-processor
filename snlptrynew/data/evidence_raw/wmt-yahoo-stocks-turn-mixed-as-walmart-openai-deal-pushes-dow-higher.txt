@@ -1,5 +1,0 @@
-title: Stocks Turn Mixed as Walmart-OpenAI Deal Pushes Dow Higher
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=8f50c410bfc3666443ce13b918bf29d1e41198ec79c19c42bd1ad4e10b7fa6a4
-The S&P 500 Index ($SPX ) (SPY ) today is up 0.09%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up 0.54%, and the Nasdaq-100 Index ($IUXX ) (QQQ ) is down -0.25%. December E-mini S&P futures (ESZ25 ) are up 0.06%, and December E-mini Nasdaq futures (NQZ25...

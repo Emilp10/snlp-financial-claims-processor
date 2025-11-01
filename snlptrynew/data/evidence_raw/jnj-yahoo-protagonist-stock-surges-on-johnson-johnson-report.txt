@@ -1,5 +1,0 @@
-title: Protagonist Stock Surges on Johnson & Johnson Report
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=b6557535e1e3359c145acd6cc48c75fe6f16ebf4270b76ee58b2a32241508cac
-Protagonist Therapeutics shares soared 30% Friday after The Wall Street Journal reported that the biopharma company was in talks with Johnson & Johnson about a possible acquistion. See more of the exclusive ...

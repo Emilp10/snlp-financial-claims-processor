@@ -1,5 +1,0 @@
-title: Latest News In AI Chips - Nscale Expands AI Partnership with Microsoft and NVIDIA
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=555ac6f4110042a8a600d1651aa4fbc69fbab1a9f3da96c797ee0af3ae73a2f0
-Nscale has announced a significant expansion of its partnership with Microsoft, contracting approximately 200,000 NVIDIA GB300 GPUs to enhance AI infrastructure across Europe and the U.S. This large-scale deployment, which is among the biggest AI infrastructure contracts on record, aims to support surging enterprise demand for AI technologies. Collaborating with Dell Technologies, the rollout will be executed through Nscale's operations and joint ventures, with key installations planned in...

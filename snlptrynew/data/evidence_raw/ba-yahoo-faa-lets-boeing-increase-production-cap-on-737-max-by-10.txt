@@ -1,5 +1,0 @@
-title: FAA Lets Boeing Increase Production Cap on 737 MAX by 10%
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=aebe6a842dcc237d1c8afc51ad1e7a7bb5475262d376ac33ece8bf8e7cdac80a
-The company can now increase production to 42 planes a month from 38, the limit put in place after a fuselage panel blew off a jet midair in January 2024.

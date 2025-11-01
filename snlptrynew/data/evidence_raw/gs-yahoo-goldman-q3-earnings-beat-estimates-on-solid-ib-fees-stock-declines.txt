@@ -1,5 +1,0 @@
-title: Goldman Q3 Earnings Beat Estimates on Solid IB Fees, Stock Declines
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=5f3ed11c86c0588b8e7dc98db6b01614d3897e4e326553d329dafc2c0c373a4d
-GS tops estimates with strong investment banking fees and trading gains, though its stock slips after the results.

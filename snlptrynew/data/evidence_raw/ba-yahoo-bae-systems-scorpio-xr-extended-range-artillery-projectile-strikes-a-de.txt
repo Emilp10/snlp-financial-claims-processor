@@ -1,5 +1,0 @@
-title: BAE Systems' Scorpio-XR extended range artillery projectile strikes a decisive blow
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=952fea8a7a78317797a4cf851031ecced6b21d10cb69df50d6a435eddd380d26
-BAE Systems (LON: BA) and the U.S. Army Combat Capabilities Development Command Armaments Center (DEVCOM AC) successfully tested the Scorpio-XR artillery projectile from a 155mm howitzer. With multiple shots significantly exceeding test objective requirements by guiding to and impacting the target, the tests demonstrated the compatibility of the Scorpio-XR rounds with 155mm 52-caliber Joint Ballistics Memorandum of Understanding howitzers.

@@ -1,5 +1,0 @@
-title: Morgan Stanley (MS) Reports Q3 Earnings: What Key Metrics Have to Say
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=3afb65ce5de7bced87b4a06715da15c08003f0ed269297640f4c0ce6e70829d8
-Although the revenue and EPS for Morgan Stanley (MS) give a sense of how its business performed in the quarter ended September 2025, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.

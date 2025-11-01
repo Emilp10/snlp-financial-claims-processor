@@ -1,5 +1,0 @@
-title: Why Arm Holdings Stock Was Moving Higher This Week
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=66b7e53bc0d3ecc584cad1e767b2b5e25572f6ebe4c0b31e44e6c01cad81f879
-Trade tensions with China cooled off, favoring Arm stock.

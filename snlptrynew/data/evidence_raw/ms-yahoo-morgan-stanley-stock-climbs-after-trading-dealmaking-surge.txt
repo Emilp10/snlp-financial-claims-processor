@@ -1,5 +1,0 @@
-title: Morgan Stanley Stock Climbs After Trading, Dealmaking Surge
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=31af2d05261958c43703760eb20b5779d77337c8d1b9a899f71a1a7e69364b4a
-Morgan Stanley shares rose more than 5%, tops among large U.S. banks Wednesday, after its profit jumped in the third quarter, fueled by a surge in dealmaking and trading revenue. The New York-based bank joined Goldman Sachs, JPMorgan Chase and other large banks that all beat profit and revenue forecasts for the quarter.

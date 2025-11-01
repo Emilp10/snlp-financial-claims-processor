@@ -1,5 +1,0 @@
-title: Amazon crash caused biggest-ever internet blackout
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=3501e0ab015a0d333f621f99635cec0d7fb92a671ded525feac6ea265d7e89a9
-A devastating crash of Amazon’s cloud computer systems triggered the world’s biggest ever internet blackout, according to a web monitoring company.

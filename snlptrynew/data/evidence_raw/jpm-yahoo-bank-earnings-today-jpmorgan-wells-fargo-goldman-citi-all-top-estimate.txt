@@ -1,5 +1,0 @@
-title: Bank Earnings Today: JPMorgan, Wells Fargo, Goldman, Citi All Top Estimates
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=7bd02af43c2b26f926913e069b2c3f547549a30cd5778f1de1aa7577fcc25f5e
-↘️ JPMorgan Chase (JPM): The U.S. bank topped expectations with a 12% jump in quarterly profit. However, CEO Jamie Dimon warned of uncertainty ahead related to geopolitical tensions, tariffs and inflation risks.

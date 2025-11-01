@@ -1,5 +1,0 @@
-title: Google’s Expanding Cloud Partnership With Anthropic Might Change The Case For Investing In Alphabet (GOOGL)
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=c490ef982e7ae175e90cfe18f0903e64659db761827f7acf6cdeddd730626032
-Reports have emerged that Anthropic, the artificial intelligence company behind the Claude chatbot, is in advanced talks with Google to secure additional cloud computing power valued in the high tens of billions of US dollars. This would expand on the existing partnership, with Google providing Anthropic access to its custom AI chips and cloud infrastructure. This development highlights Google's growing influence in the generative AI ecosystem and signals its deepening integration within the...

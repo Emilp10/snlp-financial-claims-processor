@@ -1,5 +1,0 @@
-title: TSMC Q3 profit expected to set record on AI spending boom
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=79b0c892924d4e942693cee037606fe8db076c3caddd2f47d345ee578d2678e1
-TAIPEI (Reuters) -TSMC, the world's largest manufacturer of advanced artificial intelligence chips, is set to post a 28% jump in third-quarter profit to reach a record high due to surging demand for AI infrastructure, though U.S. tariffs may complicate its outlook.  Taiwan Semiconductor Manufacturing Co, the world's biggest contract chipmaker and a key supplier to Nvidia and Apple, is likely to report a net profit of T$417.7 billion ($13.65 billion) for the three months through September 30, showed an LSEG SmartEstimate compiled from 20 analysts.  TSMC has already flagged a market-forecast-beating rise in third-quarter revenue of 30%.

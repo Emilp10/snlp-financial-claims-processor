@@ -1,5 +1,0 @@
-title: From back office to frontline: Unlocking AI’s revenue potential in banking
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=ed575f30d2379f0fd6783d65ea0e8e2ca8b59e59d0360b09269202b24344be8c
-While cost-cutting is important, banks are overlooking AI’s biggest opportunity: fuelling growth through hyper-personalisation, predictive analytics, and dynamic pricing, all while staying on the right side of compliance, explains Radi El Haj

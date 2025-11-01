@@ -1,5 +1,0 @@
-title: Pfizer Declares Fourth-Quarter 2025 Dividend
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=357b6add9608000159ef287c71b1ae762cad514926f6a6e43ee769103ff44acb
-NEW YORK, October 09, 2025--Pfizer Inc. (NYSE: PFE) today announced that its board of directors declared a $0.43 fourth-quarter 2025 dividend on the company’s common stock, payable December 1, 2025, to holders of the Common Stock of record at the close of business on November 7, 2025. The fourth-quarter 2025 cash dividend will be the 348th consecutive quarterly dividend paid by Pfizer.

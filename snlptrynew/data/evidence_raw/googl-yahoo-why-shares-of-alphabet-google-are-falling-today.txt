@@ -1,5 +1,0 @@
-title: Why Shares of Alphabet (Google) Are Falling Today
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=f097968da30b9ef8f2d838330d249a83977f6be0b22aafb47ee4ffaa4f7c6331
-OpenAI, the parent company of ChatGPT, teased its own artificial intelligence-powered web browser.

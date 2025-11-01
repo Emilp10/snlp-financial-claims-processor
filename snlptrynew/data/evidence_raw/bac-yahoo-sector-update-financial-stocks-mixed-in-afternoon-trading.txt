@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Mixed in Afternoon Trading
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=d4f69fc3682511781e46b855006b3d4b84d305d3d3ce8cde0906f9175b1d8dd2
-Financial stocks were mixed in Tuesday afternoon trading with the NYSE Financial Index little change

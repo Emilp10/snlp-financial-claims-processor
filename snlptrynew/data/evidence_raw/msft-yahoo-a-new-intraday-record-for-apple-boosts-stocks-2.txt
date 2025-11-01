@@ -1,5 +1,0 @@
-title: A New Intraday Record for Apple Boosts Stocks
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=024a6249f2f101ce6235b195a526645750a70dc25086a3eabbf4612c706607fc
-A big day from Apple is lifting stocks back toward records. Shares hit their first new intraday high since December after a report of a strong start to sales of this year’s iPhone models. Apple’s market value topped $3.

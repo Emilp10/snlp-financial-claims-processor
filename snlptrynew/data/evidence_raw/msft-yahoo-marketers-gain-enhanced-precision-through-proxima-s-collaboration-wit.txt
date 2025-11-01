@@ -1,5 +1,0 @@
-title: Marketers Gain Enhanced Precision Through Proxima’s Collaboration with Microsoft Curate for Commerce
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=4a91519d371675137e5f63d3e613da23cbd031e725bf1370347b17bc838e1e54
-NEW YORK, October 16, 2025--Proxima, a data intelligence platform that specializes in precision marketing, today announced that they are leveraging Microsoft Curate for Commerce to enable advertisers to target their social-first, first-party ecommerce transaction-based audiences across Microsoft Monetize supply. These audience deals will be offered exclusively via Microsoft Advertising and can be activated via advertisers’ DSP of choice.

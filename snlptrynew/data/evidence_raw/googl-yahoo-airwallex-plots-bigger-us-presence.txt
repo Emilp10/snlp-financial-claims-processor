@@ -1,5 +1,0 @@
-title: Airwallex plots bigger US presence
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=b6f74c7019c6a20b6a016ca24f1bf9d95752de208d39cc22b5eb2038e10c681e
-The payments platform will use its recent acquisition of U.S. startup OpenPay to build out a billing platform in the Americas.

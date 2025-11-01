@@ -1,5 +1,0 @@
-title: Tensormesh raises $4.5M to squeeze more inference out of AI server loads
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=4ca09fc8421387a53e28e7181a4c1b0f9c3d9addd6119f95ccafc1d8843891d0
-Tensormesh uses an expanded form of KV caching to make inference loads as much as 10 times more efficient.

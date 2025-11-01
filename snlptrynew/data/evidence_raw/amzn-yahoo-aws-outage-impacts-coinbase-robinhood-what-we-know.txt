@@ -1,5 +1,0 @@
-title: AWS outage impacts Coinbase, Robinhood: What we know
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=dd745f9c8a868c850def28debaed71b7d70f8a8314365bdf72314c3ad06ca4ac
-Amazon's (AMZN) cloud services platform, Amazon Web Services (AWS), is experiencing a widespread outage, affecting major platforms and websites like Coinbase (COIN), Robinhood (HOOD), Snapchat (SNAP). Yahoo Finance Technology Editor Dan Howley joins Morning Brief host Julie Hyman to discuss what we know. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.

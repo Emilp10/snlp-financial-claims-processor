@@ -1,5 +1,0 @@
-title: CyViation Collaborates With Boeing to Improve Aircraft Cybersecurity & Regulatory Readiness
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=6129854996e7b83a13e665dbc0cee0ad5da20d95c60552b0a238ec3e352b58e9
-NEW YORK, October 15, 2025--CyViation, a cybersecurity company dedicated to aviation safety, is collaborating with Boeing Aviation Business Solutions (ABS) to support aircraft cyber risk assessments and compliance. ABS will begin offering CyViation’s SkyRay™ platform to support its clients with evidence-based solutions in their Digital and Cybersecurity consulting practice.

@@ -1,5 +1,0 @@
-title: Dow's 500-point rally led by gains in shares of Salesforce, Nike
-source: MarketWatch
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=aa42a1f1654512ca24c10b787e0f1f1dcff82834651cf1e071890aa3cf879071
-Dow's 500-point rally led by gains in shares of Salesforce, Nike

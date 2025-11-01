@@ -1,5 +1,0 @@
-title: NII, Fee Income Growth to Support Wells Fargo's Q3 Earnings
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=ec6fe564b9932fb83117447adab0a4b661701dccfebd1c59e295bb6f2311b0fa
-WFC's Q3 results may get a lift from higher fee income and modest NII growth amid stable rates and tighter cost control.

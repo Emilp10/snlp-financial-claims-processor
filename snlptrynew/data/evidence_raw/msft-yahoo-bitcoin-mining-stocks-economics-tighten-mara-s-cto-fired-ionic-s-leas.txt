@@ -1,5 +1,0 @@
-title: Bitcoin mining stocks: economics tighten, MARA’s CTO fired, Ionic’s lease with Microsoft, Bitdeer’s 20% growth, and BlackRock’s $40 billion NVIDIA deal
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d6a02e5984dfa9ed99c73f0152aa87c365a50bc4dba049a0e89b406d174bd9b0
-Read the news that turned heads this week in Bitcoin mining.

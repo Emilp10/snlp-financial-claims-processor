@@ -1,5 +1,0 @@
-title: Top Stock Movers Now: IBM, Tesla, Molina Healthcare, and More
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=63e70da3f91b6bf8c48d05deddc0e15b4bec24f5b23e379a2f74d77cf4a8c673
-Major U.S. equities indexes mostly advanced Thursday as investors monitored China trade developments and digested the latest batch of corporate earnings.

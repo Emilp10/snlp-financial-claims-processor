@@ -1,5 +1,0 @@
-title: Factbox-From OpenAI to Meta, firms channel billions into AI infrastructure as demand booms
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=612dcd007e19ed0ec8b269c23624aa6d2a143d49dfdcb0491e0fd9b05336c323
-OpenAI has partnered with Broadcom to produce its first in-house artificial intelligence processors, the latest tie-up for the world's most valuable startup for computing power amid surging demand for its services.  AMD agreed to supply artificial intelligence chips to OpenAI in a multi-year deal that would also give the ChatGPT creator the option to buy up to roughly 10% of the chipmaker.

@@ -1,5 +1,0 @@
-title: Goldman Sachs Bear Call Spread Could Net 16% in Four Weeks
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=4b73785e3c887b09f6eca7dbb31f13bf6346b7b3de8e009bc141cfcaf72ee604
-Goldman Sachs stock has been trending lower for the last few weeks and is now below the 50-day moving average. I’m willing to bet that the stock won’t rise too much further, and today we’re going to look at a Bear Call spread trade that assumes GS won’t rise above 810 in the next four weeks..

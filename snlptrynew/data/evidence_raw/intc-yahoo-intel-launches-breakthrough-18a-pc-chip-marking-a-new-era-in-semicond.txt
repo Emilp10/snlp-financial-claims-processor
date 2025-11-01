@@ -1,5 +1,0 @@
-title: Intel Launches Breakthrough 18A PC Chip, Marking a New Era in Semiconductor Innovation
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=8ed165c6d2a7a39bdc82d8f97da08c49be56e70da79514dbb1748323ba866ef3
-Panther Lake processor aims to restore Intel's edge in AI-powered laptops

@@ -1,5 +1,0 @@
-title: Morgan Stanley (NYSE:MS) Surprises With Strong Q3
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=86a929e22d39a7e52ba29d3766b154028fd25f73594c5e7d5d9f635a11f416b5
-Global financial services firm Morgan Stanley (NYSE:MS) reported Q3 CY2025 results beating Wall Street’s revenue expectations, with sales up 18.5% year on year to $18.22 billion. Its GAAP profit of $2.80 per share was 32.6% above analysts’ consensus estimates.

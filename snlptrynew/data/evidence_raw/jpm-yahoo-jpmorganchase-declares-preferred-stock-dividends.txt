@@ -1,5 +1,0 @@
-title: JPMorganChase Declares Preferred Stock Dividends
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=8b581bfee3caa42b1f6ba672047764965e4298bcec1807f1e56c89a7767c0345
-NEW YORK, October 15, 2025--JPMorgan Chase & Co. (NYSE: JPM) ("JPMorganChase" or the "Firm") has declared dividends on the outstanding shares of the Firm’s Series DD, EE, GG, JJ, KK, LL, MM and NN preferred stock. Information can be found on the Firm’s Investor Relations website at https://www.jpmorganchase.com/ir/news.

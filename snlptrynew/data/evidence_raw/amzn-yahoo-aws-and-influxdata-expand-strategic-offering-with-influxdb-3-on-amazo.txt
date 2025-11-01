@@ -1,5 +1,0 @@
-title: AWS and InfluxData Expand Strategic Offering with InfluxDB 3 on Amazon Timestream for InfluxDB
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=d54a15672105e31fd70678e78e779d6a35ddea8d1649680dbadbda1b8568908a
-SAN FRANCISCO, October 16, 2025--InfluxData, creator of the leading time series database, InfluxDB, today announced the availability of InfluxDB 3 Core and InfluxDB 3 Enterprise to Amazon Timestream for InfluxDB. InfluxDB 3 Core is an open source, high-speed, recent-data engine for real-time applications. InfluxDB 3 Enterprise adds high availability, enhanced security, performance, and scalability for production environments. This marks the first time InfluxDB 3 is available on Amazon Web Servic

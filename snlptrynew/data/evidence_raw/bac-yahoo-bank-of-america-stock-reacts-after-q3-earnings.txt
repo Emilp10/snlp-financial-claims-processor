@@ -1,5 +1,0 @@
-title: Bank of America stock reacts after Q3 earnings
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=2ce3dfe364d97602dea59e775b4d19d802b6a6d54c2b7579f5bffe9ad2b1b230
-Bank of America’s stock surged 4.7% on Wednesday, nearing its 52-week high of $52.88, after the bank posted stronger-than-expected Q3 2025 earnings, fueled by record net interest income and business growth. The bank reported net income of $8.5 billion, up from $6.9 billion a year earlier, while ...

@@ -1,5 +1,0 @@
-title: Walmart's International Sales Up 10.5%: China & Walmex Drive Gains
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=0bd39d08280394014f8efc55b653fe7eea3fed9c5e42e50c7832bd35d061f08f
-WMT's International arm surges 10.5%, fueled by booming China sales and strong Walmex and Flipkart momentum despite currency drag.

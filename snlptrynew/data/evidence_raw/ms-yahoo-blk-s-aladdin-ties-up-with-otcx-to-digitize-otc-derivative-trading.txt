@@ -1,5 +1,0 @@
-title: BLK's Aladdin Ties Up With OTCX to Digitize OTC Derivative Trading
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=4149eb4c6ab901fc8f888fea1521046b73da2f7bc299a3fcc75ccb949fa493bb
-BlackRock's Aladdin teams up with OTCX to digitize OTC derivative trading, streamlining workflows and boosting efficiency for institutional clients.

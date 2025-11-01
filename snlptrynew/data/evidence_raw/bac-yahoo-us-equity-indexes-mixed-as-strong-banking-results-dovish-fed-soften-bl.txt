@@ -1,5 +1,0 @@
-title: US Equity Indexes Mixed as Strong Banking Results, Dovish Fed Soften Blow from China Trade Tensions
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=ea3308ea203f2dad4468dea171990627f1b496259274c0e30dadbd707cde35fc
-US equity indexes closed mixed on Wednesday as investors weighed strong quarterly results and a dovi

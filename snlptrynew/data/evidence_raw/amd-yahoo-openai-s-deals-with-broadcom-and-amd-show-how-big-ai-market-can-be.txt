@@ -1,5 +1,0 @@
-title: OpenAI’s Deals With Broadcom and AMD Show How Big AI Market Can Be
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=f67a44a4f9a22bac354e6e37502f556c67a3d7f0b2ab44e9ed8a8676919016cb
-AMD also landed a major order from Oracle Corp. this week, further juicing its shares.  Meanwhile, Broadcom unveiled its own agreement with OpenAI on Monday, sending its shares up 10% in a single session, their best performance since April.  “OpenAI clearly can’t rely just on Nvidia,” said Eric Clark, portfolio manager of the Rational Dynamic Brands Fund, which has less than $70 million in assets under management, according to data compiled by Bloomberg.

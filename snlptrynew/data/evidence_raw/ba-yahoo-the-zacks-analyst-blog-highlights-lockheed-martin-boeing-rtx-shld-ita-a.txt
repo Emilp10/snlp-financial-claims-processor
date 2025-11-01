@@ -1,5 +1,0 @@
-title: The Zacks Analyst Blog Highlights Lockheed Martin, Boeing, RTX, SHLD, ITA and PPA
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=a1202252a2a3abaedb343de45e7f4eaa0f321bd4e14d3eade5460910e1224bcd
-As the Gaza ceasefire falters, defense stocks like Lockheed Martin, Boeing, and RTX surge, putting ETFs ITA, PPA, and SHLD in focus.

@@ -1,5 +1,0 @@
-title: Stocks to Watch Wednesday: Bank of America, Morgan Stanley, LVMH, ASML
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=d8fbc3c35d2434cad806503f110b966b6327bd3bbe2fbd710bb2ae1937a7a4ec
-↗️ Bank of America (BAC): The bank reported quarterly earnings and revenue that bested analysts’ expectations, thanks to healthy consumer activity and a busy summer in investment banking. Shares gained about 4%.

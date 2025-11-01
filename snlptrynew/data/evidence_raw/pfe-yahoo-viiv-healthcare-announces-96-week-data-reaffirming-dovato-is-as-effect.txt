@@ -1,5 +1,0 @@
-title: ViiV Healthcare announces 96-week data reaffirming Dovato is as effective as Biktarvy in maintaining virological suppression of HIV-1 with significantly less weight gain
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=07220e928f12cba8ea1ca340d099768190a7c8e4e5122219437b76169e24c000
-DURHAM, N.C., October 17, 2025--ViiV Healthcare, the global specialist HIV company majority owned by GSK, with Pfizer and Shionogi as shareholders, today announced 96-week findings from PASO DOBLE (GeSIDA 11720 study) showing that Dovato (dolutegravir/lamivudine [DTG/3TC]) is as effective as Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide fumarate [BIC/FTC/TAF]) in maintaining virological suppression in adults with HIV-1. Individuals taking Dovato also experienced statistically signifi

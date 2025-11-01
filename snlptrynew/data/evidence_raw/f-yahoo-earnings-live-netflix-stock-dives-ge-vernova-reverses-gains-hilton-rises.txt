@@ -1,5 +1,0 @@
-title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=1f9dd8f36265be32d05b6caeab1e83d70e9d4fa4499a9490f8911477e8b53011
-Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.

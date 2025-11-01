@@ -1,5 +1,0 @@
-title: Pfizer's Q3 Non-Oncology Performance: Here's What to Expect
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=75c5f00381b9f27489f8f22839b9a2eb2ff6cab138e0836f22ad24a1d0527c4f
-Pfizer's Q3 results are set to reveal mixed trends across non-oncology drugs, with strong Eliquis and Paxlovid sales offset by weakness in Abrysvo and Xeljanz.

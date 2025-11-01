@@ -1,5 +1,0 @@
-title: What Oracle (ORCL)'s Bold AI Cloud Strategy and 2030 Targets Mean for Shareholders
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=efe3b61d078a86e12a7d4bdb8dfbf167b6c17759ec8cafa3d74ac54d3b444d71
-Oracle hosted its Financial Analyst Day and AI World event, unveiling ambitious revenue and profit targets for fiscal 2030 focused on AI-driven cloud infrastructure growth and announcing partnerships with Meta, AMD, and IBM, alongside an expanded suite of AI-powered enterprise products and services. While the company emphasized extensive AI infrastructure deals and showcased growth in its remaining performance obligations well above US$500 billion, the updates also brought to light investor...

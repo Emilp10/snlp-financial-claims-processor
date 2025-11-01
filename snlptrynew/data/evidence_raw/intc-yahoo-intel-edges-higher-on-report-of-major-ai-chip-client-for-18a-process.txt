@@ -1,5 +1,0 @@
-title: Intel Edges Higher on Report of Major AI Chip Client for 18A Process
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d7020bb9be2f2720350979ed2fcef178e9b1e77a4f1ac3630812a9feb4fb32fa
-Speculation points to Microsoft as a key customer for Intel's advanced foundry platform.

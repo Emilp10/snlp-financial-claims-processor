@@ -1,5 +1,0 @@
-title: Meta cuts 600 AI jobs amid ongoing reorganization
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=768f277321af61f8f97d2f564f52ed57cae0b031850f564665f9f79f9098e90c
-Meta continues to restructure its AI efforts after poaching more than 50 researchers from competing labs this summer.

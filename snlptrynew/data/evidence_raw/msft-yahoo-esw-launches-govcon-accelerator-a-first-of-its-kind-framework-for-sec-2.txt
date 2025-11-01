@@ -1,5 +1,0 @@
-title: ESW Launches GovCon Accelerator™: A First-of-Its-Kind Framework for Secure, Compliance-Driven Microsoft 365 Deployments in GCC High
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=30937bc86171a85b24755ed6eab45b941aa264119d8182b3d5e61e4e1676a3f7
-NEW YORK, Oct. 21, 2025 (GLOBE NEWSWIRE) -- ESW (eSoftware Associates), a seasoned Microsoft Partner known for secure collaboration, Intune, and Power Platform services in high-assurance environments, today announced the launch of its GovCon Accelerator™ — a modular, battle-tested framework designed to help government contractors deploy and operate Microsoft 365 in GCC High with confidence and compliance. Built from real engagements in defense and government sectors, the GovCon Accelerator™ enca

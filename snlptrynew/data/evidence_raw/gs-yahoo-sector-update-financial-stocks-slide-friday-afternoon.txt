@@ -1,5 +1,0 @@
-title: Sector Update: Financial Stocks Slide Friday Afternoon
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=0457e587e8592fe05259a88d43f4de50814da202400205b76f7e9a0b47354dab
-Financial stocks were falling in Friday afternoon trading, with the NYSE Financial Index down 1.3% a

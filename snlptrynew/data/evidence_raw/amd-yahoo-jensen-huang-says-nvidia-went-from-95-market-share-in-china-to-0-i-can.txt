@@ -1,5 +1,0 @@
-title: Jensen Huang says Nvidia went from 95% market share in China to 0% — ‘I can’t imagine any policymaker thinking that that’s a good idea’
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=be2d457e47d60650536fef2ddac247572daf73ef76559a69a57d3a301d87e1e7
-"Before we leap towards policies that are hurtful to other people, take a step back and maybe reflect on what are the policies that are helpful to America."

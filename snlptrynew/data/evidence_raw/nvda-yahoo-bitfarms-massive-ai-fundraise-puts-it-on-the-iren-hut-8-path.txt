@@ -1,5 +1,0 @@
-title: Bitfarms Massive AI Fundraise Puts It on the IREN, Hut 8 Path
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=bb36627a4548c56c364baa42895335f2d1e5fbd839af781b877a958840b9bca6
-Bitfarms Ltd. (NASDAQ:BITF) is moving beyond Bitcoin (CRYPTO: BTC) mining into the fast-growing sector of high-performance computing (HPC) and AI datacenters. Last week, the company announced a $500 million convertible notes offering to finance the ...

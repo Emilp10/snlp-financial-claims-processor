@@ -1,5 +1,0 @@
-title: Advanced Micro Devices, Inc. (NASDAQ:AMD) is Considering Intel for its Foundry Business
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=9f850117d2a2a1ddb552089ee965c0802ebd4a3d9ddc069212965872c6b13df4
-Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the high-growth semiconductor stocks that are profitable in 2025. On October 1, reports emerged indicating the company could ink a deal with Intel for the manufacture of its chips. AMD manufacturing its chips at Intel would be a significant win for Intel’s foundry business as the company […]

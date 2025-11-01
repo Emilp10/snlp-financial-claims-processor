@@ -1,5 +1,0 @@
-title: Tesla Earnings: By the Numbers
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=064741e518140f75a2c8891bb4c0833e6e59a5359aedd0731f72b71b3cba949f
-Tesla's profit fell during the third quarter, sending the electric-vehicle maker's shares about 1.4% lower in after-hours trading. Here are some of the key figures in the release:    Net income fell 37% in the third quarter, despite U.

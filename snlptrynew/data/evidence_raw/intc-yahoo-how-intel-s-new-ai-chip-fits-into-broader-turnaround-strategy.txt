@@ -1,5 +1,0 @@
-title: How Intel's new AI chip fits into broader turnaround strategy
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=34e87c1ab2e8e884b3d561ba08735be813406e50c03de028125754dd843de478
-Intel (INTC) has revealed a new GPU data center artificial intelligence (AI) chip: Crescent Island. Yahoo Finance Technology Editor Dan Howley joins Market Domination host Josh Lipton to explain what we know so far and how it ties into the company's broader turnaround strategy. To watch more expert insights and analysis on the latest market action, check out more Market Domination.

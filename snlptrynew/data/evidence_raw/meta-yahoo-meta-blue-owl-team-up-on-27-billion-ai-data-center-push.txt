@@ -1,5 +1,0 @@
-title: Meta, Blue Owl Team Up On $27 Billion AI Data Center Push
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=851ae7317cfdcad534d2a79f6f5c7189473ab8027421823dcfddf6988b332133
-The Hyperion project cements Meta's bold AI infrastructure expansion.

@@ -1,5 +1,0 @@
-title: Morgan Stanley Beats Quarterly Estimates on Investment Banking, Equity Trading Gains
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=bc2b0058a5b18e36ff22846e797952fbc3916b930e83cdffe20a55030632a0d5
-Morgan Stanley's (MS) third-quarter results topped market estimates as the lender recorded double-di

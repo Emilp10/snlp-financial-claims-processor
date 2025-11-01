@@ -1,5 +1,0 @@
-title: Equities Rise as Trade, Banking Concerns Subside; Wall Street Posts Weekly Gains
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=7d2e1b29f4bafd800a0de4d238e12a5c83cc28835002aef8ef0e7b3e34e73196
-US stocks rose Friday, capping off a winning week as trade tensions with China appeared to ease whil

@@ -1,5 +1,0 @@
-title: Oracle Welcomes 10 Defense Firms, Including American Binary Startup, To Combat 12-Year Pentagon Weapons Delay With Rapid AI And Cyber Solutions
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=639d02353959dd2d4de0703881cb5c793a34317dea35ca4e7f7788749577daf1
-Oracle (NYSE:ORCL) welcomed 10 defense technology companies into its second Defense Ecosystem cohort on Oct. 13, expanding an initiative that helps defense startups and scale-ups deliver artificial intelligence, cybersecurity tools, and autonomous ...

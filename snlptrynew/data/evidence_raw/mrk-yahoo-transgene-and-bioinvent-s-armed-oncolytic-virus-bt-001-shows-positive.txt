@@ -1,5 +1,0 @@
-title: Transgene and BioInvent's Armed Oncolytic Virus BT-001 Shows Positive Local, Abscopal, and Sustained Antitumoral Activity in Advanced Refractory Tumors
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=4cd90b68fb7bcff62441859b49ee02348a1e54db9557bb8e071ae02d2f605df4
-BT-001 in combination with pembrolizumab is well tolerated and shows sustained antitumoral activity in both injected and non-injected lesions Data support further development of BT-001 in solid tumors to improve response to cancer immunotherapy LUND, ...

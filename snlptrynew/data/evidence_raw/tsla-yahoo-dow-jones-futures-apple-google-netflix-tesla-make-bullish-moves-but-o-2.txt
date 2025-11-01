@@ -1,5 +1,0 @@
-title: Dow Jones Futures: Apple, Google, Netflix, Tesla Make Bullish Moves, But Oracle Dives
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=e5be15320789135ed0d608edfb5c9668b7c4ab7b3acc45c02a00d0eebdcdaeda
-Dow Jones Futures: Apple, Google, Netflix and Tesla made bullish moves Monday. But Oracle stock continued to sell off.

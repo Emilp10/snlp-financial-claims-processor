@@ -1,5 +1,0 @@
-title: Amazon Outage Rocks The Internet: Can Crypto Breakthrough as Web3 Stands Strong?
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=8293a984e9a0f3a82053927ebc2e595814540440fbc12ed2969d07d78871226d
-A single glitch in Amazon’s cloud sent shock waves across the internet and reignited questions about whether decentralized Web3 systems could hold up better. Amazon Web Services (AWS) suffered a major outage on Monday, knocking offline a wide range of apps and websites around the world. The disruption hit platforms ...

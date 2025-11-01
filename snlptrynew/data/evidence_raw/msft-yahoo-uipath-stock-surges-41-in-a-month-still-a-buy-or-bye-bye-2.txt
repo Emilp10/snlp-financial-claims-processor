@@ -1,5 +1,0 @@
-title: UiPath Stock Surges 41% in a Month: Still a Buy or Bye-Bye?
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=1e5b4c132a7baa47665828141a65d907173d485dd2d3460d4a13bca2dbdd7264
-PATH's 41% monthly surge, strong RPA leadership and debt-free balance sheet highlight its growth momentum amid rising AI automation demand.

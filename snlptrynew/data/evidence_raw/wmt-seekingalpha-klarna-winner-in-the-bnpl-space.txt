@@ -1,5 +1,0 @@
-title: Klarna: Winner In The BNPL Space
-source: SeekingAlpha
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=bbd725d5c06d8060dbf73640bd82b8c3793972a3e600f2a1498d2cdd6532e1d2
-Klarna's U.S. expansion, anchored by Walmart and Stripe partnerships and integrations with major PSPs, underpins the >20% growth outlook. Read why KLAR is a Buy.

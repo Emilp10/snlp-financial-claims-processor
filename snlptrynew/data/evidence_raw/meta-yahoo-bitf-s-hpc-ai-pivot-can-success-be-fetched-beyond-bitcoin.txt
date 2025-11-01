@@ -1,5 +1,0 @@
-title: BITF's HPC & AI Pivot: Can Success Be Fetched Beyond Bitcoin?
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=91601aebece324bc3b299b9dfbacff77caceb32b4d439efd051cb825e4e312be
-Bitfarms' bold shift into HPC and AI, backed by major investments and institutional support, aims to redefine its future beyond Bitcoin mining.

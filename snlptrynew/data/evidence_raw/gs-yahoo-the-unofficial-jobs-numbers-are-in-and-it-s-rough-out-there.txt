@@ -1,5 +1,0 @@
-title: The Unofficial Jobs Numbers Are In and It’s Rough Out There
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=f316aeebb5718af738132c524952d409c34cf7cd61744ef8d95bc8cb26b0a030
-In a federal data blackout, Wall Street numbers and surveys are filling the void, and the nongovernment numbers are telling the same basic story: Few companies are hiring.

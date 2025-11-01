@@ -1,5 +1,0 @@
-title: What is quantum computing, and why are Big Tech and Washington interested in it?
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=c0928999e964961e8c87a579bfdd967d7cb2e8143ac47e49102358603e28f081
-Quantum computing is gaining steam among Big Tech companies and drawing increased interest from Washington. Here's what the technology is and what it means for the future.

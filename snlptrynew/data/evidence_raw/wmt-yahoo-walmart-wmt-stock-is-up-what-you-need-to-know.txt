@@ -1,5 +1,0 @@
-title: Walmart (WMT) Stock Is Up, What You Need To Know
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=dac8a1b8c8950480e3c4e2387536508eeaa4ccb9b482fe49a186e741dc1733f9
-Shares of retail behemoth Walmart (NYSE:WMT) jumped 3.7% in the afternoon session after the company announced a partnership with OpenAI to create 'AI-first shopping experiences.'

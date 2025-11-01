@@ -1,5 +1,0 @@
-title: Sector Update: Health Care Stocks Higher Tuesday Afternoon
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=983ed27b3faedc31205ecceedc7dbc2bf60c4e5bcda89ba07a35221f8997ad9b
-Health care stocks edged higher Tuesday afternoon, with the NYSE Health Care Index and the Health Ca

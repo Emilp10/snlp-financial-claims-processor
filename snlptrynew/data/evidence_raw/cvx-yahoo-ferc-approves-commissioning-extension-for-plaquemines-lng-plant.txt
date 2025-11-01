@@ -1,5 +1,0 @@
-title: FERC approves commissioning extension for Plaquemines LNG plant
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=c5a976f4aadec69a262ea2555fb52f624c355dea5899b6673efc01dd4dfaecd0
-This decision allows the company to delay full commercial operations and sell LNG on the spot market at potentially higher prices.

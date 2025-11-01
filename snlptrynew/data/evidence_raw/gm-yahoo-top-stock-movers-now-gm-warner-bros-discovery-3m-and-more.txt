@@ -1,5 +1,0 @@
-title: Top Stock Movers Now: GM, Warner Bros. Discovery, 3M, and More
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=ac335843fffa7a3822f0750d1facdd5a5d9e2650301f61dd4195779adf1063ad
-Major U.S. equities indexes were mostly higher at midday Tuesday, after a flurry of corporate earnings reports.

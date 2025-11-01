@@ -1,5 +1,0 @@
-title: Tech stocks roll on and Pfizer soars after Trump deal
-source: Yahoo
-date: 2025-10-04
-url: https://finnhub.io/api/news?id=8b348ed2869183840d0ea6943d38d6343cee82ba73a4e563c81794d893ec1c6e
-In the deal, Pfizer got tariff relief by agreeing to align U.S. Medicaid drug prices with the lowest prices paid by other developed nations.

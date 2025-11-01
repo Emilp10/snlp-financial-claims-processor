@@ -1,5 +1,0 @@
-title: Nvidia's Huang Says on Track to Make Half-Trillion Dollars of AI Technology By 2029
-source: Yahoo
-date: 2025-10-19
-url: https://finnhub.io/api/news?id=facef1733c2f85c6ff3509270d0448f9cdd5924c990aac3e9784d20f6ff94285
-Nvidia founder and CEO Jensen Huang says Friday's unveiling of a U.S.-made Blackwell wafer to make artificial intelligence chips domestically was "just the beginning."  The wafer was made at Taiwan Semiconductor's facility in Arizona.  "TSMC is an incredible partner in -- a strategic partner for United States and in bringing manufacturing of the most -- in most critical sector of technology here to United States," Huang told Fox News' The Sunday Briefing.

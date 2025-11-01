@@ -1,5 +1,0 @@
-title: Why Oracle (ORCL) Stock Is Down Today
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=00912c06c9a0270b833c2358519a25ddba4bd5b05016720891189eb69c21589d
-Shares of enterprise software giant Oracle (NYSE:ORCL) fell 7.1% in the morning session after the stock pulled back, as investors locked in some gains in reaction to the company's detailed long-term guidance, suggesting optimism might be cooling off.

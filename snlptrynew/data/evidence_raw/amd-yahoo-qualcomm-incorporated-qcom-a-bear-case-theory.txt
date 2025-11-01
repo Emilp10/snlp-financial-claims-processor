@@ -1,5 +1,0 @@
-title: QUALCOMM Incorporated (QCOM): A Bear Case Theory
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=253df7d43ee1f5cba165097110025d307171459860e21eb90f55651291cf0c3f
-We came across a bearish thesis on QUALCOMM Incorporated on Irrational Analysis’s Substack. In this article, we will summarize the bulls’ thesis on QCOM. QUALCOMM Incorporated’s share was trading at $169.20 as of September 26th. QCOM’s trailing and forward P/E were 16.33 and 13.99 respectively according to Yahoo Finance. Irrational Analysis highlights Qualcomm’s chronic underperformance in the […]

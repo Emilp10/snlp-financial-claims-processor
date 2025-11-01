@@ -1,5 +1,0 @@
-title: JumpCloud and Google Workspace to Launch New Cloud Productivity Solution for Enterprises
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=ed6adbbb4da733ca7764a23fd9c7a4fe5fc0c2eba92029221e841445d7fc0d6f
-JumpCloud Inc. today announced it is collaborating with Google Workspace to deliver the Work Transformation Set. This solution combines secure, AI-powered productivity and collaboration tools from Google Workspace with JumpCloud's identity, device, and access management. This is offered to enterprises in a single, cost-effective price and contract from Google.

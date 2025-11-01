@@ -1,5 +1,0 @@
-title: How major US stock indexes fared Monday, 10/20/2025
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=000422dca00e8227b08854ff6f7593fa70b70e2b6862a4a4fc87b8b802d4a9a7
-U.S. stocks rallied to the cusp of their records. The S&P 500 climbed 1.1% Monday and pulled within 0.3% of its all-time high set earlier this month. The Dow Jones Industrial Average jumped 515 points, and the Nasdaq composite gained 1.4%.

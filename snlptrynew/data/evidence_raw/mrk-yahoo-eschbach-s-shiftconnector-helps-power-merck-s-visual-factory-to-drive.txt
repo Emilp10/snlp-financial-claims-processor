@@ -1,5 +1,0 @@
-title: eschbach's Shiftconnector® Helps Power Merck's Visual Factory to Drive Greater Transparency, Agility, and Supply Chain Resilience
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=6594dac239c130537f7fb42fb49ac7ae0eb2dfda6363bbcc32785de686522a7d
-eschbach is pleased to share that Merck (NYSE: MRK), known as MSD outside the United States and Canada, has selected Shiftconnector to improve how it uses digital tools in manufacturing. By integrating Shiftconnector into its established visual factory framework, Merck is enhancing its ability to deliver real-time, actionable insights across global operations.

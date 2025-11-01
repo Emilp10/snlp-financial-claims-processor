@@ -1,5 +1,0 @@
-title: Stock Market Today: Dow Jumps After Fed's Powell Hints At Rate Cut; Nvidia Partner Vaults 30% (Live Coverage)
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=c449e06228348b37485b4d966e9f0beea32ec0162e042ddb262865439a542d75
-Stock Market Today: The Dow reverses higher after a speech from Fed Chair Jerome Powell helped the market set aside worries over U.S.-China tensions

@@ -1,5 +1,0 @@
-title: Why the Nvidia Deal Is Massive News for Intel Shareholders
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=fea9a6deec286231cce73ec02207d9140509e41a195cc007a42487f2012e0c1b
-Intel's new partnership with Nvidia should benefit the struggling chipmaker in many ways.

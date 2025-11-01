@@ -1,5 +1,0 @@
-title: Sector Update: Energy Stocks Softer Tuesday Afternoon
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=817ddb4864ef538402079a688cc0693f3dd7262e7bca08789219717cbb3d959d
-Energy stocks edged down Tuesday afternoon, with the NYSE Energy Sector Index easing 0.2% and the En

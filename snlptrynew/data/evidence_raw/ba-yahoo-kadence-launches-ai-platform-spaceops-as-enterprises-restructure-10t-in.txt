@@ -1,5 +1,0 @@
-title: Kadence Launches AI Platform SpaceOps as Enterprises Restructure $10T in Office Real Estate
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=f8fba0ec9063ffa52ca1f7138e58fd6516463e107115cab65b79d0e8641df17d
-Kadence, a workplace operations platform, today announced the launch of Kadence SpaceOps: an AI-powered product built to help enterprises model, test, and execute space decisions with confidence and unprecedented speed.

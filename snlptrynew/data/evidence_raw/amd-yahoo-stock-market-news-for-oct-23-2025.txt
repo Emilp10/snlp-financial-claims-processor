@@ -1,5 +1,0 @@
-title: Stock Market News for Oct 23, 2025
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=793b0e240a7335b163006bb39f1ec95a29c04a9bc00349eea9d8e466b956208d
-Wall Street closed lower on Wednesday, pulled down by tech and industrial stocks.

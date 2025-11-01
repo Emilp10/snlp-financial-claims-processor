@@ -1,5 +1,0 @@
-title: Strong Bank Earnings Push S&P 500 Higher
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=5f49fbc365f219f5d666d7887e328d604ad0b650fcf845713c28f209ac8e92f2
-Morgan Stanley  shares jumped 4.7% after better-than-expected results, while  Bank of America  similarly vaulted 4.4% higher.  Perhaps just as important for Wall Street, America’s most powerful financiers said U.S. consumers and businesses are continuing to spend despite concerns the Trump administration’s agenda could slow the economy, boost inflation, or both.  Morgan Stanley Chief Executive  Ted Pick  described the backdrop in an earnings call as one in which “macro uncertainty and enormous opportunity uncomfortably coexist.”

@@ -1,5 +1,0 @@
-title: Stock Market Today: AmEx rises as stocks look to regain footing
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=c58c17fdabaec6aeba01210d9e9dc5984e9ff505d919e662332623da958a7f26
-The polite term is that stocks are mixed Friday. It means this for now: The Dow Jones Industrial Average is higher, thanks in part to gains for American Express, pushing toward a 4% gain, because its core customers — the affluent — are doing what they do: They're continuing to spend. ...

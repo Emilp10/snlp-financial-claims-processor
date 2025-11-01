@@ -1,5 +1,0 @@
-title: Strong Day for Market Indexes - AAPL at New All-Time High
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=66ed527eca96c09f0c2d650a14bdf42e22d0bb7405d4b3c03f475e0923bd6070
-Apple (AAPL) stock rose +3.94% today to $262 per share -- its highest close ever, and the first such all-time closing high since late 2024.

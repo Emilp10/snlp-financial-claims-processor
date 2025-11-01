@@ -1,5 +1,0 @@
-title: Walmart Accelerates AI Transformation With OpenAI Partnership
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=2a5f6d6caf512568a42b415e6f4328a635ea72938be274371b3a7e7f0140f8cb
-WMT deepens its AI push with an OpenAI partnership, bringing "AI-first shopping" and predictive digital assistants to customers and employees alike.

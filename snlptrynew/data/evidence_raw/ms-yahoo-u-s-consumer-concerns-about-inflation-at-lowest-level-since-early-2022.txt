@@ -1,5 +1,0 @@
-title: U.S. consumer concerns about inflation at lowest level since early 2022: survey
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=a074a955f383a23e4e6d70f6d5a29b9a22085e0c7e70e12cf81009e3ab111b33
-Investing.com -- Consumer concerns about inflation have fallen to their lowest level in nearly three years, according to Morgan Stanley’s latest U.S. Consumer Pulse Survey, even as analysts warn that tariffs could still lead to future price pressures.

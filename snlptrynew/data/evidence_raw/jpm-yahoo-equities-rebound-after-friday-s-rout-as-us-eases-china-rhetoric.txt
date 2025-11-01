@@ -1,5 +1,0 @@
-title: Equities Rebound After Friday's Rout as US Eases China Rhetoric
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=89ec62e65746befb773fc87c40cb5bb8f3e5dd6ef23e836751a7f6d1e762f86b
-US equities rebounded from Friday's selloff amid signs that Washington won't discontinue trade talks

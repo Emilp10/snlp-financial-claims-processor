@@ -1,5 +1,0 @@
-title: MS Stock Hits All-Time High as Capital Markets Drive Q3 Earnings
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=e4745138651a7b1f23e14a261af3d84ac7380942c7ea4991d40db9d6015e9acf
-Morgan Stanley shares hit a record high as surging capital markets, trading gains and wealth management growth power stellar Q3 earnings.

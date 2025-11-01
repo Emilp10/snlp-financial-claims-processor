@@ -1,5 +1,0 @@
-title: The Day Amazon Broke the Internet for Millions of Americans
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=d906f6812397b2f0cd25c12f0b8140753c7efe504fb80cc55b26eb677a89d6ec
-The prolonged outage offered a reminder of the fragility of global internet connectivity and Amazon’s role underpinning much of online infrastructure.

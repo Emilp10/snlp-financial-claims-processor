@@ -1,5 +1,0 @@
-title: Market Chatter: Ford to Recall 625,000 Vehicles in US Over Seatbelts, Rear-View Camera Display
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=a79a05c36e34ba4a0dcaca963d6b3d3f20a8738c5d5715735b5a89dcef88ed44
-Ford (F) is scheduled to recall as many as 625,000 vehicles in the United States due to defects invo

@@ -1,5 +1,0 @@
-title: Parris Javaid, Inc. Acquires DesignLinx Hardware Solutions: Enhancing Parraid’s Product Line with Industry-Leading FPGA Expertise
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=7eef77bd96763c3812b3cd567f0f66bd7c1a7fe853f174a3e246e05c447e99eb
-HOLLYWOOD, Md., October 22, 2025--Parris Javaid, parent company of Parraid, is proud to announce the acquisition of DesignLinx, an award-winning firm known for advanced FPGA design.

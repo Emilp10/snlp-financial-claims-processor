@@ -1,5 +1,0 @@
-title: Jeff Bezos Touts Data Centers In Space As Samsung And OpenAI Plan Floating Data Centers In The Ocean
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=2137725657314398571f76c1b431e007f3c987e5b056660793c7fb1ff2bd6996
-As the artificial intelligence (AI) boom strains global power grids, tech giants are looking to the sea and stars for solutions. In a significant move, Samsung Electronics (OTC:SSNLF) and OpenAI are collaborating to develop floating data centers on ...

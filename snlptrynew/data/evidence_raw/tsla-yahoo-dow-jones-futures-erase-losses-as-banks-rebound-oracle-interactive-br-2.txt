@@ -1,5 +1,0 @@
-title: Dow Jones Futures Erase Losses As Banks Rebound. Oracle, Interactive Brokers Slide.
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=be923b43b7130bd198d4eaa10cfe56b7c1574b540dbca5a0988d324ca0c174ea
-Dow Jones futures turned higher as regional banks tried to bounce. Interactive Brokers and Oracle declined on news.

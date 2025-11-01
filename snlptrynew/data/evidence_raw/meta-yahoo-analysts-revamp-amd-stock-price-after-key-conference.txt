@@ -1,5 +1,0 @@
-title: Analysts revamp AMD stock price after key conference
-source: Yahoo
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=7d4e6685b66bb6ad5eb80f9ea7b3c8bed02a61ce817eee3b7286c15038ea23c2
-AMD has been quite busy this month. It first revealed its agreement with OpenAI for 6 gigawatts of power for OpenAI's AI infrastructure across multiple generations of AMD Instinct GPUs. This agreement also included AMD issuing OpenAI a warrant for up to 160 million shares of AMD common stock, ...

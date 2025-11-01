@@ -1,5 +1,0 @@
-title: The $20B Liquidation That Just Shattered Crypto's Pumptober Dreams—And Why This Wasn't Just Bad Luck
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=e157afc1696d3b93dc9d0c8bd9ce94cc9ede0e55368a4a42d22ada04d1373cfb
-The cryptocurrency market just experienced what traders are calling the worst liquidation event in history—a flash crash so severe it made the FTX collapse look tame by comparison, wiping out over $20 billion in leveraged positions and leaving retail ...

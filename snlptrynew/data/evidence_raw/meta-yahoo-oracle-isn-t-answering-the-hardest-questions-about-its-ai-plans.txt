@@ -1,5 +1,0 @@
-title: Oracle Isn’t Answering the Hardest Questions About Its AI Plans
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=0f17d5e9b0c9c093a21b5497fef4df623eabcd645a4a36b816788e62de14172b
-The software giant has boosted its long-term financial targets, but paying for an artificial-intelligence build-out is seen stretching company resources.

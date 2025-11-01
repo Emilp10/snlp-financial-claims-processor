@@ -1,5 +1,0 @@
-title: The 5 Most Interesting Analyst Questions From Morgan Stanley’s Q3 Earnings Call
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=de8e88f47d73325f66e6d5471c406ba50913cfc4e69f8af04507bcc67541798c
-Morgan Stanley’s third quarter was marked by robust performance across its core businesses, with revenues and earnings surpassing Wall Street expectations and the market responding positively. Management attributed the outperformance to strong execution within its integrated platform, citing momentum in both institutional securities and wealth management. CEO Ted Pick highlighted the firm’s “capital markets flywheel,” referencing renewed client engagement and increased activity in investment ban

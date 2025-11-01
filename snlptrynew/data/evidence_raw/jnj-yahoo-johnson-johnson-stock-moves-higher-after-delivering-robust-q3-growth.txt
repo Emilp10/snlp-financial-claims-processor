@@ -1,5 +1,0 @@
-title: Johnson & Johnson Stock Moves Higher After Delivering Robust Q3 Growth
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=6d7151d10a48d02c3f62b574139d14ba4f6f44f4eb0c1bf571f23a3196687721
-Johnson & Johnson Impresses Wall Street With Q3 Beat And Confident 2025 Outlook

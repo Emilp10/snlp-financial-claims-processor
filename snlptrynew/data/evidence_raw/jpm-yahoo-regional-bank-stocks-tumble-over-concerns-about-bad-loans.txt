@@ -1,5 +1,0 @@
-title: Regional Bank Stocks Tumble Over Concerns About Bad Loans
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d55d9de924de9ebdf85ea58c6fd6bb544e2bbed4e5bb748f2dd1c9e1148e3a51
-Regional bank shares tank as Zions and Western Alliance reveal loan losses and fraud cases, reigniting fears over credit quality and sector stability.

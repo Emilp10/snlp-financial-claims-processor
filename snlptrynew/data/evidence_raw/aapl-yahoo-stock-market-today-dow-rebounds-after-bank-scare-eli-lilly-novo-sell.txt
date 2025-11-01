@@ -1,5 +1,0 @@
-title: Stock Market Today: Dow Rebounds After Bank Scare; Eli Lilly, Novo Sell Off On Trump Comments (Live Coverage)
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=22ca20fb9126279eb9076ab9e1982c538f6c3b087af1c62912b7e6a6d423efa4
-Stock Market Today: The Dow Jones index rose Friday amid bank fears. Eli Lilly and Novo Nordisk tumbled on Trump comments.

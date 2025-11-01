@@ -1,5 +1,0 @@
-title: Lenovo Unlocks New Level of Productivity and Creativity with Copilot+ PCs Powered by AMD Ryzen™ AI Processors
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=8b4974e11f05e9296592ea874803546a95f2866b75f01f289406904422439e20
-MORRISVILLE, N.C., October 21, 2025--Lenovo™ unveiled its new generation of ThinkCentre™ desktop next-gen AI PCs powered by AMD Ryzen™ AI 300 Series processors with up to 50 TOPS of integrated NPU capability: the streamlined ThinkCentre neo 55a Gen 6 all-in-one (AIO), the small form factor ThinkCentre neo 55s Gen 6, and the tiny ThinkCentre neo 55q Gen 6. Designed for small and medium-sized businesses looking to supercharge their productivity with AI, the ThinkCentre neo Gen 6 desktop family off

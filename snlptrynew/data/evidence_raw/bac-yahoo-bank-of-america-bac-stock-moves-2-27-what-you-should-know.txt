@@ -1,5 +1,0 @@
-title: Bank of America (BAC) Stock Moves -2.27%: What You Should Know
-source: Yahoo
-date: 2025-10-10
-url: https://finnhub.io/api/news?id=1060bf84e80302f263bc8bdb3f59ff97411de1cbd258cd0fab457f625ef4dd8a
-Bank of America (BAC) closed the most recent trading day at $48.66, moving 2.27% from the previous trading session.

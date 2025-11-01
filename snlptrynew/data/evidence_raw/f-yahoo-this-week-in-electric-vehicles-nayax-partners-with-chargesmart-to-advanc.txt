@@ -1,5 +1,0 @@
-title: This Week In Electric Vehicles - Nayax Partners With ChargeSmart To Advance Payment Solutions
-source: Yahoo
-date: 2025-10-08
-url: https://finnhub.io/api/news?id=080b39b66a59c217cf18c490fddf83c6ada78928475e0800fab3a0ee693ed2d4
-Nayax Ltd. has announced a strategic partnership with ChargeSmart EV, one of the rapidly expanding EV charging networks in the United States, to enhance accessibility and convenience in EV charging infrastructure. This collaboration designates Nayax as ChargeSmart's preferred provider of cashless payment solutions, involving a long-term agreement to roll out numerous new DC fast chargers. Additionally, the partnership aims to deliver a seamless omnichannel payment experience by integrating...

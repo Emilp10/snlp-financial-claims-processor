@@ -1,5 +1,0 @@
-title: Amazon Says Web Services Have Largely Been Restored
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=e51b8e4ffb8e510e5aedac09bc268436ce10a31c745569b8438ba173629c7ac6
-The far-reaching outage disrupted services from retailers to airlines, social-media apps, financial-services companies and more.

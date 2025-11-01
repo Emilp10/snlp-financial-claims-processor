@@ -1,5 +1,0 @@
-title: Greentown Labs Announces Go Build 2026 with Amazon, in Collaboration with the Global CO₂ Initiative
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=13a5c9b13cc8a3cea9fd5b135bf3efcced69b73c7ecff7b51727f23243cf617b
-Greentown Labs, the world's largest climatetech and energy incubator, today announced Greentown Go Build 2026—an open-innovation program with Amazon and the Global CO₂ Initiative (GCI) at the University of Michigan aimed at accelerating collaborations with startups in the field of CO₂ utilization.

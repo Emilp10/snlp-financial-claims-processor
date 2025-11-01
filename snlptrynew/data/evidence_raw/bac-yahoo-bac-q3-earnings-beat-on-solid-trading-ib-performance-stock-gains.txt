@@ -1,5 +1,0 @@
-title: BAC Q3 Earnings Beat on Solid Trading & IB Performance, Stock Gains
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=6687c0e412f681a8b0a118693f96af2b669518888b17ac40dd14dc9b4a10d6f5
-Bank of America posts strong Q3 results, with EPS of $1.06, fueled by trading gains, IB fee growth and higher NII.

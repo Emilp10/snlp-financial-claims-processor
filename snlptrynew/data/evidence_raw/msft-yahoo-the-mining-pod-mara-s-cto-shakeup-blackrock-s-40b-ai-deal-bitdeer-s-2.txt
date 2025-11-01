@@ -1,5 +1,0 @@
-title: THE MINING POD: MARA’s CTO Shakeup, BlackRock’s $40B AI Deal, Bitdeer’s $2B AI Plans, Ionic Digital’s Microsoft Deal
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=d612d3727be882bb91c55b8ca7c6160c970028a4ee6da1ee4916aaab0705dacf
-In a packed week for bitcoin mining news, MARA has dismissed its CTO, BlackRock cooks up a $40 billion data center firm acquisition, and Bitdeer unveils its $2 billion AI ambitions.

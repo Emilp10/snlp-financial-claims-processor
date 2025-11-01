@@ -1,5 +1,0 @@
-title: Microsoft Fiscal Q1 Earnings to Benefit From Solidly In-Line Azure Activity, BofA Says
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=93d2e045cf7be2ef0f03fd2660f035815147f2062ea39d5659d14196adc97a9b
-Microsoft's (MSFT) fiscal Q1 results on Oct. 28 will likely benefit from "solidly" in-line Azure act

@@ -1,5 +1,0 @@
-title: TSMC Earnings Beat Estimates. What That Says About an AI Bubble.
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=586e7e9b9d3dd5161ed200d4eb91820ad370051d996d3612132c74c5b6363545
-Taiwan Semiconductor Manufacturing reported a record quarterly net profit that handily beat expectations.

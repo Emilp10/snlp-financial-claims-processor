@@ -1,5 +1,0 @@
-title: Oil prices rise as Trump says India will stop buying Russian crude
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=5152181b86c3ccfdb15b5c3311f77b6b993158c4d38c8f7b825f1d8a106f1c2b
-Oil rose from a five-month low after the US president said Modi had vowed to halt purchases of Russian barrels.

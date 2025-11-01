@@ -1,5 +1,0 @@
-title: ViiV Healthcare’s CLARITY study shows long-acting cabotegravir more acceptable than lenacapavir injections after a single dose, with 90% preferring cabotegravir
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=032de6595e13193fd86f97bbc714eb158b1af79672fe46d16b9a6291075a618f
-LONDON, October 15, 2025--ViiV Healthcare, the global specialist HIV company majority owned by GSK, with Pfizer and Shionogi as shareholders, today announced data from the phase I CLARITY open-label, crossover study, showing clinically relevant differences in injection site reaction (ISR) acceptability and tolerability, with 69% of HIV-negative adults finding cabotegravir long-acting (CAB LA) injections to be "totally or very acceptable" vs 48% for lenacapavir (LEN) injections. Data presented at

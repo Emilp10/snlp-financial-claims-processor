@@ -1,5 +1,0 @@
-title: Broadcom Stock Investors Just Got Good News From OpenAI -- Is Nvidia Losing Its Edge in AI Chips?
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=b8f767d6fe85194d5fde2b060c9098feae3110b8d82c77d4a316b32eac995d0e
-Broadcom and OpenAI have entered into a multiyear partnership to develop powerful artificial intelligence (AI) systems with custom accelerators.

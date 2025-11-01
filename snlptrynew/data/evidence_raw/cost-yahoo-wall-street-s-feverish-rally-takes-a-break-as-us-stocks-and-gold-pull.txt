@@ -1,5 +1,0 @@
-title: Wall Street's feverish rally takes a break as US stocks and gold pull back from their records
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=5a10bff29be615cc5aec5a7380dae901f7bfb82408b2a8b31bbd2b7b9259ceb4
-Wall Street took a pause on Thursday as U.S. stocks and even the price of gold pulled back from record highs following torrid runs.  The S&P 500 slipped 0.3% from its latest all-time high for just its second loss in the last 10 days.  The Dow Jones Industrial Average dropped 243 points, or 0.5%, and the Nasdaq composite edged down by 0.1%.

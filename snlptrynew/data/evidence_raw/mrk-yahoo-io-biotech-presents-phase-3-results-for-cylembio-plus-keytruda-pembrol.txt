@@ -1,5 +1,0 @@
-title: IO Biotech Presents Phase 3 Results for Cylembio® plus KEYTRUDA® (pembrolizumab) in First-line Advanced Melanoma at ESMO 2025
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=096f8f797707df7013cc93bcdf7b1f67df49521ee2aa093aeb1ab206db379e90
-Cylembio plus pembrolizumab achieved a clinically relevant 19.4 months median progression free survival (mPFS) compared to 11.0 months mPFS with pembrolizumab alone; study narrowly missed progression free survival (PFS) primary endpoint for statistical significance Improvement in PFS favored the combination across virtually all subgroups, notably in patients with PD-L1-negative tumors, BRAFV600-mutated tumors, and elevated LDH, without adding any systemic toxicity compared to pembrolizumab alone

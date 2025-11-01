@@ -1,5 +1,0 @@
-title: Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=d68dd5b84c15181e8d3d93849e1878be137db91b54699a441b1b4b3b7f9d648e
-Markets are assessing Trump's retreat from combative comments on China.

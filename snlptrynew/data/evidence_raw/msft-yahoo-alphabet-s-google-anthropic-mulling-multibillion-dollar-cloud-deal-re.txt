@@ -1,5 +1,0 @@
-title: Alphabet's Google, Anthropic Mulling Multibillion-Dollar Cloud Deal, Report Says
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=3f2b5ea28659dc8a6b2c2b4e036631c6056077d81ac0371339433131ae493cb5
-Google is reportedly in talks with Anthropic for a cloud computing deal worth tens of billions of dollars.

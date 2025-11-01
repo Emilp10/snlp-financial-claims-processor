@@ -1,5 +1,0 @@
-title: Costco Stock Today: This Bear Put Spread Could Earn Up To $1,300 By November
-source: Yahoo
-date: 2025-10-06
-url: https://finnhub.io/api/news?id=d1c026b263657574ea74858f3758ea153037602824833461763a5b64f0dfc9eb
-Shares of Costco Wholesale have lost their shine this year.  On Monday, Costco stock traded down 1% for the year while the S&P 500 has climbed nearly 15%.  Investors who expect further weakness in Costco stock can use an options bear put spread to express this view.

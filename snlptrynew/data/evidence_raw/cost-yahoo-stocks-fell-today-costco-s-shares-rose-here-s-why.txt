@@ -1,5 +1,0 @@
-title: Stocks Fell Today. Costco's Shares Rose. Here's Why.
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=44d57f45ae6e7862b8dd941bdb1b5cffdcc2226bdb787b4fd36cd3fbae6b89cb
-Retail giant Costco reported September sales showing a rise a bit less upbeat than it reported a year ago. The stock rose anyway.

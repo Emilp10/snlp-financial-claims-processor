@@ -1,5 +1,0 @@
-title: OpenAI launches web browser to compete with Google Chrome
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=f65283834cb1ebff2886927b6d0cabd33c630c0b3ddb8f31993ac08093f0b314
-OpenAI said Tuesday it is introducing its own web browser, Atlas, putting the ChatGPT maker in direct competition with Google as more internet users rely on artificial intelligence to answer their questions.  OpenAI said Atlas launches Tuesday on Apple laptops and will later come to Microsoft’s Windows, Apple’s iOS phone operating system and Google’s Android phone system.  OpenAI CEO Sam Altman called it a “rare, once-a-decade opportunity to rethink what a browser can be about and how to use one.”

@@ -1,5 +1,0 @@
-title: Zacks Industry Outlook Highlights Akebia Therapeutics, Ironwood Pharmaceuticals, Pyxis Oncology, Cardiol Therapeutics and Plus Therapeutics
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=30f2869052df3e0b7600e734ae742e2318f3c0b97ae13a3fcc5d661431af3bb6
-Small-cap biotech momentum surges as AKBA, IRWD, PYXS, CRDL, and PSTV gain on pipeline progress and sector recovery.

@@ -1,5 +1,0 @@
-title: Does BAC Stock Deserve a Spot in Your Portfolio Ahead of Q3 Earnings?
-source: Yahoo
-date: 2025-10-13
-url: https://finnhub.io/api/news?id=5b6a73364fb28c09341e5f35854d590caca573049c8c87faa3d78f4b4e279175
-Bank of America's Q3 results, slated to be announced on Oct. 15, may show strength in NII, trading and IB, but rising expenses could weigh on gains.

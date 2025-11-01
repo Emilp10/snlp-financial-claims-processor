@@ -1,5 +1,0 @@
-title: How Meta Platform Plans to Win the AI Race
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=72c511ac31c1cb57119204af8ff5a12534f17f4b728cf86518669d510d6c29b0
-Meta isn't just chasing AI hype -- it's laying the tracks for the next decade of computing.

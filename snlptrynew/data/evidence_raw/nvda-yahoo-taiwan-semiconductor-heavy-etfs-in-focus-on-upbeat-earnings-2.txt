@@ -1,5 +1,0 @@
-title: Taiwan Semiconductor-Heavy ETFs in Focus on Upbeat Earnings
-source: Yahoo
-date: 2025-10-17
-url: https://finnhub.io/api/news?id=89058bfba89d60d0aee36c69a6a287975669e736d0b1866dab00e85f9e194cf2
-TSMC's record Q3 profit and upbeat outlook lift AI chip optimism. ETFs like SPWO, SPTE, EMC, WUGI & SMH may ride the momentum.

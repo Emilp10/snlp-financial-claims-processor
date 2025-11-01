@@ -1,5 +1,0 @@
-title: Johnson & Johnson Earnings Beat Estimates. Why the Stock Is Dropping.
-source: Yahoo
-date: 2025-10-14
-url: https://finnhub.io/api/news?id=37f99b90fa6df76efe96e4bfb5786b7fb24f9c238e23a603857d0f7a40cf88bf
-Johnson & Johnson  reported better-than-expected earnings Tuesday, while announcing it would spin off a slower-growing division within its medical devices segment that makes hip and knee implants.  Now, Johnson & Johnson plans to separate that business into a new company that will operate under the name DePuy Synthes.  While sales for Johnson & Johnson’s medical devices division grew 5.6% on an operational basis between the third quarter of 2024 and the third quarter of 2025, orthopaedics sales grew more slowly, up just 2.4% over the same period.

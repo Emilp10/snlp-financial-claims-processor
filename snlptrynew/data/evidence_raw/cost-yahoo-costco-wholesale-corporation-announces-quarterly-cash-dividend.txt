@@ -1,5 +1,0 @@
-title: Costco Wholesale Corporation Announces Quarterly Cash Dividend
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=6b410a05f144dad21474ff62676cebd3509b23fa7b7d3056ee24c72e2cfabc8a
-ISSAQUAH, Wash., Oct. 15, 2025 (GLOBE NEWSWIRE) -- Costco Wholesale Corporation (“Costco” or the “Company”) (Nasdaq: COST) today announced that its Board of Directors has declared a quarterly cash dividend on Costco common stock of $1.30 per share. The quarterly dividend is payable November 14, 2025, to shareholders of record at the close of business on October 31, 2025. Costco currently operates 914 warehouses, including 629 in the United States and Puerto Rico, 110 in Canada, 42 in Mexico, 37

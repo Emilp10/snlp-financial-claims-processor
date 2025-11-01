@@ -1,5 +1,0 @@
-title: Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs
-source: Yahoo
-date: 2025-10-20
-url: https://finnhub.io/api/news?id=d093ac01673b7b1bf23b0923d5eec8f1ffcf35a6ebefb613083f083dd73835d9
-When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.

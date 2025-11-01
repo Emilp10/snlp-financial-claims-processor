@@ -1,5 +1,0 @@
-title: Stocks to Watch Tuesday: GM, GE Aerospace, Fluor, Zions
-source: Yahoo
-date: 2025-10-21
-url: https://finnhub.io/api/news?id=f12af8adc7208f5259cf1a96ffaa19c3690a042b9a2e649379c51b2594b6db10
-↗️ General Motors (GM): GM's quarterly profit sank as the automaker grappled with tariffs and took on costs to shrink its capacity in electric vehicles. But shares jumped premarket after adjusted operating came in at $3.

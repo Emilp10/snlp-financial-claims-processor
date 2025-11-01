@@ -1,5 +1,0 @@
-title: Stocks Muted Before the Open With Earnings Season in Focus
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=ddf2aa0cec9893d5d82e6dd2750cba5a46dfae162e923c140247a436f9989798
-December S&P 500 E-Mini futures (ESZ25) are up +0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.03% this morning, steadying after yesterday’s gains as investors shift their focus to the third-quarter earnings season.

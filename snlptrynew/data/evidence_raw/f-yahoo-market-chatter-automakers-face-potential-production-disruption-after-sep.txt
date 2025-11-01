@@ -1,5 +1,0 @@
-title: Market Chatter: Automakers Face Potential Production Disruption After September Fire at Novelis' Oswego Plant
-source: Yahoo
-date: 2025-10-07
-url: https://finnhub.io/api/news?id=65970d65a05064fb0b8e6bbdba4270cc669da6150b215e4d8f122afa4de8b501
-Automakers like Toyota Motor (TM), Ford Motor (F), and Stellantis (STLA) face potential production d

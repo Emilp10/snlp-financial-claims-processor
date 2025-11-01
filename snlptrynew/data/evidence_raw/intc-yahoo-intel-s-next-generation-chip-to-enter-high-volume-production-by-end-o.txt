@@ -1,5 +1,0 @@
-title: Intel’s Next-Generation Chip to Enter ‘High Volume’ Production by End of Year
-source: Yahoo
-date: 2025-10-09
-url: https://finnhub.io/api/news?id=661f12ff3674ce753588cfb0846eb054ad2b7027149f702e531485ab571c3956
-Intel’s newest chip manufacturing technology is ready to go.  On Thursday, the chip maker announced the first products based on its Panther Lake architecture will enter “high volume” production at Intel’s newest chip factory in Arizona later this year.  The Panther Lake processors will be made on the company’s latest 18A chip manufacturing process.

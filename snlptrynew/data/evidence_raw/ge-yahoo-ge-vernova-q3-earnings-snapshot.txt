@@ -1,5 +1,0 @@
-title: GE Vernova: Q3 Earnings Snapshot
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=1cd44a33faf104a31ecba16f839eda258b94bd3d6bb179c8f9dce7188f8214d3
-The results fell short of Wall Street expectations. The average estimate of seven analysts surveyed by Zacks Investment Research was for earnings of $1.78 per share. The the energy business spun off from General Electric posted revenue of $9.97 billion in the period, exceeding Street forecasts.

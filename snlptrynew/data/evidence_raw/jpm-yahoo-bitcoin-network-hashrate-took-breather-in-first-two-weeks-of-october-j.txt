@@ -1,5 +1,0 @@
-title: Bitcoin Network Hashrate Took Breather in First Two Weeks of October: JPMorgan
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=951cb9a8fcedac2f7440940366aaeedf8ef706bb85b99528095657bea321c825
-The total market cap of the 14 U.S.-listed bitcoin miners that the bank covers rose 41% from the end of last month to a record $79 billion.

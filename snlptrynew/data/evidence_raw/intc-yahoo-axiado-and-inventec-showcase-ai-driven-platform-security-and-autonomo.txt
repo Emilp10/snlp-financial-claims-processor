@@ -1,5 +1,0 @@
-title: Axiado and Inventec Showcase AI-Driven Platform Security and Autonomous System Management for NVIDIA Blackwell and Intel MGX Servers at OCP Global Summit 2025
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=d8ec3abb91b864b3d24ed53ba006da66b6b0143b6269b748e331169052fadee2
-OCP Global Summit 2025 — Axiado Corporation, a leading AI-driven, hardware-anchored platform security and system management solutions company, today announced a collaboration with Inventec, a global innovator in server and storage solutions. At the OCP Global Summit, the companies will demonstrate how Axiado's Trusted Control/Compute Unit (TCU) powers Inventec's NVIDIA Blackwell GB200-based servers and Intel-based MGX 4U CX8 platforms with silicon-anchored trust and autonomous AI intelligence.

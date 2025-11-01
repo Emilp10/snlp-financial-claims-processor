@@ -1,5 +1,0 @@
-title: Earnings live: Tesla stock falls after earnings miss, IBM sinks
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=dfaa6cf3bc8a7f8e4c6cf44e24367dafdecec51dd5d3c93cb7ab543ec79b815f
-Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.

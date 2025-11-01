@@ -1,5 +1,0 @@
-title: Why AMD (AMD) Stock Is Trading Up Today
-source: Yahoo
-date: 2025-10-15
-url: https://finnhub.io/api/news?id=d67ff07d7b6652b8ae51281def63f4704dc791171e99258238842d25235d2ad0
-Shares of computer processor maker AMD (NASDAQ:AMD) jumped 6% in the afternoon session after the stock's positive momentum continued as cloud company Oracle announced plans to use 50,000 of the company's advanced AI chips and multiple analysts raised their price targets.

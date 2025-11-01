@@ -1,5 +1,0 @@
-title: Gold, stocks slide on economic jitters
-source: Yahoo
-date: 2025-10-22
-url: https://finnhub.io/api/news?id=e1204b53a690e95034978320faaa5b5b95a7c4a940f16e422d53302d9448a55f
-Gold prices sank further Wednesday and major stock markets mostly fell on fresh economic jitters caused by China-US trade uncertainty and a batch of weak company earnings.The retreat hit the share prices of gold miners, while individual companies were impacted by earnings updates.

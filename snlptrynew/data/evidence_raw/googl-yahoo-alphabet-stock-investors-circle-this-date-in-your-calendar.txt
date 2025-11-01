@@ -1,5 +1,0 @@
-title: Alphabet Stock Investors: Circle This Date in Your Calendar
-source: Yahoo
-date: 2025-10-16
-url: https://finnhub.io/api/news?id=4125f7eaa4516ad7ba8781a190ec4f6fada18c6c190adff3f6069ece43413272
-Revenue growth recently accelerated in some of Alphabet's core businesses, including Google Search and Google Cloud.

@@ -1,5 +1,0 @@
-title: Google CEO drops bombshell quantum computing breakthrough
-source: Yahoo
-date: 2025-10-23
-url: https://finnhub.io/api/news?id=2f92d405966554367daf74ba1f5b1a60d11685257d69d3034293994d2e4070a0
-The stock market has a new obsession this year, and it’s not just AI. Quantum computing stocks have had a rollicking 2025, becoming arguably the most explosive trades in recent memory. The industry that was once dismissed as science fiction is suddenly producing billion-dollar winners. For ...

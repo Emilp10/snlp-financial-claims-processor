@@ -1,5 +1,0 @@
-title: Crypto Miners Riding the AI Wave Are Leaving Bitcoin Behind
-source: Yahoo
-date: 2025-10-18
-url: https://finnhub.io/api/news?id=5ed007a61725a7271b84626c12555efa36624b0cf9e3cc5ed96cbd8fcbcea283
-Long-ago dubbed miners because of the perceived similarities to the mining of traditional commodities such as gold when creating Bitcoin, the companies have often been at the mercy of the volatile price swings experienced by the token.  Two years ago, the sector benefitted at the initial start of the AI boom, only to see their share prices tumble the following year as mining profitability declined and competition increased.  Unlike during past cycles, when the miners would rally while Bitcoin was gaining, the companies are now being viewed for what they are becoming: tech infrastructure firms.
